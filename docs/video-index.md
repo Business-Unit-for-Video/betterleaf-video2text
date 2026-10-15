@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 53，待转写 532，失败待处理 1，文件不完整 0。
+共 586 条：已转写 54，待转写 531，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -62,7 +62,7 @@
 | [川普提前換掉鮑威爾？聯準會獨立性面臨史上最大危機！美股還能投資嗎？好葉智能選股APP](https://www.youtube.com/watch?v=N-bn1VKj9VE) | 17:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_N-bn1VKj9VE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_N-bn1VKj9VE.txt) |
 | [第一個 $10,000 將徹底扭轉你的人生？世界會對你不一樣！](https://www.youtube.com/watch?v=X8UyaE2GhI4) | 17:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_X8UyaE2GhI4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_X8UyaE2GhI4.txt) |
 | [美債要爆？穩定幣正悄悄「撐起美國」！暴漲的Circle還能投資嗎？](https://www.youtube.com/watch?v=dazxDAveybw) | 16:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dazxDAveybw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dazxDAveybw.txt) |
-| [貨幣貶值、隱形量化寬鬆來襲，這樣做才能保住自己的財富！](https://www.youtube.com/watch?v=aRwT1OS3kjo) | 13:53 | 待转写 | — | — |
+| [貨幣貶值、隱形量化寬鬆來襲，這樣做才能保住自己的財富！](https://www.youtube.com/watch?v=aRwT1OS3kjo) | 13:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_aRwT1OS3kjo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_aRwT1OS3kjo.txt) |
 | [8大投資迷思，擊敗90%的投資者！普通人的投資致富真相 \| 好葉](https://www.youtube.com/watch?v=uoqomIvP0Fc) | 11:05 | 待转写 | — | — |
 | [7個富人思維，從月光族一步步變身千萬富翁!](https://www.youtube.com/watch?v=W-jBT3RBfFo) | 21:23 | 待转写 | — | — |
 | [你的年龄應該存多少錢？20-60歲財富目標大公開，如何有效積累財富 \| 好葉](https://www.youtube.com/watch?v=d1pu07s3ZVc) | 14:09 | 待转写 | — | — |
