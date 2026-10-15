@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 42，待转写 543，失败待处理 1，文件不完整 0。
+共 586 条：已转写 43，待转写 542，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -51,7 +51,7 @@
 | [如果你中了樂透，會發生什麼事？ 一個錯誤決定，讓你從天堂到地獄！](https://www.youtube.com/watch?v=3m_MFaldviY) | 12:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_3m_MFaldviY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_3m_MFaldviY.txt) |
 | [如何在10年後創造1000%的人生差距？窮人和富人的分水嶺 \| 複利效應](https://www.youtube.com/watch?v=OdX8q_JuGvk) | 16:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OdX8q_JuGvk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OdX8q_JuGvk.txt) |
 | [為什麼「太聰明」，卻成了你致富的最大障礙？](https://www.youtube.com/watch?v=g43RgQfXp-Q) | 17:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_g43RgQfXp-Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_g43RgQfXp-Q.txt) |
-| [想走向財務自由？只需短短六週！《我教你變有錢人》](https://www.youtube.com/watch?v=497VPwVgc38) | 17:46 | 待转写 | — | — |
+| [想走向財務自由？只需短短六週！《我教你變有錢人》](https://www.youtube.com/watch?v=497VPwVgc38) | 17:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_497VPwVgc38.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_497VPwVgc38.txt) |
 | [學校從不教，卻決定你貧富的「理財底層邏輯」！看懂了，薪水再低也能變有錢](https://www.youtube.com/watch?v=cAAybY86tiw) | 14:08 | 待转写 | — | — |
 | [別再說你投資總虧錢了！你只是不知道這7大關鍵點！](https://www.youtube.com/watch?v=218_-Jikn2U) | 13:45 | 待转写 | — | — |
 | [一個家庭主婦，如何靠「逛超市」擊敗華爾街頂尖操盤手？](https://www.youtube.com/watch?v=BvqesTOF9GA) | 8:36 | 待转写 | — | — |
