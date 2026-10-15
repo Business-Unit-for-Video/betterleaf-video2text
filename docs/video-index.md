@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 18，待转写 568，失败待处理 0，文件不完整 0。
+共 586 条：已转写 19，待转写 567，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -26,7 +26,7 @@
 | [為什麼越努力賺錢，反而越不快樂？｜好葉](https://www.youtube.com/watch?v=pbROnB_MGFs) | 12:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_pbROnB_MGFs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_pbROnB_MGFs.txt) |
 | [真正的致富藍圖，藏在這4部電影裡！從存錢、投資到副業，解密普通人翻身的財富路線 \| 好葉](https://www.youtube.com/watch?v=8nosNu6TYjE) | 12:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8nosNu6TYjE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8nosNu6TYjE.txt) |
 | [傳統的「慢慢變富」早就過時了！解密「新慢富思維」：一套讓你一邊變富一邊享受人生的理財策略 \| 好葉](https://www.youtube.com/watch?v=HqZ8Pa3oT-I) | 16:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HqZ8Pa3oT-I.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HqZ8Pa3oT-I.txt) |
-| [窮與富的心理差距：掌握「正念理財」，讓財富主動找上你 \| 好葉](https://www.youtube.com/watch?v=vxj6MFOSYt0) | 12:23 | 待转写 | — | — |
+| [窮與富的心理差距：掌握「正念理財」，讓財富主動找上你 \| 好葉](https://www.youtube.com/watch?v=vxj6MFOSYt0) | 12:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vxj6MFOSYt0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vxj6MFOSYt0.txt) |
 | [決定你貧富的 6 個貧窮潛意識：別讓腦袋限制口袋 \| 好葉](https://www.youtube.com/watch?v=VT1EbpIW5Iw) | 14:58 | 待转写 | — | — |
 | [真正的財富是「看不見」的！解密「安靜致富」：一套讓你擺脫工作束縛的隱形策略 \| 好葉](https://www.youtube.com/watch?v=-ayusTKDOVw) | 16:24 | 待转写 | — | — |
 | [如果你是家裡第一個投資的人，能否避開這 3 個坑，決定你能不能打破家族循環](https://www.youtube.com/watch?v=0bSF5NDCdEE) | 14:21 | 待转写 | — | — |
