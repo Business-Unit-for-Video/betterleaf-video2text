@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 37，待转写 548，失败待处理 1，文件不完整 0。
+共 586 条：已转写 38，待转写 547，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -46,7 +46,7 @@
 | [3個月財富增長超越99%的人！TRM法則讓你的錢自動翻倍](https://www.youtube.com/watch?v=24NngMEoagk) | 17:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_24NngMEoagk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_24NngMEoagk.txt) |
 | [停止窮忙！想成為百萬富翁（美金），你只需要盯緊這4個「致富數字」](https://www.youtube.com/watch?v=o2PZmuEm01Q) | 16:53 | 失败待处理 | — | — |
 | [「穩定」是這時代最大的謊言：別讓一份薪水，鎖死你的一生！【好葉】](https://www.youtube.com/watch?v=GVcAdCgDQVo) | 14:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_GVcAdCgDQVo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_GVcAdCgDQVo.txt) |
-| [股市崩盤來了？！ 美股到底還能不能投？](https://www.youtube.com/watch?v=Xymh9OBDQE8) | 20:22 | 待转写 | — | — |
+| [股市崩盤來了？！ 美股到底還能不能投？](https://www.youtube.com/watch?v=Xymh9OBDQE8) | 20:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xymh9OBDQE8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xymh9OBDQE8.txt) |
 | [我如何從家境貧窮到收入百萬？顛覆你認知的四大致富底層定律](https://www.youtube.com/watch?v=1RZsf3IW3gY) | 19:32 | 待转写 | — | — |
 | [如果你中了樂透，會發生什麼事？ 一個錯誤決定，讓你從天堂到地獄！](https://www.youtube.com/watch?v=3m_MFaldviY) | 12:34 | 待转写 | — | — |
 | [如何在10年後創造1000%的人生差距？窮人和富人的分水嶺 \| 複利效應](https://www.youtube.com/watch?v=OdX8q_JuGvk) | 16:50 | 待转写 | — | — |
