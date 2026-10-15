@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 9，待转写 577，失败待处理 0，文件不完整 0。
+共 586 条：已转写 10，待转写 576，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -17,7 +17,7 @@
 | [為什麼聰明投資人也會慘敗？這5個錯誤，會讓你提前出局｜《投資贏在不犯錯》 解讀](https://www.youtube.com/watch?v=fAinY_2zpk0) | 17:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_fAinY_2zpk0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_fAinY_2zpk0.txt) |
 | [如何花錢，才能越花越富足？這4個問題，會顛覆你的金錢觀 \| 《花錢的藝術》解讀](https://www.youtube.com/watch?v=7n4S127RuFY) | 14:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7n4S127RuFY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7n4S127RuFY.txt) |
 | [普通人只靠一份薪水，卻能累積到100萬美元！一個故事帶你體驗普通人的百萬美元之旅](https://www.youtube.com/watch?v=ENSTaXLy-L0) | 17:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ENSTaXLy-L0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ENSTaXLy-L0.txt) |
-| [6層財富階梯：你現在站在哪一層？難怪有些理財建議不適合你 \| 《財富階梯》解讀](https://www.youtube.com/watch?v=mmT-1bkUFPA) | 17:53 | 待转写 | — | — |
+| [6層財富階梯：你現在站在哪一層？難怪有些理財建議不適合你 \| 《財富階梯》解讀](https://www.youtube.com/watch?v=mmT-1bkUFPA) | 17:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mmT-1bkUFPA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mmT-1bkUFPA.txt) |
 | [別再亂下人生訂單！想變有錢，先改掉你的口頭禪！《從負債2000萬到心想事成每一天》](https://www.youtube.com/watch?v=DNUSFtoAnhE) | 16:19 | 待转写 | — | — |
 | [【沉浸式體驗】如果你每月定投100美金，40年後人生會怎麼樣？一個故事帶你體驗複利人生](https://www.youtube.com/watch?v=IQU9OqXsSEw) | 18:10 | 待转写 | — | — |
 | [炒股免本金？一個故事揭開「無本當沖」的暴富陷阱，散戶必看的真實血淚史！](https://www.youtube.com/watch?v=ga3bajXZdOY) | 11:40 | 待转写 | — | — |
