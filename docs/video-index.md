@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 6，待转写 580，失败待处理 0，文件不完整 0。
+共 586 条：已转写 7，待转写 579，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -14,7 +14,7 @@
 | [把石油變成全球最大的「國家隊」基金！挪威主權基金，如何投資？](https://www.youtube.com/watch?v=S9csqkRWqLc) | 18:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_S9csqkRWqLc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_S9csqkRWqLc.txt) |
 | [常年收益29%，連續13年！彼得 · 林區教你如何《戰勝華爾街》](https://www.youtube.com/watch?v=Gy8N9OhjaC4) | 18:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Gy8N9OhjaC4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Gy8N9OhjaC4.txt) |
 | [為什麼你一次次存到錢，但人生總能把你打回原點？你缺的，可能是「不易碎財富」！](https://www.youtube.com/watch?v=PjK7gYesZLU) | 16:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_PjK7gYesZLU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_PjK7gYesZLU.txt) |
-| [為什麼聰明投資人也會慘敗？這5個錯誤，會讓你提前出局｜《投資贏在不犯錯》 解讀](https://www.youtube.com/watch?v=fAinY_2zpk0) | 17:43 | 待转写 | — | — |
+| [為什麼聰明投資人也會慘敗？這5個錯誤，會讓你提前出局｜《投資贏在不犯錯》 解讀](https://www.youtube.com/watch?v=fAinY_2zpk0) | 17:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_fAinY_2zpk0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_fAinY_2zpk0.txt) |
 | [如何花錢，才能越花越富足？這4個問題，會顛覆你的金錢觀 \| 《花錢的藝術》解讀](https://www.youtube.com/watch?v=7n4S127RuFY) | 14:15 | 待转写 | — | — |
 | [普通人只靠一份薪水，卻能累積到100萬美元！一個故事帶你體驗普通人的百萬美元之旅](https://www.youtube.com/watch?v=ENSTaXLy-L0) | 17:15 | 待转写 | — | — |
 | [6層財富階梯：你現在站在哪一層？難怪有些理財建議不適合你 \| 《財富階梯》解讀](https://www.youtube.com/watch?v=mmT-1bkUFPA) | 17:53 | 待转写 | — | — |
