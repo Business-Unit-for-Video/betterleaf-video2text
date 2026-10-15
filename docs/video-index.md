@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 80，待转写 505，失败待处理 1，文件不完整 0。
+共 586 条：已转写 81，待转写 504，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -89,7 +89,7 @@
 | [最強懶人投資法，一次學會3種坐收財富的被動收入方法！讓你財富自動增長！ 6大高投資法 Part 2](https://www.youtube.com/watch?v=jZtTZi111yg) | 13:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jZtTZi111yg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jZtTZi111yg.txt) |
 | [6個高回報投資方法大公開！總有一種適合你！【附贈課程】 Part 1](https://www.youtube.com/watch?v=ONXx3Zv51wg) | 14:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ONXx3Zv51wg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ONXx3Zv51wg.txt) |
 | [主權基金、星際之門、富豪內閣：揭秘川普的經濟大棋局！](https://www.youtube.com/watch?v=eMp2DxO3_RE) | 19:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_eMp2DxO3_RE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_eMp2DxO3_RE.txt) |
-| [2025年最強網絡賺錢攻略！8大方法讓你在家就能賺!【附贈高價課】](https://www.youtube.com/watch?v=59e28acKQp4) | 24:14 | 待转写 | — | — |
+| [2025年最強網絡賺錢攻略！8大方法讓你在家就能賺!【附贈高價課】](https://www.youtube.com/watch?v=59e28acKQp4) | 24:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_59e28acKQp4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_59e28acKQp4.txt) |
 | [19歲就掌控政府系統！揭秘馬斯克的DOGE天才少年團隊](https://www.youtube.com/watch?v=yk9G0Fkm8R0) | 19:05 | 待转写 | — | — |
 | [Deepseek重擊美股市場！蒸餾技術成本真那麼低？中國AI震撼全球！面對這場衝擊，投資者該如何做準備？](https://www.youtube.com/watch?v=ZUGvRACXNEw) | 24:10 | 待转写 | — | — |
 | [川普2.0強勢回歸！美國的黃金時代即將開啟！投資者如何把握機會](https://www.youtube.com/watch?v=jZpVNrW3GjA) | 21:25 | 待转写 | — | — |
