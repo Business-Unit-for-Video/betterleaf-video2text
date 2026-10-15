@@ -540,57 +540,57 @@
 | [你不必討好全世界：讓你活出高能量狀態的四大心法](https://www.youtube.com/watch?v=l6tCj95fwz4) | 80:12 | 待转写 | — | — |
 | [川普關稅砸盤，股市暴跌！投者的應對策略](https://www.youtube.com/watch?v=8KvXZhEE_v0) | 70:23 | 待转写 | — | — |
 | [一起回顧你的2022，為新的一年設定年度目標！](https://www.youtube.com/watch?v=Zn0OM1uH-68) | 89:56 | 待转写 | — | — |
-| [24小時自動成交的AI，太離譜了～現在還能領取我的AI客服哦！ #好葉 #AI #行銷工具 #客服](https://www.youtube.com/shorts/K9q52pquzng) | 未知 | 待转写 | — | — |
-| [經濟學家最恐懼的惡夢，停滯性通脹來了?!點擊評論區連結，就能參加「五天覺醒挑戰」了～ #好葉 #財務自由 #通貨膨脹 #停滯性通脹](https://www.youtube.com/shorts/UTOP7VlaGUQ) | 未知 | 待转写 | — | — |
-| [你的年齡，該有多少錢才算及格？亞洲的朋友，可以適當把標準降低30%喔！ #財務自由 #好葉 #資產 #財富 #財富數據](https://www.youtube.com/shorts/u96OFVLNJqo) | 未知 | 待转写 | — | — |
-| [2025投資成績-現代價值實戰班 #好葉 #投資理財 #美股赚钱](https://www.youtube.com/shorts/yaoCr1iMTXk) | 未知 | 待转写 | — | — |
-| [現代價值實戰班 - 年終優惠招生！ #好葉 #投資理財 #被動收入](https://www.youtube.com/shorts/u8Jfi7D2_8U) | 未知 | 待转写 | — | — |
-| [🇫🇷A song + a France travel vlog. I even used AI to create a song for the video. What do you all t...](https://www.youtube.com/shorts/oWVvKL8u04M) | 未知 | 待转写 | — | — |
-| [A 31-year-old online entrepreneur, currently traveling in Belgium 🇧🇪, left a message saying "onli...](https://www.youtube.com/shorts/aSoIyJ-0Xi0) | 未知 | 待转写 | — | — |
-| [31-year-old online entrepreneur, traveling in the Netherlands 🇳🇱 #money #investment #onlineentrep...](https://www.youtube.com/shorts/D0zZM6KsuI0) | 未知 | 待转写 | — | — |
-| [如何把粉絲，真正轉化成收入？](https://www.youtube.com/shorts/euEDowjh_gE) | 未知 | 待转写 | — | — |
-| [我虧了幾百萬，換來了這個教訓...](https://www.youtube.com/shorts/rBhOLFL8MOs) | 未知 | 待转写 | — | — |
-| [我如何從被平台綁架，到建立百萬美金的事業](https://www.youtube.com/shorts/XkvASkV2y5Y) | 未知 | 待转写 | — | — |
-| [31歲前，我最不後悔的決定：開始投資！](https://www.youtube.com/shorts/id1_zxTVpVM) | 未知 | 待转写 | — | — |
-| [留言「預購」，我就會把鏈接發給你～ #好葉 #投資App](https://www.youtube.com/shorts/_t_5JeIOrJc) | 未知 | 待转写 | — | — |
-| [按照你目前的歲數，應該要有多少錢？](https://www.youtube.com/shorts/6cLqL2COwgY) | 未知 | 待转写 | — | — |
-| [第三篇：美元貶值還投美股？我的投資策略](https://www.youtube.com/shorts/lcYYWu4gvDo) | 未知 | 待转写 | — | — |
-| [第二篇：股市大漲、經濟悲觀美國冰火兩重天](https://www.youtube.com/shorts/wgOlM7qX-jc) | 未知 | 待转写 | — | — |
-| [第一篇：美債降級？別慌！這不是第一次](https://www.youtube.com/shorts/zMvA_EBBVeM) | 未知 | 待转写 | — | — |
-| [現金流象限：你的財富轉折點](https://www.youtube.com/shorts/HGGt-LXiUD0) | 未知 | 待转写 | — | — |
-| [為什麼別人的運氣比你好？](https://www.youtube.com/shorts/6ET5Ib-8dwA) | 未知 | 待转写 | — | — |
-| [吸引力法則的迷思：科學告訴我們的真相](https://www.youtube.com/shorts/8XPfLjfgTQ0) | 未知 | 待转写 | — | — |
-| [正確的消費方式：如何把錢花在重要的地方](https://www.youtube.com/shorts/rlkaATZna0A) | 未知 | 待转写 | — | — |
-| [財富槓桿：普通人如何從零到財富自由](https://www.youtube.com/shorts/gnPiXErunYk) | 未知 | 待转写 | — | — |
-| [不幸就是最大的幸運](https://www.youtube.com/shorts/jrXIycDLoI8) | 未知 | 待转写 | — | — |
-| [2025美股開局。。哪裡的公園WiFi？ #娛樂一下 #股市崩盤 #美股](https://www.youtube.com/shorts/cE_sgMPVsu4) | 未知 | 待转写 | — | — |
-| [【財富密碼】政府改革引爆股市！投資者該如何應對？](https://www.youtube.com/shorts/JCkHifKGppI) | 未知 | 待转写 | — | — |
-| [【內幕】一夜之間！馬斯克如何摧毀60年老機構？](https://www.youtube.com/shorts/YH3jppdLhuU) | 未知 | 待转写 | — | — |
-| [【震撼】19歲就管理美國政府！政府效率部的6位天才少年](https://www.youtube.com/shorts/K15FPQDCBu4) | 未知 | 待转写 | — | — |
-| [F.I.R.E 是如何讓你越存越窮的？](https://www.youtube.com/shorts/ZJr7XIQR8wE) | 未知 | 待转写 | — | — |
-| [從0到500萬元財富積累經歷分享](https://www.youtube.com/shorts/1vbl9JduwV4) | 未知 | 待转写 | — | — |
-| [7個低門檻被動收入](https://www.youtube.com/shorts/zAF3eJfGigE) | 未知 | 待转写 | — | — |
-| [新家開箱: RM1,600,000 (約1千萬台幣)](https://www.youtube.com/shorts/zMsTbZjB7E4) | 未知 | 待转写 | — | — |
-| [半途而廢的我學會的5件事](https://www.youtube.com/shorts/p0ZRNCK04cI) | 未知 | 待转写 | — | — |
-| [13個理財法則，從月光族到財富自由](https://www.youtube.com/shorts/4ZgEGokOvRA) | 未知 | 待转写 | — | — |
-| [4大方法擺脫憂鬱症](https://www.youtube.com/shorts/N81XszyyhYE) | 未知 | 待转写 | — | — |
-| [大學你應該做的5件事](https://www.youtube.com/shorts/Ypr2aZwZWt4) | 未知 | 待转写 | — | — |
-| [從咖啡小偷到百億咖啡帝國](https://www.youtube.com/shorts/PBfOmO8XREU) | 未知 | 待转写 | — | — |
-| [為什麼經濟蕭條時，富人變得更富了 #好葉 #經濟 #富人](https://www.youtube.com/shorts/I1AXIR_pu_o) | 未知 | 待转写 | — | — |
-| [如果你是一個產品，你會投資自己嗎？](https://www.youtube.com/shorts/RD9EK2B8GEo) | 未知 | 待转写 | — | — |
-| [達芬奇在500多年前已經畫出衛星地圖？ #好葉 #短視頻  #達芬奇 #蒙娜麗莎](https://www.youtube.com/shorts/jQ1Bi0txejc) | 未知 | 待转写 | — | — |
-| [叫人買比特幣的人!  #好葉 #短視頻 #達文西 #比特幣](https://www.youtube.com/shorts/umhhkyYNRdw) | 未知 | 待转写 | — | — |
-| [為什麼你會被騙？ #五分之一效應 #好葉 #短視頻 #詐騙](https://www.youtube.com/shorts/JSk4A6cX45Q) | 未知 | 待转写 | — | — |
-| [怎樣才能真正解決問題？ #上游思维 #短视频 #shorts](https://www.youtube.com/shorts/q03-XN0KMjk) | 未知 | 待转写 | — | — |
-| [2,095,622美元的咖啡！ #短視頻 #商業思維 #致富思維](https://www.youtube.com/shorts/N3YS1WK29nI) | 未知 | 待转写 | — | — |
-| [維克多·弗蘭克的意義療法](https://www.youtube.com/shorts/LVRrT_sUGz4) | 未知 | 待转写 | — | — |
-| [最好的元宇宙方案！ #元宇宙 #nft #投資 #短視頻](https://www.youtube.com/shorts/o3XwwD194Vg) | 未知 | 待转写 | — | — |
-| [一生很長，你可以再創奇跡 \| 短視頻](https://www.youtube.com/shorts/bl9iFn0c0do) | 未知 | 待转写 | — | — |
-| [3個方法打破負面循環 \| 短視頻](https://www.youtube.com/shorts/GpMGZuEMZ6E) | 未知 | 待转写 | — | — |
-| [做激烈運動釋放快樂賀爾蒙：安多芬 \| 短視頻](https://www.youtube.com/shorts/5JvQ39WCAqw) | 未知 | 待转写 | — | — |
-| [方塊呼吸法 ：2分鐘冥想 \| 保證你的人生會變得更好 \| 短視頻](https://www.youtube.com/shorts/UNORRYJw5go) | 未知 | 待转写 | — | — |
-| [只需10秒！科學認證「瞬間變快樂」的方法 \| 短視頻](https://www.youtube.com/shorts/TuKBdTf_SRw) | 未知 | 待转写 | — | — |
-| [3種讓你瞬間變快樂的方法！必學超有效 \| 短视频](https://www.youtube.com/shorts/4BhW9ak2Q6g) | 未知 | 待转写 | — | — |
-| [拆解一切问题：如何成为解决难题的高手 \| 短視頻](https://www.youtube.com/shorts/mdxCOoMAJRU) | 未知 | 待转写 | — | — |
-| [八二法則：改變你一生的80/20法則 \| 短视频](https://www.youtube.com/shorts/3C8ybPQPiHg) | 未知 | 待转写 | — | — |
-| [3 2 1法則：最有效的拖延症解藥 \| 短视频](https://www.youtube.com/shorts/zTXIaSUZ0Ig) | 未知 | 待转写 | — | — |
+| [24小時自動成交的AI，太離譜了～現在還能領取我的AI客服哦！ #好葉 #AI #行銷工具 #客服](https://www.youtube.com/watch?v=K9q52pquzng) | 未知 | 待转写 | — | — |
+| [經濟學家最恐懼的惡夢，停滯性通脹來了?!點擊評論區連結，就能參加「五天覺醒挑戰」了～ #好葉 #財務自由 #通貨膨脹 #停滯性通脹](https://www.youtube.com/watch?v=UTOP7VlaGUQ) | 未知 | 待转写 | — | — |
+| [你的年齡，該有多少錢才算及格？亞洲的朋友，可以適當把標準降低30%喔！ #財務自由 #好葉 #資產 #財富 #財富數據](https://www.youtube.com/watch?v=u96OFVLNJqo) | 未知 | 待转写 | — | — |
+| [2025投資成績-現代價值實戰班 #好葉 #投資理財 #美股赚钱](https://www.youtube.com/watch?v=yaoCr1iMTXk) | 未知 | 待转写 | — | — |
+| [現代價值實戰班 - 年終優惠招生！ #好葉 #投資理財 #被動收入](https://www.youtube.com/watch?v=u8Jfi7D2_8U) | 未知 | 待转写 | — | — |
+| [🇫🇷A song + a France travel vlog. I even used AI to create a song for the video. What do you all t...](https://www.youtube.com/watch?v=oWVvKL8u04M) | 未知 | 待转写 | — | — |
+| [A 31-year-old online entrepreneur, currently traveling in Belgium 🇧🇪, left a message saying "onli...](https://www.youtube.com/watch?v=aSoIyJ-0Xi0) | 未知 | 待转写 | — | — |
+| [31-year-old online entrepreneur, traveling in the Netherlands 🇳🇱 #money #investment #onlineentrep...](https://www.youtube.com/watch?v=D0zZM6KsuI0) | 未知 | 待转写 | — | — |
+| [如何把粉絲，真正轉化成收入？](https://www.youtube.com/watch?v=euEDowjh_gE) | 未知 | 待转写 | — | — |
+| [我虧了幾百萬，換來了這個教訓...](https://www.youtube.com/watch?v=rBhOLFL8MOs) | 未知 | 待转写 | — | — |
+| [我如何從被平台綁架，到建立百萬美金的事業](https://www.youtube.com/watch?v=XkvASkV2y5Y) | 未知 | 待转写 | — | — |
+| [31歲前，我最不後悔的決定：開始投資！](https://www.youtube.com/watch?v=id1_zxTVpVM) | 未知 | 待转写 | — | — |
+| [留言「預購」，我就會把鏈接發給你～ #好葉 #投資App](https://www.youtube.com/watch?v=_t_5JeIOrJc) | 未知 | 待转写 | — | — |
+| [按照你目前的歲數，應該要有多少錢？](https://www.youtube.com/watch?v=6cLqL2COwgY) | 未知 | 待转写 | — | — |
+| [第三篇：美元貶值還投美股？我的投資策略](https://www.youtube.com/watch?v=lcYYWu4gvDo) | 未知 | 待转写 | — | — |
+| [第二篇：股市大漲、經濟悲觀美國冰火兩重天](https://www.youtube.com/watch?v=wgOlM7qX-jc) | 未知 | 待转写 | — | — |
+| [第一篇：美債降級？別慌！這不是第一次](https://www.youtube.com/watch?v=zMvA_EBBVeM) | 未知 | 待转写 | — | — |
+| [現金流象限：你的財富轉折點](https://www.youtube.com/watch?v=HGGt-LXiUD0) | 未知 | 待转写 | — | — |
+| [為什麼別人的運氣比你好？](https://www.youtube.com/watch?v=6ET5Ib-8dwA) | 未知 | 待转写 | — | — |
+| [吸引力法則的迷思：科學告訴我們的真相](https://www.youtube.com/watch?v=8XPfLjfgTQ0) | 未知 | 待转写 | — | — |
+| [正確的消費方式：如何把錢花在重要的地方](https://www.youtube.com/watch?v=rlkaATZna0A) | 未知 | 待转写 | — | — |
+| [財富槓桿：普通人如何從零到財富自由](https://www.youtube.com/watch?v=gnPiXErunYk) | 未知 | 待转写 | — | — |
+| [不幸就是最大的幸運](https://www.youtube.com/watch?v=jrXIycDLoI8) | 未知 | 待转写 | — | — |
+| [2025美股開局。。哪裡的公園WiFi？ #娛樂一下 #股市崩盤 #美股](https://www.youtube.com/watch?v=cE_sgMPVsu4) | 未知 | 待转写 | — | — |
+| [【財富密碼】政府改革引爆股市！投資者該如何應對？](https://www.youtube.com/watch?v=JCkHifKGppI) | 未知 | 待转写 | — | — |
+| [【內幕】一夜之間！馬斯克如何摧毀60年老機構？](https://www.youtube.com/watch?v=YH3jppdLhuU) | 未知 | 待转写 | — | — |
+| [【震撼】19歲就管理美國政府！政府效率部的6位天才少年](https://www.youtube.com/watch?v=K15FPQDCBu4) | 未知 | 待转写 | — | — |
+| [F.I.R.E 是如何讓你越存越窮的？](https://www.youtube.com/watch?v=ZJr7XIQR8wE) | 未知 | 待转写 | — | — |
+| [從0到500萬元財富積累經歷分享](https://www.youtube.com/watch?v=1vbl9JduwV4) | 未知 | 待转写 | — | — |
+| [7個低門檻被動收入](https://www.youtube.com/watch?v=zAF3eJfGigE) | 未知 | 待转写 | — | — |
+| [新家開箱: RM1,600,000 (約1千萬台幣)](https://www.youtube.com/watch?v=zMsTbZjB7E4) | 未知 | 待转写 | — | — |
+| [半途而廢的我學會的5件事](https://www.youtube.com/watch?v=p0ZRNCK04cI) | 未知 | 待转写 | — | — |
+| [13個理財法則，從月光族到財富自由](https://www.youtube.com/watch?v=4ZgEGokOvRA) | 未知 | 待转写 | — | — |
+| [4大方法擺脫憂鬱症](https://www.youtube.com/watch?v=N81XszyyhYE) | 未知 | 待转写 | — | — |
+| [大學你應該做的5件事](https://www.youtube.com/watch?v=Ypr2aZwZWt4) | 未知 | 待转写 | — | — |
+| [從咖啡小偷到百億咖啡帝國](https://www.youtube.com/watch?v=PBfOmO8XREU) | 未知 | 待转写 | — | — |
+| [為什麼經濟蕭條時，富人變得更富了 #好葉 #經濟 #富人](https://www.youtube.com/watch?v=I1AXIR_pu_o) | 未知 | 待转写 | — | — |
+| [如果你是一個產品，你會投資自己嗎？](https://www.youtube.com/watch?v=RD9EK2B8GEo) | 未知 | 待转写 | — | — |
+| [達芬奇在500多年前已經畫出衛星地圖？ #好葉 #短視頻  #達芬奇 #蒙娜麗莎](https://www.youtube.com/watch?v=jQ1Bi0txejc) | 未知 | 待转写 | — | — |
+| [叫人買比特幣的人!  #好葉 #短視頻 #達文西 #比特幣](https://www.youtube.com/watch?v=umhhkyYNRdw) | 未知 | 待转写 | — | — |
+| [為什麼你會被騙？ #五分之一效應 #好葉 #短視頻 #詐騙](https://www.youtube.com/watch?v=JSk4A6cX45Q) | 未知 | 待转写 | — | — |
+| [怎樣才能真正解決問題？ #上游思维 #短视频 #shorts](https://www.youtube.com/watch?v=q03-XN0KMjk) | 未知 | 待转写 | — | — |
+| [2,095,622美元的咖啡！ #短視頻 #商業思維 #致富思維](https://www.youtube.com/watch?v=N3YS1WK29nI) | 未知 | 待转写 | — | — |
+| [維克多·弗蘭克的意義療法](https://www.youtube.com/watch?v=LVRrT_sUGz4) | 未知 | 待转写 | — | — |
+| [最好的元宇宙方案！ #元宇宙 #nft #投資 #短視頻](https://www.youtube.com/watch?v=o3XwwD194Vg) | 未知 | 待转写 | — | — |
+| [一生很長，你可以再創奇跡 \| 短視頻](https://www.youtube.com/watch?v=bl9iFn0c0do) | 未知 | 待转写 | — | — |
+| [3個方法打破負面循環 \| 短視頻](https://www.youtube.com/watch?v=GpMGZuEMZ6E) | 未知 | 待转写 | — | — |
+| [做激烈運動釋放快樂賀爾蒙：安多芬 \| 短視頻](https://www.youtube.com/watch?v=5JvQ39WCAqw) | 未知 | 待转写 | — | — |
+| [方塊呼吸法 ：2分鐘冥想 \| 保證你的人生會變得更好 \| 短視頻](https://www.youtube.com/watch?v=UNORRYJw5go) | 未知 | 待转写 | — | — |
+| [只需10秒！科學認證「瞬間變快樂」的方法 \| 短視頻](https://www.youtube.com/watch?v=TuKBdTf_SRw) | 未知 | 待转写 | — | — |
+| [3種讓你瞬間變快樂的方法！必學超有效 \| 短视频](https://www.youtube.com/watch?v=4BhW9ak2Q6g) | 未知 | 待转写 | — | — |
+| [拆解一切问题：如何成为解决难题的高手 \| 短視頻](https://www.youtube.com/watch?v=mdxCOoMAJRU) | 未知 | 待转写 | — | — |
+| [八二法則：改變你一生的80/20法則 \| 短视频](https://www.youtube.com/watch?v=3C8ybPQPiHg) | 未知 | 待转写 | — | — |
+| [3 2 1法則：最有效的拖延症解藥 \| 短视频](https://www.youtube.com/watch?v=zTXIaSUZ0Ig) | 未知 | 待转写 | — | — |
