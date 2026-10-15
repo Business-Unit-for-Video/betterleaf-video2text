@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 11，待转写 575，失败待处理 0，文件不完整 0。
+共 586 条：已转写 12，待转写 574，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -19,7 +19,7 @@
 | [普通人只靠一份薪水，卻能累積到100萬美元！一個故事帶你體驗普通人的百萬美元之旅](https://www.youtube.com/watch?v=ENSTaXLy-L0) | 17:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ENSTaXLy-L0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ENSTaXLy-L0.txt) |
 | [6層財富階梯：你現在站在哪一層？難怪有些理財建議不適合你 \| 《財富階梯》解讀](https://www.youtube.com/watch?v=mmT-1bkUFPA) | 17:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mmT-1bkUFPA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mmT-1bkUFPA.txt) |
 | [別再亂下人生訂單！想變有錢，先改掉你的口頭禪！《從負債2000萬到心想事成每一天》](https://www.youtube.com/watch?v=DNUSFtoAnhE) | 16:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_DNUSFtoAnhE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_DNUSFtoAnhE.txt) |
-| [【沉浸式體驗】如果你每月定投100美金，40年後人生會怎麼樣？一個故事帶你體驗複利人生](https://www.youtube.com/watch?v=IQU9OqXsSEw) | 18:10 | 待转写 | — | — |
+| [【沉浸式體驗】如果你每月定投100美金，40年後人生會怎麼樣？一個故事帶你體驗複利人生](https://www.youtube.com/watch?v=IQU9OqXsSEw) | 18:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_IQU9OqXsSEw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_IQU9OqXsSEw.txt) |
 | [炒股免本金？一個故事揭開「無本當沖」的暴富陷阱，散戶必看的真實血淚史！](https://www.youtube.com/watch?v=ga3bajXZdOY) | 11:40 | 待转写 | — | — |
 | [別再幻想靠炒幣暴富！一個故事帶你看清幣圈合約「吃人」的血腥真相！](https://www.youtube.com/watch?v=fQWwibSTsVA) | 14:46 | 待转写 | — | — |
 | [一個故事看懂「免息分期」的代價：為什麼零利率的背後，藏著你付不起的慘痛代價？\| 好葉理財小故事](https://www.youtube.com/watch?v=UWk8oGa8SiM) | 14:14 | 待转写 | — | — |
