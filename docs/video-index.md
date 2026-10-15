@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 29，待转写 557，失败待处理 0，文件不完整 0。
+共 586 条：已转写 30，待转写 556，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -37,7 +37,7 @@
 | [股市暴跌，無人消費：AI贏了，但白領消失了？！《全球智能危機》](https://www.youtube.com/watch?v=RR0LyC6E7Zo) | 19:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RR0LyC6E7Zo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RR0LyC6E7Zo.txt) |
 | [2026 AI白領大清洗來襲！AI Agent 正式進場，資本將拋棄人工，普通人該如何自救？](https://www.youtube.com/watch?v=WqDJZvAMEB8) | 12:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_WqDJZvAMEB8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_WqDJZvAMEB8.txt) |
 | [2026 AI 投資趨勢：為什麼巨頭翻倍了我還敢買？揭秘 AI 下半場的 5 大財富關鍵字](https://www.youtube.com/watch?v=BkGYqDVo7Uc) | 17:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_BkGYqDVo7Uc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_BkGYqDVo7Uc.txt) |
-| [2026年最賺錢「9個AI技能」，打破普通人的財富門檻！](https://www.youtube.com/watch?v=2lO-BMTrjiU) | 18:58 | 待转写 | — | — |
+| [2026年最賺錢「9個AI技能」，打破普通人的財富門檻！](https://www.youtube.com/watch?v=2lO-BMTrjiU) | 18:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_2lO-BMTrjiU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_2lO-BMTrjiU.txt) |
 | [【好葉】停止無效努力！如果2026年你想翻身，請一定要培養這7個微習慣！](https://www.youtube.com/watch?v=A047_Jb28z8) | 17:34 | 待转写 | — | — |
 | [2025年投資績效公開！資產突破60萬美金，我是如何持續戰勝大盤的？](https://www.youtube.com/watch?v=X4Sos6etERw) | 29:27 | 待转写 | — | — |
 | [投資為何會越努力越窮？揭秘 90% 散戶虧損的真相：你需要的不是「勤勞」，而是像富人一樣的「鈍感力」](https://www.youtube.com/watch?v=qvb7iulxKkQ) | 16:40 | 待转写 | — | — |
