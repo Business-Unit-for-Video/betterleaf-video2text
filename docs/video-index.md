@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 70，待转写 515，失败待处理 1，文件不完整 0。
+共 586 条：已转写 71，待转写 514，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -79,7 +79,7 @@
 | [歷史再度重演？全面了解1930大蕭條的金融教訓](https://www.youtube.com/watch?v=uVjKn92u35A) | 13:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_uVjKn92u35A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_uVjKn92u35A.txt) |
 | [股市暴跌不止：6大應對策略！普通人的暴富機會來了？](https://www.youtube.com/watch?v=2SBmFegYrb8) | 17:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_2SBmFegYrb8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_2SBmFegYrb8.txt) |
 | [「看起來窮」反而是最快致富的秘密？6個富人不會告訴你的真相！](https://www.youtube.com/watch?v=KjhKvrNwz_o) | 24:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_KjhKvrNwz_o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_KjhKvrNwz_o.txt) |
-| [為何富國都負債累累？10分鐘看懂國債危機](https://www.youtube.com/watch?v=0BmXeYplwUo) | 13:45 | 待转写 | — | — |
+| [為何富國都負債累累？10分鐘看懂國債危機](https://www.youtube.com/watch?v=0BmXeYplwUo) | 13:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_0BmXeYplwUo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_0BmXeYplwUo.txt) |
 | [川普真的在操控股市崩盤嗎？投資者該如何應對！](https://www.youtube.com/watch?v=x3IfzEkv90A) | 10:16 | 待转写 | — | — |
 | [10分鐘了解關稅大戰：誰會是真正的贏家？\| 全球貿易心理戰](https://www.youtube.com/watch?v=aqjv6zQ-YmY) | 12:28 | 待转写 | — | — |
 | [49%的人只有一個月生活費！你的財務系統真的安全嗎？](https://www.youtube.com/watch?v=r0uJsgHaDPo) | 20:04 | 待转写 | — | — |
