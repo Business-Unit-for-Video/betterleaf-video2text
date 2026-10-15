@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 96，待转写 489，失败待处理 1，文件不完整 0。
+共 586 条：已转写 97，待转写 488，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -105,7 +105,7 @@
 | [馬斯克的DOGE政府效率部，將如何拯救美債危計！改革如何引爆下一波資產機會？](https://www.youtube.com/watch?v=6g5tcJO3EAc) | 19:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6g5tcJO3EAc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6g5tcJO3EAc.txt) |
 | [為什麼你存不了錢？是因為賺得太少，還是用錯了方法！5大步驟，輕鬆存到第一桶金](https://www.youtube.com/watch?v=vUMDlfoFhGI) | 20:06 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vUMDlfoFhGI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vUMDlfoFhGI.txt) |
 | [美債危機導致資產狂飆！你準備好如何應對財富風暴了嗎？\| 川普上台如何加劇通貨膨脹](https://www.youtube.com/watch?v=CY5yyO5N7Zw) | 20:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_CY5yyO5N7Zw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_CY5yyO5N7Zw.txt) |
-| [20-30歲你千萬不能犯的錯！人生最重要的5大資產，你揮霍了多少？\| 好葉 複利效應法則](https://www.youtube.com/watch?v=YMnSHdq4voA) | 19:17 | 待转写 | — | — |
+| [20-30歲你千萬不能犯的錯！人生最重要的5大資產，你揮霍了多少？\| 好葉 複利效應法則](https://www.youtube.com/watch?v=YMnSHdq4voA) | 19:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YMnSHdq4voA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YMnSHdq4voA.txt) |
 | [我如何在30歲前解鎖ESBI全部財富象限 \| 從打工族到投資者](https://www.youtube.com/watch?v=RBGixuxO9fw) | 19:35 | 待转写 | — | — |
 | [為何說10萬是理財中重要的轉折點！3大策略，滾出你的一桶金 \| 資本的複利效應](https://www.youtube.com/watch?v=mqYpMDgu2MY) | 17:12 | 待转写 | — | — |
 | [降息循環開啟，你應該知道的事！會造成什麼財富影響？ Fed央行降息50個基點](https://www.youtube.com/watch?v=yvvPUgjJRUc) | 18:05 | 待转写 | — | — |
