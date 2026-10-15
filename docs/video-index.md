@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 39，待转写 546，失败待处理 1，文件不完整 0。
+共 586 条：已转写 40，待转写 545，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -48,7 +48,7 @@
 | [「穩定」是這時代最大的謊言：別讓一份薪水，鎖死你的一生！【好葉】](https://www.youtube.com/watch?v=GVcAdCgDQVo) | 14:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_GVcAdCgDQVo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_GVcAdCgDQVo.txt) |
 | [股市崩盤來了？！ 美股到底還能不能投？](https://www.youtube.com/watch?v=Xymh9OBDQE8) | 20:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xymh9OBDQE8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xymh9OBDQE8.txt) |
 | [我如何從家境貧窮到收入百萬？顛覆你認知的四大致富底層定律](https://www.youtube.com/watch?v=1RZsf3IW3gY) | 19:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1RZsf3IW3gY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1RZsf3IW3gY.txt) |
-| [如果你中了樂透，會發生什麼事？ 一個錯誤決定，讓你從天堂到地獄！](https://www.youtube.com/watch?v=3m_MFaldviY) | 12:34 | 待转写 | — | — |
+| [如果你中了樂透，會發生什麼事？ 一個錯誤決定，讓你從天堂到地獄！](https://www.youtube.com/watch?v=3m_MFaldviY) | 12:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_3m_MFaldviY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_3m_MFaldviY.txt) |
 | [如何在10年後創造1000%的人生差距？窮人和富人的分水嶺 \| 複利效應](https://www.youtube.com/watch?v=OdX8q_JuGvk) | 16:50 | 待转写 | — | — |
 | [為什麼「太聰明」，卻成了你致富的最大障礙？](https://www.youtube.com/watch?v=g43RgQfXp-Q) | 17:29 | 待转写 | — | — |
 | [想走向財務自由？只需短短六週！《我教你變有錢人》](https://www.youtube.com/watch?v=497VPwVgc38) | 17:46 | 待转写 | — | — |
