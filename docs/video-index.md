@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 16，待转写 570，失败待处理 0，文件不完整 0。
+共 586 条：已转写 17，待转写 569，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -24,7 +24,7 @@
 | [別再幻想靠炒幣暴富！一個故事帶你看清幣圈合約「吃人」的血腥真相！](https://www.youtube.com/watch?v=fQWwibSTsVA) | 14:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_fQWwibSTsVA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_fQWwibSTsVA.txt) |
 | [一個故事看懂「免息分期」的代價：為什麼零利率的背後，藏著你付不起的慘痛代價？\| 好葉理財小故事](https://www.youtube.com/watch?v=UWk8oGa8SiM) | 14:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_UWk8oGa8SiM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_UWk8oGa8SiM.txt) |
 | [為什麼越努力賺錢，反而越不快樂？｜好葉](https://www.youtube.com/watch?v=pbROnB_MGFs) | 12:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_pbROnB_MGFs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_pbROnB_MGFs.txt) |
-| [真正的致富藍圖，藏在這4部電影裡！從存錢、投資到副業，解密普通人翻身的財富路線 \| 好葉](https://www.youtube.com/watch?v=8nosNu6TYjE) | 12:46 | 待转写 | — | — |
+| [真正的致富藍圖，藏在這4部電影裡！從存錢、投資到副業，解密普通人翻身的財富路線 \| 好葉](https://www.youtube.com/watch?v=8nosNu6TYjE) | 12:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8nosNu6TYjE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8nosNu6TYjE.txt) |
 | [傳統的「慢慢變富」早就過時了！解密「新慢富思維」：一套讓你一邊變富一邊享受人生的理財策略 \| 好葉](https://www.youtube.com/watch?v=HqZ8Pa3oT-I) | 16:22 | 待转写 | — | — |
 | [窮與富的心理差距：掌握「正念理財」，讓財富主動找上你 \| 好葉](https://www.youtube.com/watch?v=vxj6MFOSYt0) | 12:23 | 待转写 | — | — |
 | [決定你貧富的 6 個貧窮潛意識：別讓腦袋限制口袋 \| 好葉](https://www.youtube.com/watch?v=VT1EbpIW5Iw) | 14:58 | 待转写 | — | — |
