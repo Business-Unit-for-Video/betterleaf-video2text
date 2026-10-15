@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 89，待转写 496，失败待处理 1，文件不完整 0。
+共 586 条：已转写 90，待转写 495，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -98,7 +98,7 @@
 | [加密貨幣「發大財」的真相？這本書揭露的內幕絕對讓你三觀震碎！《Easy Money》說書影片](https://www.youtube.com/watch?v=a-wa26aR2dQ) | 11:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_a-wa26aR2dQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_a-wa26aR2dQ.txt) |
 | [8個讓你窮的金錢習慣，千萬別再犯了！](https://www.youtube.com/watch?v=yF39ILDf3lY) | 23:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_yF39ILDf3lY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_yF39ILDf3lY.txt) |
 | [比特幣再創新高！專家預計將漲到30萬美元？！](https://www.youtube.com/watch?v=w_EQMgwHj1g) | 23:51 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_w_EQMgwHj1g.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_w_EQMgwHj1g.txt) |
-| [我的2024投資回顧，連續兩年戰勝大盤！獲利法則大公開：投資組合、獲利多少、未來規劃、2025投資機會 \| 好葉](https://www.youtube.com/watch?v=ESMvwEbZzxY) | 43:14 | 待转写 | — | — |
+| [我的2024投資回顧，連續兩年戰勝大盤！獲利法則大公開：投資組合、獲利多少、未來規劃、2025投資機會 \| 好葉](https://www.youtube.com/watch?v=ESMvwEbZzxY) | 43:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ESMvwEbZzxY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ESMvwEbZzxY.txt) |
 | [股神的「遺言」？！巴菲特給世人的啟示：關於家庭、財富和死亡 #FastBull](https://www.youtube.com/watch?v=KfHTXBWT7Uo) | 20:52 | 待转写 | — | — |
 | [為何百萬富翁看起來像普通人？揭秘富人4種致富途徑，和花錢方式｜好葉說書《富有的習慣》](https://www.youtube.com/watch?v=YKk_7DHdxLg) | 23:33 | 待转写 | — | — |
 | [被酸民罵爆！好葉vs對決酸民留言，廢話連篇、富二代？確保10%回酬？又是毒雞湯？](https://www.youtube.com/watch?v=aNnRWa2VXH0) | 23:11 | 待转写 | — | — |
