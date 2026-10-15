@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 27，待转写 559，失败待处理 0，文件不完整 0。
+共 586 条：已转写 28，待转写 558，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -35,7 +35,7 @@
 | [你的年齡該有多少錢？2026 最新財富數據 \| 如何有效積累財富，做好退休準備](https://www.youtube.com/watch?v=SnABdoshChE) | 17:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_SnABdoshChE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_SnABdoshChE.txt) |
 | [5個看似負責任，卻使你默默變窮的理財習慣！第4個最多人中招，你也中了嗎？](https://www.youtube.com/watch?v=25r5RLEMlJU) | 17:26 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_25r5RLEMlJU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_25r5RLEMlJU.txt) |
 | [股市暴跌，無人消費：AI贏了，但白領消失了？！《全球智能危機》](https://www.youtube.com/watch?v=RR0LyC6E7Zo) | 19:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RR0LyC6E7Zo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RR0LyC6E7Zo.txt) |
-| [2026 AI白領大清洗來襲！AI Agent 正式進場，資本將拋棄人工，普通人該如何自救？](https://www.youtube.com/watch?v=WqDJZvAMEB8) | 12:57 | 待转写 | — | — |
+| [2026 AI白領大清洗來襲！AI Agent 正式進場，資本將拋棄人工，普通人該如何自救？](https://www.youtube.com/watch?v=WqDJZvAMEB8) | 12:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_WqDJZvAMEB8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_WqDJZvAMEB8.txt) |
 | [2026 AI 投資趨勢：為什麼巨頭翻倍了我還敢買？揭秘 AI 下半場的 5 大財富關鍵字](https://www.youtube.com/watch?v=BkGYqDVo7Uc) | 17:02 | 待转写 | — | — |
 | [2026年最賺錢「9個AI技能」，打破普通人的財富門檻！](https://www.youtube.com/watch?v=2lO-BMTrjiU) | 18:58 | 待转写 | — | — |
 | [【好葉】停止無效努力！如果2026年你想翻身，請一定要培養這7個微習慣！](https://www.youtube.com/watch?v=A047_Jb28z8) | 17:34 | 待转写 | — | — |
