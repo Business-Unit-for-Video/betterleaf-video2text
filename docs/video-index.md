@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 60，待转写 525，失败待处理 1，文件不完整 0。
+共 586 条：已转写 61，待转写 524，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -69,7 +69,7 @@
 | [從零到富有：7步驟讓你荷包變滿滿](https://www.youtube.com/watch?v=sPEUQs-wonc) | 22:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_sPEUQs-wonc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_sPEUQs-wonc.txt) |
 | [財務自由的第一步：發薪日後必做的4個關鍵習慣！](https://www.youtube.com/watch?v=khNjguy529o) | 11:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_khNjguy529o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_khNjguy529o.txt) |
 | [10倍成長思維：獲得時間、財富、人際網、目標自由的成長者法則](https://www.youtube.com/watch?v=eNFcn31cf6o) | 14:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_eNFcn31cf6o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_eNFcn31cf6o.txt) |
-| [【突發】美中貿易戰休戰90天！最後逃命時刻，還是牛市的起點？投資者該如何應對，3投資策略分享](https://www.youtube.com/watch?v=zAiKyRE_L0w) | 16:25 | 待转写 | — | — |
+| [【突發】美中貿易戰休戰90天！最後逃命時刻，還是牛市的起點？投資者該如何應對，3投資策略分享](https://www.youtube.com/watch?v=zAiKyRE_L0w) | 16:25 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_zAiKyRE_L0w.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_zAiKyRE_L0w.txt) |
 | [别讓通膨偷走你的財富！3個高利率存錢法，最後一個利率高達4.71%！親測有效！](https://www.youtube.com/watch?v=LErNBDuj0OM) | 11:14 | 待转写 | — | — |
 | [黃金和白銀，哪個更能保護你的財富？如何佈局避險資產，我的選擇是xxx...！](https://www.youtube.com/watch?v=Z6VioBngvN0) | 17:36 | 待转写 | — | — |
 | [老人掌控了我們的未來！為什麼年輕人買不起房，和老人掌權有關？為何年邁者反而能輕易掌權](https://www.youtube.com/watch?v=EluGZvF9qT0) | 10:32 | 待转写 | — | — |
