@@ -1,15 +1,15 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/betterleaf/o2PZmuEm01Q.%(ext)s', 'https://www.youtube.com/watch?v=o2PZmuEm01Q'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 586,
-  "queue_index": 37,
-  "updated_at": 1792044667,
-  "updated_at_readable": "2026-10-15 06:11:07",
-  "current_video_id": "o2PZmuEm01Q",
-  "current_title": "停止窮忙！想成為百萬富翁（美金），你只需要盯緊這4個「致富數字」",
-  "current_url": "https://www.youtube.com/watch?v=o2PZmuEm01Q",
+  "queue_index": 38,
+  "updated_at": 1792066328,
+  "updated_at_readable": "2026-10-15 12:12:08",
+  "current_video_id": "GVcAdCgDQVo",
+  "current_title": "「穩定」是這時代最大的謊言：別讓一份薪水，鎖死你的一生！【好葉】",
+  "current_url": "https://www.youtube.com/watch?v=GVcAdCgDQVo",
   "current_tab": "videos"
 }
