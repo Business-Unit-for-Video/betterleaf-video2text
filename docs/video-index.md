@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 102，待转写 483，失败待处理 1，文件不完整 0。
+共 586 条：已转写 103，待转写 482，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -111,7 +111,7 @@
 | [降息循環開啟，你應該知道的事！會造成什麼財富影響？ Fed央行降息50個基點](https://www.youtube.com/watch?v=yvvPUgjJRUc) | 18:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_yvvPUgjJRUc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_yvvPUgjJRUc.txt) |
 | [別再被消費主義騙了！《製造消費者》你的需求都是被創造出來的！\| 消費主義全球史](https://www.youtube.com/watch?v=dLHWAmlPEkw) | 21:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dLHWAmlPEkw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dLHWAmlPEkw.txt) |
 | [《別把你的錢留到死》！懂得花錢才是最好的投資，你應該在死前把財產歸零？ Die With Zero](https://www.youtube.com/watch?v=mqpsEzaQzeQ) | 20:08 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mqpsEzaQzeQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mqpsEzaQzeQ.txt) |
-| [為什麼90%的人無法致富？這些財務陷阱是罪魁禍首！\| 好葉](https://www.youtube.com/watch?v=oOUqa4JKxTk) | 22:18 | 待转写 | — | — |
+| [為什麼90%的人無法致富？這些財務陷阱是罪魁禍首！\| 好葉](https://www.youtube.com/watch?v=oOUqa4JKxTk) | 22:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_oOUqa4JKxTk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_oOUqa4JKxTk.txt) |
 | [降息後，會利好哪些板塊？股市會暴跌還是暴漲！？Fed rate cuts](https://www.youtube.com/watch?v=AcoKc-eflo4) | 20:55 | 待转写 | — | — |
 | [日股暴跌！美國將進入衰退？！你做好應對策略了嗎？股市崩盤如何解套，抓住撈底機會！](https://www.youtube.com/watch?v=MIqJeFPZdSo) | 25:56 | 待转写 | — | — |
 | [模仿欲望：你可能被操縱了也不知道！如何重塑幸福感，打造積極的人生【內附慾望測試】\| 好葉說書](https://www.youtube.com/watch?v=9VS_LUn9yBs) | 21:11 | 待转写 | — | — |
