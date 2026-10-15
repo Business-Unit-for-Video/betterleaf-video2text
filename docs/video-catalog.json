@@ -3,11 +3,11 @@
   "channel_url": "https://www.youtube.com/@betterleaf",
   "repository": "Business-Unit-for-Video/betterleaf-video2text",
   "destination": "betterleaf",
-  "generated_at": "2026-10-15 05:55:44",
+  "generated_at": "2026-10-15 06:04:33",
   "counts": {
     "completed": 36,
-    "pending": 550,
-    "failed": 0,
+    "pending": 549,
+    "failed": 1,
     "partial": 0
   },
   "items": [
@@ -414,7 +414,7 @@
       "duration": 1013,
       "tab": "videos",
       "availability": null,
-      "transcript_status": "pending",
+      "transcript_status": "failed",
       "plain_url": null,
       "timestamps_url": null
     },

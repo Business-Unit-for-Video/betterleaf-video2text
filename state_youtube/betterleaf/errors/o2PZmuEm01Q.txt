@@ -1,0 +1,6 @@
+video_id: o2PZmuEm01Q
+title: 停止窮忙！想成為百萬富翁（美金），你只需要盯緊這4個「致富數字」
+url: https://www.youtube.com/watch?v=o2PZmuEm01Q
+tab: videos
+time: 2026-10-15 06:11:07
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/betterleaf/o2PZmuEm01Q.%(ext)s', 'https://www.youtube.com/watch?v=o2PZmuEm01Q'])
