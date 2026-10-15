@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 84，待转写 501，失败待处理 1，文件不完整 0。
+共 586 条：已转写 85，待转写 500，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -93,7 +93,7 @@
 | [19歲就掌控政府系統！揭秘馬斯克的DOGE天才少年團隊](https://www.youtube.com/watch?v=yk9G0Fkm8R0) | 19:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_yk9G0Fkm8R0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_yk9G0Fkm8R0.txt) |
 | [Deepseek重擊美股市場！蒸餾技術成本真那麼低？中國AI震撼全球！面對這場衝擊，投資者該如何做準備？](https://www.youtube.com/watch?v=ZUGvRACXNEw) | 24:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZUGvRACXNEw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZUGvRACXNEw.txt) |
 | [川普2.0強勢回歸！美國的黃金時代即將開啟！投資者如何把握機會](https://www.youtube.com/watch?v=jZpVNrW3GjA) | 21:25 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jZpVNrW3GjA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jZpVNrW3GjA.txt) |
-| [2025-2030年，你不可錯過的投資趨勢！第六波趨勢浪潮，股災的5大撈底機會](https://www.youtube.com/watch?v=wWYd08ANQnk) | 18:33 | 待转写 | — | — |
+| [2025-2030年，你不可錯過的投資趨勢！第六波趨勢浪潮，股災的5大撈底機會](https://www.youtube.com/watch?v=wWYd08ANQnk) | 18:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wWYd08ANQnk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wWYd08ANQnk.txt) |
 | [《黃仁勳傳》從洗碗工到AI霸主！黃仁勳逆襲人生故事 \| 說書影片 #黃仁勳](https://www.youtube.com/watch?v=m1UAqkmSdvU) | 13:58 | 待转写 | — | — |
 | [加密貨幣「發大財」的真相？這本書揭露的內幕絕對讓你三觀震碎！《Easy Money》說書影片](https://www.youtube.com/watch?v=a-wa26aR2dQ) | 11:36 | 待转写 | — | — |
 | [8個讓你窮的金錢習慣，千萬別再犯了！](https://www.youtube.com/watch?v=yF39ILDf3lY) | 23:10 | 待转写 | — | — |
