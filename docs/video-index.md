@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 21，待转写 565，失败待处理 0，文件不完整 0。
+共 586 条：已转写 22，待转写 564，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -29,7 +29,7 @@
 | [窮與富的心理差距：掌握「正念理財」，讓財富主動找上你 \| 好葉](https://www.youtube.com/watch?v=vxj6MFOSYt0) | 12:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vxj6MFOSYt0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vxj6MFOSYt0.txt) |
 | [決定你貧富的 6 個貧窮潛意識：別讓腦袋限制口袋 \| 好葉](https://www.youtube.com/watch?v=VT1EbpIW5Iw) | 14:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_VT1EbpIW5Iw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_VT1EbpIW5Iw.txt) |
 | [真正的財富是「看不見」的！解密「安靜致富」：一套讓你擺脫工作束縛的隱形策略 \| 好葉](https://www.youtube.com/watch?v=-ayusTKDOVw) | 16:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-ayusTKDOVw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-ayusTKDOVw.txt) |
-| [如果你是家裡第一個投資的人，能否避開這 3 個坑，決定你能不能打破家族循環](https://www.youtube.com/watch?v=0bSF5NDCdEE) | 14:21 | 待转写 | — | — |
+| [如果你是家裡第一個投資的人，能否避開這 3 個坑，決定你能不能打破家族循環](https://www.youtube.com/watch?v=0bSF5NDCdEE) | 14:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_0bSF5NDCdEE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_0bSF5NDCdEE.txt) |
 | [43%的人連1,000美元都拿不出來！5 大數據證明，你比想像中更接近破產！](https://www.youtube.com/watch?v=utdxtPKLUFs) | 16:39 | 待转写 | — | — |
 | [停滯性通膨要來了？失業上升、物價飛漲、利率不降：普通人最危險的時刻到了](https://www.youtube.com/watch?v=zK4HdyxEJFU) | 18:14 | 待转写 | — | — |
 | [你的年齡該有多少錢？2026 最新財富數據 \| 如何有效積累財富，做好退休準備](https://www.youtube.com/watch?v=SnABdoshChE) | 17:16 | 待转写 | — | — |
