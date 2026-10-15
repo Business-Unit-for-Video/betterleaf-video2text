@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 49，待转写 536，失败待处理 1，文件不完整 0。
+共 586 条：已转写 50，待转写 535，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -58,7 +58,7 @@
 | [新手必學！10大外匯交易知識，如何快速上手交易賺 \| 好葉](https://www.youtube.com/watch?v=BbTzee69d9U) | 33:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_BbTzee69d9U.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_BbTzee69d9U.txt) |
 | [晚10年才投資，竟少賺50萬美金！好葉百萬訂閱QA \| Part 2](https://www.youtube.com/watch?v=qQrkjDsayRg) | 17:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_qQrkjDsayRg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_qQrkjDsayRg.txt) |
 | [做 YouTube 只是為了好找工！？好葉百萬訂閱QA \| Part 1](https://www.youtube.com/watch?v=SGnSiJ-Z--E) | 20:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_SGnSiJ-Z--E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_SGnSiJ-Z--E.txt) |
-| [為什麼存錢越存越窮？一個公式，讓你擺脫月光族，提前10年財富自由！](https://www.youtube.com/watch?v=tIzFa_IjXk8) | 8:28 | 待转写 | — | — |
+| [為什麼存錢越存越窮？一個公式，讓你擺脫月光族，提前10年財富自由！](https://www.youtube.com/watch?v=tIzFa_IjXk8) | 8:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_tIzFa_IjXk8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_tIzFa_IjXk8.txt) |
 | [川普提前換掉鮑威爾？聯準會獨立性面臨史上最大危機！美股還能投資嗎？好葉智能選股APP](https://www.youtube.com/watch?v=N-bn1VKj9VE) | 17:13 | 待转写 | — | — |
 | [第一個 $10,000 將徹底扭轉你的人生？世界會對你不一樣！](https://www.youtube.com/watch?v=X8UyaE2GhI4) | 17:18 | 待转写 | — | — |
 | [美債要爆？穩定幣正悄悄「撐起美國」！暴漲的Circle還能投資嗎？](https://www.youtube.com/watch?v=dazxDAveybw) | 16:29 | 待转写 | — | — |
