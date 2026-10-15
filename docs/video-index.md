@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 66，待转写 519，失败待处理 1，文件不完整 0。
+共 586 条：已转写 67，待转写 518，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -75,7 +75,7 @@
 | [老人掌控了我們的未來！為什麼年輕人買不起房，和老人掌權有關？為何年邁者反而能輕易掌權](https://www.youtube.com/watch?v=EluGZvF9qT0) | 10:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EluGZvF9qT0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EluGZvF9qT0.txt) |
 | [【未来30年能源爭霸】石油大國正在消亡？清潔能源與算力之戰已開打](https://www.youtube.com/watch?v=bZviNwCtECw) | 25:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_bZviNwCtECw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_bZviNwCtECw.txt) |
 | [為什麼你總是疲倦？揭秘「能量危機」的4大解決方案](https://www.youtube.com/watch?v=woanbrri-Qk) | 14:51 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_woanbrri-Qk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_woanbrri-Qk.txt) |
-| [全球人口危機！為什麼現代人都不生小孩了？](https://www.youtube.com/watch?v=uJPRh9vTpU8) | 14:46 | 待转写 | — | — |
+| [全球人口危機！為什麼現代人都不生小孩了？](https://www.youtube.com/watch?v=uJPRh9vTpU8) | 14:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_uJPRh9vTpU8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_uJPRh9vTpU8.txt) |
 | [歷史再度重演？全面了解1930大蕭條的金融教訓](https://www.youtube.com/watch?v=uVjKn92u35A) | 13:12 | 待转写 | — | — |
 | [股市暴跌不止：6大應對策略！普通人的暴富機會來了？](https://www.youtube.com/watch?v=2SBmFegYrb8) | 17:04 | 待转写 | — | — |
 | [「看起來窮」反而是最快致富的秘密？6個富人不會告訴你的真相！](https://www.youtube.com/watch?v=KjhKvrNwz_o) | 24:09 | 待转写 | — | — |
