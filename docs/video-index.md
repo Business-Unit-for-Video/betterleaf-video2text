@@ -2,14 +2,14 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 1，待转写 585，失败待处理 0，文件不完整 0。
+共 586 条：已转写 2，待转写 584，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
 | 视频 | 时长 | 状态 | 纯文本 | 时间戳文本 |
 |---|---:|---|---|---|
 | [矽谷天王彼得 · 提爾的4條投資法則，他如何在所有人看懂以前，找到下一個贏家？](https://www.youtube.com/watch?v=KCNz9u0GATE) | 16:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_KCNz9u0GATE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_KCNz9u0GATE.txt) |
-| [美聯儲三年來首次升息！股市、房市、美債接下來會怎樣？](https://www.youtube.com/watch?v=ufTIVX_9shs) | 16:26 | 待转写 | — | — |
+| [美聯儲三年來首次升息！股市、房市、美債接下來會怎樣？](https://www.youtube.com/watch?v=ufTIVX_9shs) | 16:26 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ufTIVX_9shs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ufTIVX_9shs.txt) |
 | [2,700萬美元換回26億美元：阿克曼如何判斷投資機會與陷阱？\| 投資大師 Bill Ackman](https://www.youtube.com/watch?v=cS5wqiju-Lw) | 16:38 | 待转写 | — | — |
 | [把石油變成全球最大的「國家隊」基金！挪威主權基金，如何投資？](https://www.youtube.com/watch?v=S9csqkRWqLc) | 18:50 | 待转写 | — | — |
 | [常年收益29%，連續13年！彼得 · 林區教你如何《戰勝華爾街》](https://www.youtube.com/watch?v=Gy8N9OhjaC4) | 18:53 | 待转写 | — | — |
