@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 109，待转写 476，失败待处理 1，文件不完整 0。
+共 586 条：已转写 110，待转写 475，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -118,7 +118,7 @@
 | [投資回報不好？都是這8大行為惹的禍！50%都中了這幾項！｜好葉投資系列](https://www.youtube.com/watch?v=sVqiv2pMwM4) | 23:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_sVqiv2pMwM4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_sVqiv2pMwM4.txt) |
 | [6大特質，決定你的事業會不會成功！商業不是零和遊戲，億萬富豪 貝索斯，亞馬遜帝國的經營哲學 \| 好葉說書 《創造與漫想》](https://www.youtube.com/watch?v=3a2GgkPf3J4) | 27:06 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_3a2GgkPf3J4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_3a2GgkPf3J4.txt) |
 | [揭秘股神的9大投資原則！巴菲特最經典的演講總結 1998年佛羅里達大學｜好葉投資系列](https://www.youtube.com/watch?v=w_C_2AcQFX4) | 25:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_w_C_2AcQFX4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_w_C_2AcQFX4.txt) |
-| [高學歷能成為有錢人嗎？更重要的是“知識層級”！5個習慣，讓你擁有「易富」體質～｜有錢人的書櫃 Part 2](https://www.youtube.com/watch?v=vJ6GpPFKH3U) | 28:34 | 待转写 | — | — |
+| [高學歷能成為有錢人嗎？更重要的是“知識層級”！5個習慣，讓你擁有「易富」體質～｜有錢人的書櫃 Part 2](https://www.youtube.com/watch?v=vJ6GpPFKH3U) | 28:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vJ6GpPFKH3U.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vJ6GpPFKH3U.txt) |
 | [股市讓你感覺變有錢，小心跌入財富效應的陷阱！ 美股創新高，通脹卻依舊不減！六個策略應對“假財富”，有效管理風險。](https://www.youtube.com/watch?v=GfOZGAeYcGs) | 23:15 | 待转写 | — | — |
 | [5個特質，決定你是5%的富人，還是95%的窮人！想成為有錢人，先了解有錢人的心理 \| 有錢人的書櫃總有一本心理學書 \| 好葉說書](https://www.youtube.com/watch?v=evumDQt_NQQ) | 30:04 | 待转写 | — | — |
 | [揭示掙錢的最高境界！掙錢的六個境界，你屬於哪一層？](https://www.youtube.com/watch?v=YAVwF2p-plU) | 23:02 | 待转写 | — | — |
