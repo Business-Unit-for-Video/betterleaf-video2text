@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 99，待转写 486，失败待处理 1，文件不完整 0。
+共 586 条：已转写 100，待转写 485，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -108,7 +108,7 @@
 | [20-30歲你千萬不能犯的錯！人生最重要的5大資產，你揮霍了多少？\| 好葉 複利效應法則](https://www.youtube.com/watch?v=YMnSHdq4voA) | 19:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YMnSHdq4voA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YMnSHdq4voA.txt) |
 | [我如何在30歲前解鎖ESBI全部財富象限 \| 從打工族到投資者](https://www.youtube.com/watch?v=RBGixuxO9fw) | 19:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RBGixuxO9fw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RBGixuxO9fw.txt) |
 | [為何說10萬是理財中重要的轉折點！3大策略，滾出你的一桶金 \| 資本的複利效應](https://www.youtube.com/watch?v=mqYpMDgu2MY) | 17:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mqYpMDgu2MY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mqYpMDgu2MY.txt) |
-| [降息循環開啟，你應該知道的事！會造成什麼財富影響？ Fed央行降息50個基點](https://www.youtube.com/watch?v=yvvPUgjJRUc) | 18:05 | 待转写 | — | — |
+| [降息循環開啟，你應該知道的事！會造成什麼財富影響？ Fed央行降息50個基點](https://www.youtube.com/watch?v=yvvPUgjJRUc) | 18:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_yvvPUgjJRUc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_yvvPUgjJRUc.txt) |
 | [別再被消費主義騙了！《製造消費者》你的需求都是被創造出來的！\| 消費主義全球史](https://www.youtube.com/watch?v=dLHWAmlPEkw) | 21:15 | 待转写 | — | — |
 | [《別把你的錢留到死》！懂得花錢才是最好的投資，你應該在死前把財產歸零？ Die With Zero](https://www.youtube.com/watch?v=mqpsEzaQzeQ) | 20:08 | 待转写 | — | — |
 | [為什麼90%的人無法致富？這些財務陷阱是罪魁禍首！\| 好葉](https://www.youtube.com/watch?v=oOUqa4JKxTk) | 22:18 | 待转写 | — | — |
