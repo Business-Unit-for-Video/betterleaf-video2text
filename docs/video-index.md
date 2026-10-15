@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 14，待转写 572，失败待处理 0，文件不完整 0。
+共 586 条：已转写 15，待转写 571，失败待处理 0，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -22,7 +22,7 @@
 | [【沉浸式體驗】如果你每月定投100美金，40年後人生會怎麼樣？一個故事帶你體驗複利人生](https://www.youtube.com/watch?v=IQU9OqXsSEw) | 18:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_IQU9OqXsSEw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_IQU9OqXsSEw.txt) |
 | [炒股免本金？一個故事揭開「無本當沖」的暴富陷阱，散戶必看的真實血淚史！](https://www.youtube.com/watch?v=ga3bajXZdOY) | 11:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ga3bajXZdOY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ga3bajXZdOY.txt) |
 | [別再幻想靠炒幣暴富！一個故事帶你看清幣圈合約「吃人」的血腥真相！](https://www.youtube.com/watch?v=fQWwibSTsVA) | 14:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_fQWwibSTsVA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_fQWwibSTsVA.txt) |
-| [一個故事看懂「免息分期」的代價：為什麼零利率的背後，藏著你付不起的慘痛代價？\| 好葉理財小故事](https://www.youtube.com/watch?v=UWk8oGa8SiM) | 14:14 | 待转写 | — | — |
+| [一個故事看懂「免息分期」的代價：為什麼零利率的背後，藏著你付不起的慘痛代價？\| 好葉理財小故事](https://www.youtube.com/watch?v=UWk8oGa8SiM) | 14:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_UWk8oGa8SiM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_UWk8oGa8SiM.txt) |
 | [為什麼越努力賺錢，反而越不快樂？｜好葉](https://www.youtube.com/watch?v=pbROnB_MGFs) | 12:58 | 待转写 | — | — |
 | [真正的致富藍圖，藏在這4部電影裡！從存錢、投資到副業，解密普通人翻身的財富路線 \| 好葉](https://www.youtube.com/watch?v=8nosNu6TYjE) | 12:46 | 待转写 | — | — |
 | [傳統的「慢慢變富」早就過時了！解密「新慢富思維」：一套讓你一邊變富一邊享受人生的理財策略 \| 好葉](https://www.youtube.com/watch?v=HqZ8Pa3oT-I) | 16:22 | 待转写 | — | — |
