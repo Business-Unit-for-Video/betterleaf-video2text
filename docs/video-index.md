@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 92，待转写 493，失败待处理 1，文件不完整 0。
+共 586 条：已转写 93，待转写 492，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -101,7 +101,7 @@
 | [我的2024投資回顧，連續兩年戰勝大盤！獲利法則大公開：投資組合、獲利多少、未來規劃、2025投資機會 \| 好葉](https://www.youtube.com/watch?v=ESMvwEbZzxY) | 43:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ESMvwEbZzxY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ESMvwEbZzxY.txt) |
 | [股神的「遺言」？！巴菲特給世人的啟示：關於家庭、財富和死亡 #FastBull](https://www.youtube.com/watch?v=KfHTXBWT7Uo) | 20:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_KfHTXBWT7Uo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_KfHTXBWT7Uo.txt) |
 | [為何百萬富翁看起來像普通人？揭秘富人4種致富途徑，和花錢方式｜好葉說書《富有的習慣》](https://www.youtube.com/watch?v=YKk_7DHdxLg) | 23:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YKk_7DHdxLg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YKk_7DHdxLg.txt) |
-| [被酸民罵爆！好葉vs對決酸民留言，廢話連篇、富二代？確保10%回酬？又是毒雞湯？](https://www.youtube.com/watch?v=aNnRWa2VXH0) | 23:11 | 待转写 | — | — |
+| [被酸民罵爆！好葉vs對決酸民留言，廢話連篇、富二代？確保10%回酬？又是毒雞湯？](https://www.youtube.com/watch?v=aNnRWa2VXH0) | 23:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_aNnRWa2VXH0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_aNnRWa2VXH0.txt) |
 | [馬斯克的DOGE政府效率部，將如何拯救美債危計！改革如何引爆下一波資產機會？](https://www.youtube.com/watch?v=6g5tcJO3EAc) | 19:32 | 待转写 | — | — |
 | [為什麼你存不了錢？是因為賺得太少，還是用錯了方法！5大步驟，輕鬆存到第一桶金](https://www.youtube.com/watch?v=vUMDlfoFhGI) | 20:06 | 待转写 | — | — |
 | [美債危機導致資產狂飆！你準備好如何應對財富風暴了嗎？\| 川普上台如何加劇通貨膨脹](https://www.youtube.com/watch?v=CY5yyO5N7Zw) | 20:12 | 待转写 | — | — |
