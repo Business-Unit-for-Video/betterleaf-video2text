@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 74，待转写 511，失败待处理 1，文件不完整 0。
+共 586 条：已转写 75，待转写 510，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -83,7 +83,7 @@
 | [川普真的在操控股市崩盤嗎？投資者該如何應對！](https://www.youtube.com/watch?v=x3IfzEkv90A) | 10:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_x3IfzEkv90A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_x3IfzEkv90A.txt) |
 | [10分鐘了解關稅大戰：誰會是真正的贏家？\| 全球貿易心理戰](https://www.youtube.com/watch?v=aqjv6zQ-YmY) | 12:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_aqjv6zQ-YmY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_aqjv6zQ-YmY.txt) |
 | [49%的人只有一個月生活費！你的財務系統真的安全嗎？](https://www.youtube.com/watch?v=r0uJsgHaDPo) | 20:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_r0uJsgHaDPo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_r0uJsgHaDPo.txt) |
-| [為何Nvidia突然暴跌？AI行業的拐點已經到來？投資者必看分析！](https://www.youtube.com/watch?v=i4337orqLY0) | 10:41 | 待转写 | — | — |
+| [為何Nvidia突然暴跌？AI行業的拐點已經到來？投資者必看分析！](https://www.youtube.com/watch?v=i4337orqLY0) | 10:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_i4337orqLY0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_i4337orqLY0.txt) |
 | [美元走弱、美股回調，巴菲特的3大應對策略！](https://www.youtube.com/watch?v=z7FPgjNddnc) | 17:31 | 待转写 | — | — |
 | [擔心股市暴跌？6大投資技巧讓你立於不敗之地！](https://www.youtube.com/watch?v=3-Oi_sOc3pQ) | 21:32 | 待转写 | — | — |
 | [最強懶人投資法，一次學會3種坐收財富的被動收入方法！讓你財富自動增長！ 6大高投資法 Part 2](https://www.youtube.com/watch?v=jZtTZi111yg) | 13:05 | 待转写 | — | — |
