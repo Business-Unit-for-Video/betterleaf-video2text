@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 184，待转写 401，失败待处理 1，文件不完整 0。
+共 586 条：已转写 185，待转写 400，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -193,7 +193,7 @@
 | [不會匯報工作，你的工作等於零！\| 5招向上管理，給上司留下好印象 \| 高效工作法](https://www.youtube.com/watch?v=v9gk_WO_1R4) | 9:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_v9gk_WO_1R4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_v9gk_WO_1R4.txt) |
 | [如何面對別人的閒言閒語? 拒絕別人的「道德綁架」](https://www.youtube.com/watch?v=Xhf8D5of8M0) | 7:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xhf8D5of8M0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xhf8D5of8M0.txt) |
 | [PART 1 \| 1小時完成1天工作，亞馬遜怎麼辦到的？ \| The Amazon Way 動畫說書](https://www.youtube.com/watch?v=UWrZMF_vhoE) | 11:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_UWrZMF_vhoE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_UWrZMF_vhoE.txt) |
-| [唯有痛苦才能讓人清醒 \| 在艱難時刻，你才能學到的3件事，磨煉心智看清事實](https://www.youtube.com/watch?v=OermZPKTNBo) | 14:05 | 待转写 | — | — |
+| [唯有痛苦才能讓人清醒 \| 在艱難時刻，你才能學到的3件事，磨煉心智看清事實](https://www.youtube.com/watch?v=OermZPKTNBo) | 14:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OermZPKTNBo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OermZPKTNBo.txt) |
 | [比爾蓋茲推薦必讀的「反思法」，如何像科學家一樣思考 \| Think Again by Adam Grant \| 動畫說書](https://www.youtube.com/watch?v=ahcb1YmlsRA) | 7:32 | 待转写 | — | — |
 | [2022年百物漲價，我們该如何應對，化危機為轉機？\| 3大法則改變命運 \| 好葉](https://www.youtube.com/watch?v=T_sUrfsyM8I) | 14:29 | 待转写 | — | — |
 | [我的0元辦公室，如何低成本創業白手起家 \| 佛係企業家，好葉工作室開箱](https://www.youtube.com/watch?v=5j5bZG198pE) | 13:41 | 待转写 | — | — |
