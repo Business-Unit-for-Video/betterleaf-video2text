@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 213，待转写 372，失败待处理 1，文件不完整 0。
+共 586 条：已转写 214，待转写 371，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -222,7 +222,7 @@
 | [墨非定律: 越擔心的事, 越容易發生 \| 你還相信星座、算命專家嗎？ 【動畫說書】](https://www.youtube.com/watch?v=7AYknXYPsn4) | 13:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7AYknXYPsn4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7AYknXYPsn4.txt) |
 | [小資族創建百萬被動收入的秘訣!! Feat. 蕾咪【好葉會客室 #EP9】](https://www.youtube.com/watch?v=xtJP1wgSDto) | 26:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xtJP1wgSDto.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xtJP1wgSDto.txt) |
 | [演說高手都是這樣練的: 歐陽立中的40堂魅力演說課 \| 動畫說書](https://www.youtube.com/watch?v=2pS0vy4POwI) | 15:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_2pS0vy4POwI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_2pS0vy4POwI.txt) |
-| [Matrixport: 全網最強，最簡單的幣理財全攻略 \| 入金策略、Defi、固收保底、雙幣理財、區間獵手、自動復投](https://www.youtube.com/watch?v=NdlkBPYaY6Q) | 16:17 | 待转写 | — | — |
+| [Matrixport: 全網最強，最簡單的幣理財全攻略 \| 入金策略、Defi、固收保底、雙幣理財、區間獵手、自動復投](https://www.youtube.com/watch?v=NdlkBPYaY6Q) | 16:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_NdlkBPYaY6Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_NdlkBPYaY6Q.txt) |
 | [怎樣設定年度目標？ 22道問題開啟你非凡的2022！年度目標設定 \| Part 2](https://www.youtube.com/watch?v=fT-GsilUVsk) | 8:33 | 待转写 | — | — |
 | [這一年下來，你是怎麼過的？ 22道問題開啟你非凡的2022！年度目標設定 \| Part 1](https://www.youtube.com/watch?v=PfOVA7HNXFA) | 13:59 | 待转写 | — | — |
 | [從A到A+：企業從優秀到卓越的奧祕 \| 暢銷百萬的管理智慧 \| 動畫說書](https://www.youtube.com/watch?v=nU5vmvlBSo0) | 8:08 | 待转写 | — | — |
