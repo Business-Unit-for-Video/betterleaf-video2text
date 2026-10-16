@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 283，待转写 302，失败待处理 1，文件不完整 0。
+共 586 条：已转写 284，待转写 301，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -292,7 +292,7 @@
 | [當幸福出現時，你能抓住嗎？\| 正念的奇跡【好葉】](https://www.youtube.com/watch?v=F2Pixifhi5M) | 11:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_F2Pixifhi5M.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_F2Pixifhi5M.txt) |
 | [如何提高自己的情商：3個步驟成為一個高EQ的人](https://www.youtube.com/watch?v=xX86lOQXNLY) | 9:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xX86lOQXNLY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xX86lOQXNLY.txt) |
 | [反脆弱：如何在不確定中持續獲益 \| 好葉說書](https://www.youtube.com/watch?v=DYBfnvYkAx0) | 19:08 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_DYBfnvYkAx0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_DYBfnvYkAx0.txt) |
-| [控制點理論：你是不是一個可以掌控人生的人？Locus of Control](https://www.youtube.com/watch?v=xKS5QCxo1uE) | 8:32 | 待转写 | — | — |
+| [控制點理論：你是不是一個可以掌控人生的人？Locus of Control](https://www.youtube.com/watch?v=xKS5QCxo1uE) | 8:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xKS5QCxo1uE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xKS5QCxo1uE.txt) |
 | [5個無價的成長法則，讓你成為更高效的人 \| 好葉說書](https://www.youtube.com/watch?v=2OwfxZTRAhg) | 14:23 | 待转写 | — | — |
 | [5大行銷套路，你絕對不能錯過！我也中招了【好葉】](https://www.youtube.com/watch?v=rcRZZWM0WbM) | 7:53 | 待转写 | — | — |
 | [專注力：化繁爲簡的驚人力量 \| 如何有效戰勝拖延 【好葉】](https://www.youtube.com/watch?v=Z2gK9pB8WKQ) | 10:22 | 待转写 | — | — |
