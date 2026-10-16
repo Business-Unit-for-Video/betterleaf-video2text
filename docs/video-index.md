@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 281，待转写 304，失败待处理 1，文件不完整 0。
+共 586 条：已转写 282，待转写 303，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -290,7 +290,7 @@
 | [成為你想看到的改變：重新定義你的工作和學習 \| 好葉說書](https://www.youtube.com/watch?v=j_LuNGgBrgw) | 8:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_j_LuNGgBrgw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_j_LuNGgBrgw.txt) |
 | [彈性習慣：3個步驟無痛養成好習慣 \| 好葉說書](https://www.youtube.com/watch?v=dnxM8RTtCIU) | 11:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dnxM8RTtCIU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dnxM8RTtCIU.txt) |
 | [當幸福出現時，你能抓住嗎？\| 正念的奇跡【好葉】](https://www.youtube.com/watch?v=F2Pixifhi5M) | 11:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_F2Pixifhi5M.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_F2Pixifhi5M.txt) |
-| [如何提高自己的情商：3個步驟成為一個高EQ的人](https://www.youtube.com/watch?v=xX86lOQXNLY) | 9:34 | 待转写 | — | — |
+| [如何提高自己的情商：3個步驟成為一個高EQ的人](https://www.youtube.com/watch?v=xX86lOQXNLY) | 9:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xX86lOQXNLY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xX86lOQXNLY.txt) |
 | [反脆弱：如何在不確定中持續獲益 \| 好葉說書](https://www.youtube.com/watch?v=DYBfnvYkAx0) | 19:08 | 待转写 | — | — |
 | [控制點理論：你是不是一個可以掌控人生的人？Locus of Control](https://www.youtube.com/watch?v=xKS5QCxo1uE) | 8:32 | 待转写 | — | — |
 | [5個無價的成長法則，讓你成為更高效的人 \| 好葉說書](https://www.youtube.com/watch?v=2OwfxZTRAhg) | 14:23 | 待转写 | — | — |
@@ -545,7 +545,7 @@
 | [你的年齡，該有多少錢才算及格？亞洲的朋友，可以適當把標準降低30%喔！ #財務自由 #好葉 #資產 #財富 #財富數據](https://www.youtube.com/watch?v=u96OFVLNJqo) | 未知 | 待转写 | — | — |
 | [2025投資成績-現代價值實戰班 #好葉 #投資理財 #美股赚钱](https://www.youtube.com/watch?v=yaoCr1iMTXk) | 未知 | 待转写 | — | — |
 | [現代價值實戰班 - 年終優惠招生！ #好葉 #投資理財 #被動收入](https://www.youtube.com/watch?v=u8Jfi7D2_8U) | 未知 | 待转写 | — | — |
-| [🇫🇷A song + a France travel vlog. I even used AI to create a song for the video. What do you all t...](https://www.youtube.com/watch?v=oWVvKL8u04M) | 未知 | 待转写 | — | — |
+| [🇫🇷歌曲＋法國旅遊 Vlog，特別用AI弄了一首歌來做影片，大家覺得如何呢？](https://www.youtube.com/watch?v=oWVvKL8u04M) | 未知 | 待转写 | — | — |
 | [A 31-year-old online entrepreneur, currently traveling in Belgium 🇧🇪, left a message saying "onli...](https://www.youtube.com/watch?v=aSoIyJ-0Xi0) | 未知 | 待转写 | — | — |
 | [31-year-old online entrepreneur, traveling in the Netherlands 🇳🇱 #money #investment #onlineentrep...](https://www.youtube.com/watch?v=D0zZM6KsuI0) | 未知 | 待转写 | — | — |
 | [如何把粉絲，真正轉化成收入？](https://www.youtube.com/watch?v=euEDowjh_gE) | 未知 | 待转写 | — | — |
