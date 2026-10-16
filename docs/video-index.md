@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 169，待转写 416，失败待处理 1，文件不完整 0。
+共 586 条：已转写 170，待转写 415，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -178,7 +178,7 @@
 | [這個AI正在淘汰掉你的工作 \| 寫文案、說書、編程、幫你設計通通幫你搞定 \| Feat. ChatGPT-3](https://www.youtube.com/watch?v=5jKmxbIaq78) | 29:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5jKmxbIaq78.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5jKmxbIaq78.txt) |
 | [13個理財法則，從月光族到財富自由 \| 輕鬆改善你的財務狀況](https://www.youtube.com/watch?v=_xWbPpSj7b8) | 17:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf__xWbPpSj7b8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf__xWbPpSj7b8.txt) |
 | [2023兔年看風水轉運，原來風水師是這樣創業賺錢的！Feat #風水師 Master Addison Foo【好葉會客室 EP11 - 內無十二生肖運程】](https://www.youtube.com/watch?v=hd8fRaA0zXE) | 18:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_hd8fRaA0zXE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_hd8fRaA0zXE.txt) |
-| [經濟蕭條，富人變得更富的10個原因 \| 有錢人不告訴你的秘密](https://www.youtube.com/watch?v=qWwDKAK7Czo) | 13:15 | 待转写 | — | — |
+| [經濟蕭條，富人變得更富的10個原因 \| 有錢人不告訴你的秘密](https://www.youtube.com/watch?v=qWwDKAK7Czo) | 13:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_qWwDKAK7Czo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_qWwDKAK7Czo.txt) |
 | [如果你的人生停滯不前，請停止這些行為 \| 7個你必須去除的攔路石，為了美好的2023年](https://www.youtube.com/watch?v=TkmCt12mr5s) | 13:30 | 待转写 | — | — |
 | [PART 1 反障礙：如何從障礙中獲益 \| 讓擋住去路的障礙成為你的道路 \| 好葉說書](https://www.youtube.com/watch?v=4H63k5p1jqk) | 13:21 | 待转写 | — | — |
 | [散戶救世主：ETF 指數型基金 \| 三低特質帶你闖江湖 「低風險、低成本、低難度」](https://www.youtube.com/watch?v=oJit1vIVllo) | 11:50 | 待转写 | — | — |
