@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 221，待转写 364，失败待处理 1，文件不完整 0。
+共 586 条：已转写 222，待转写 363，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -230,7 +230,7 @@
 | [10分鐘了解流動性挖礦 \| 不用礦機的挖礦方式，Defi 加密貨幣被動收入方式 \| 加密貨幣投資](https://www.youtube.com/watch?v=vrBylnQ5Cqc) | 8:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vrBylnQ5Cqc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vrBylnQ5Cqc.txt) |
 | [破解你對 "財務自由" 的迷思！\|《財務自由實踐版》工作與理財的規劃指南](https://www.youtube.com/watch?v=ASvZXjAPlbA) | 10:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ASvZXjAPlbA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ASvZXjAPlbA.txt) |
 | [為什麼我們會下意識的買單？ 3個必學銷售心理學  \| PART 1：影響力 【動畫書評】](https://www.youtube.com/watch?v=DP_pjsWdNhw) | 10:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_DP_pjsWdNhw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_DP_pjsWdNhw.txt) |
-| [10個你要趁早了解的金錢法則 \| 有錢人和你想得不一樣！](https://www.youtube.com/watch?v=6CRStLfm-s8) | 12:37 | 待转写 | — | — |
+| [10個你要趁早了解的金錢法則 \| 有錢人和你想得不一樣！](https://www.youtube.com/watch?v=6CRStLfm-s8) | 12:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6CRStLfm-s8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6CRStLfm-s8.txt) |
 | [一個讓你不再自責、自我否定的幸福法則 \| 四大信條 Part 3](https://www.youtube.com/watch?v=WsZNC1rop3I) | 13:49 | 待转写 | — | — |
 | [你所有的不幸都是你允許的，是你同意別人來傷害你的 \| Part 2: 四大信條](https://www.youtube.com/watch?v=rEJRLdLIB6w) | 12:42 | 待转写 | — | — |
 | [一場實驗揭秘了成功者的模式!?  \|  棉花糖實驗，提升延遲享樂的能力！](https://www.youtube.com/watch?v=89NoAtDovRo) | 14:44 | 待转写 | — | — |
