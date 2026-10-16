@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 135，待转写 450，失败待处理 1，文件不完整 0。
+共 586 条：已转写 136，待转写 449，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -144,7 +144,7 @@
 | [我連續交易3天，竟發現了新的獲利方式！交易挑戰 \| 富拓 實測](https://www.youtube.com/watch?v=9ok1O-BEikg) | 12:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_9ok1O-BEikg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_9ok1O-BEikg.txt) |
 | [【好葉】你的醫療保單是不是漲價了？！為什麼你的醫藥卡大漲價，儲蓄保險值不值得投資 \| Medical Insurance](https://www.youtube.com/watch?v=7UMxiITz3Nw) | 19:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7UMxiITz3Nw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7UMxiITz3Nw.txt) |
 | [4句話改變人生：深刻影響自己與他人的言語力量 ｜《Magic Words》 動畫說書](https://www.youtube.com/watch?v=mr47O8FTMBI) | 7:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mr47O8FTMBI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mr47O8FTMBI.txt) |
-| [你的說話方式，決定你的人生高度 \| 4個高級說話技巧，瞬間提升影響力｜動畫說書](https://www.youtube.com/watch?v=VRy1fwPd7DI) | 7:29 | 待转写 | — | — |
+| [你的說話方式，決定你的人生高度 \| 4個高級說話技巧，瞬間提升影響力｜動畫說書](https://www.youtube.com/watch?v=VRy1fwPd7DI) | 7:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_VRy1fwPd7DI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_VRy1fwPd7DI.txt) |
 | [4個步驟，自動化成為百萬富翁「美元」 \| 《The Automatic Millionaire》  讓錢為你工作的自動理財法](https://www.youtube.com/watch?v=vvbQTF1bAf4) | 10:53 | 待转写 | — | — |
 | [我如何從憂鬱情緒中，自救起來](https://www.youtube.com/watch?v=NHoEovz9syw) | 11:29 | 待转写 | — | — |
 | [一個故事看懂財務報表，提升90%投資創業成功幾率  \| 小島創業故事](https://www.youtube.com/watch?v=gdtUDPkg8IY) | 23:24 | 待转写 | — | — |
