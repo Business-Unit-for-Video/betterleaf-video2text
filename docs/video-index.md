@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 142，待转写 443，失败待处理 1，文件不完整 0。
+共 586 条：已转写 143，待转写 442，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -151,7 +151,7 @@
 | [希望我20歲就懂的10個人生哲理 \| 如果你現在很迷惘，請看完他 \| 好葉人生學](https://www.youtube.com/watch?v=kUgwjCz6e4I) | 20:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_kUgwjCz6e4I.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_kUgwjCz6e4I.txt) |
 | [為什麼專業基金經理，投資績效都不如散戶？ \| 你買的基金是不是都在虧錢？](https://www.youtube.com/watch?v=EtTen9LdGkA) | 15:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EtTen9LdGkA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EtTen9LdGkA.txt) |
 | [我如何在20s歲賺到100萬 \| 第一桶金的5堂课](https://www.youtube.com/watch?v=kTFoWZ2I1iE) | 15:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_kTFoWZ2I1iE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_kTFoWZ2I1iE.txt) |
-| [從0到100萬的三個階段 \| 打工族如何實現財富自由](https://www.youtube.com/watch?v=noagCwCmDGc) | 21:22 | 待转写 | — | — |
+| [從0到100萬的三個階段 \| 打工族如何實現財富自由](https://www.youtube.com/watch?v=noagCwCmDGc) | 21:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_noagCwCmDGc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_noagCwCmDGc.txt) |
 | [一念天堂，一念地獄。你應該使用槓桿嗎？\| 什麼是金融投資槓桿](https://www.youtube.com/watch?v=SfEmLb64uKI) | 8:44 | 待转写 | — | — |
 | [3個問題，幫你擺脫低效人生，戒掉拖延症 \| 好葉成長系列](https://www.youtube.com/watch?v=TLmtkroCYIs) | 10:18 | 待转写 | — | — |
 | [普通人達到財富自由最簡單方式！股票是最重要的資產？\|  好葉投資系列](https://www.youtube.com/watch?v=xrMdRR0if8g) | 14:04 | 待转写 | — | — |
