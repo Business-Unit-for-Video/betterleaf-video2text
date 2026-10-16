@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 202，待转写 383，失败待处理 1，文件不完整 0。
+共 586 条：已转写 203，待转写 382，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -211,7 +211,7 @@
 | [PART 1 脆弱的力量：讓你脆弱的，也讓你變得更勇敢 \| 動畫說書【好葉】](https://www.youtube.com/watch?v=myi5ElTb2Ko) | 10:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_myi5ElTb2Ko.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_myi5ElTb2Ko.txt) |
 | [被忽視的孩子：為什麼你總感到孤獨？\| 好葉說書](https://www.youtube.com/watch?v=LzkyWiUw4Rc) | 15:59 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LzkyWiUw4Rc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LzkyWiUw4Rc.txt) |
 | [經濟危機，你應該要怎樣投資？\| 經濟蕭條，加息通膨，失業率 \| 股災投資策略](https://www.youtube.com/watch?v=8Jf46davyo8) | 16:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8Jf46davyo8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8Jf46davyo8.txt) |
-| [怎樣投資股票賺錢：美股，ETF，開單交易，風險 \| 新手入門，看完秒懂如何投資賺錢](https://www.youtube.com/watch?v=5sbgQ1WThPk) | 23:30 | 待转写 | — | — |
+| [怎樣投資股票賺錢：美股，ETF，開單交易，風險 \| 新手入門，看完秒懂如何投資賺錢](https://www.youtube.com/watch?v=5sbgQ1WThPk) | 23:30 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5sbgQ1WThPk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5sbgQ1WThPk.txt) |
 | [從咖啡小偷到建立百億咖啡帝國 \| 星巴克創始人的傳奇故事](https://www.youtube.com/watch?v=_Xl1PFuOOtI) | 14:21 | 待转写 | — | — |
 | [3大步驟提升求職秘訣 \| 看穿僱用潛規則，立刻找到好工作【說書動畫】](https://www.youtube.com/watch?v=_20bGSnS9g0) | 10:43 | 待转写 | — | — |
 | [5個成就喬布斯的男人，商業天才背後的導師 \| PART 1：史蒂夫·喬布斯傳](https://www.youtube.com/watch?v=xtwzt1mkaFg) | 17:42 | 待转写 | — | — |
