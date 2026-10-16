@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 242，待转写 343，失败待处理 1，文件不完整 0。
+共 586 条：已转写 243，待转写 342，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -251,7 +251,7 @@
 | [西班牙最暢銷的心理學書 \| 讓人生停止灰暗的藝術](https://www.youtube.com/watch?v=xMnAwQ2lT6E) | 8:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xMnAwQ2lT6E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xMnAwQ2lT6E.txt) |
 | [三無青年的焦慮感  \| PART 1 小學問：解決你的7種人生焦慮 \| 動畫說書](https://www.youtube.com/watch?v=B8ikEJbeBAU) | 12:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_B8ikEJbeBAU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_B8ikEJbeBAU.txt) |
 | [創業家必看的商管經典著作 \| 基業長青 \| 動畫說書](https://www.youtube.com/watch?v=olLy7F3kZnk) | 10:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_olLy7F3kZnk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_olLy7F3kZnk.txt) |
-| [国富論：讓经济学之父教你變有錢 \| 亞當斯密斯 \| 動畫說書](https://www.youtube.com/watch?v=LB2ByaUYPlE) | 15:30 | 待转写 | — | — |
+| [国富論：讓经济学之父教你變有錢 \| 亞當斯密斯 \| 動畫說書](https://www.youtube.com/watch?v=LB2ByaUYPlE) | 15:30 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LB2ByaUYPlE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LB2ByaUYPlE.txt) |
 | [10分鐘了解加密貨幣歷史，和投資價值 \| 新時代貨幣！](https://www.youtube.com/watch?v=mR4eEPrAPXE) | 12:36 | 待转写 | — | — |
 | [啟動天賦3步曲：順著你的『天賦』找到你的『財富』 Feat #天賦專家 Jamie【好葉會客室 #EP8】](https://www.youtube.com/watch?v=rZ_TJXw1pu4) | 21:58 | 待转写 | — | — |
 | [3招讓你變得更靈活創意 \| 偉大的心智模型 \| 動畫說書](https://www.youtube.com/watch?v=M38akS4dxuQ) | 9:49 | 待转写 | — | — |
