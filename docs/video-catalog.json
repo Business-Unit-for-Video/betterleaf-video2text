@@ -3,10 +3,10 @@
   "channel_url": "https://www.youtube.com/@betterleaf",
   "repository": "Business-Unit-for-Video/betterleaf-video2text",
   "destination": "betterleaf",
-  "generated_at": "2026-10-16 19:11:34",
+  "generated_at": "2026-10-16 19:17:40",
   "counts": {
-    "completed": 282,
-    "pending": 303,
+    "completed": 283,
+    "pending": 302,
     "failed": 1,
     "partial": 0
   },
@@ -3131,9 +3131,9 @@
       "duration": 1148,
       "tab": "videos",
       "availability": null,
-      "transcript_status": "pending",
-      "plain_url": null,
-      "timestamps_url": null
+      "transcript_status": "completed",
+      "plain_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_DYBfnvYkAx0.txt",
+      "timestamps_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_DYBfnvYkAx0.txt"
     },
     {
       "id": "xKS5QCxo1uE",
@@ -5920,7 +5920,7 @@
     },
     {
       "id": "oWVvKL8u04M",
-      "title": "🇫🇷歌曲＋法國旅遊 Vlog，特別用AI弄了一首歌來做影片，大家覺得如何呢？",
+      "title": "🇫🇷A song + a France travel vlog. I even used AI to create a song for the video. What do you all t...",
       "url": "https://www.youtube.com/watch?v=oWVvKL8u04M",
       "duration": null,
       "tab": "shorts",
