@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 286，待转写 298，失败待处理 2，文件不完整 0。
+共 586 条：已转写 287，待转写 297，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -296,7 +296,7 @@
 | [5個無價的成長法則，讓你成為更高效的人 \| 好葉說書](https://www.youtube.com/watch?v=2OwfxZTRAhg) | 14:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_2OwfxZTRAhg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_2OwfxZTRAhg.txt) |
 | [5大行銷套路，你絕對不能錯過！我也中招了【好葉】](https://www.youtube.com/watch?v=rcRZZWM0WbM) | 7:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_rcRZZWM0WbM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_rcRZZWM0WbM.txt) |
 | [專注力：化繁爲簡的驚人力量 \| 如何有效戰勝拖延 【好葉】](https://www.youtube.com/watch?v=Z2gK9pB8WKQ) | 10:22 | 失败待处理 | — | — |
-| [斷捨離：你越捨就越富有，少即是多【好葉】](https://www.youtube.com/watch?v=uM5Dk7-kYms) | 10:23 | 待转写 | — | — |
+| [斷捨離：你越捨就越富有，少即是多【好葉】](https://www.youtube.com/watch?v=uM5Dk7-kYms) | 10:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_uM5Dk7-kYms.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_uM5Dk7-kYms.txt) |
 | [如何找回動力 \| 引導自我改變的2個方法 【好葉】](https://www.youtube.com/watch?v=hIz7xSOCKUQ) | 12:15 | 待转写 | — | — |
 | [活出幸福人生的6個指標，你中幾個？ 【好葉】](https://www.youtube.com/watch?v=Zi4L5M7QoQI) | 10:46 | 待转写 | — | — |
 | [4種方法提高金錢EQ，真正快樂的財富才會跟著來 \| Happy Money 動畫說書](https://www.youtube.com/watch?v=ltlM_LsU1YU) | 12:13 | 待转写 | — | — |

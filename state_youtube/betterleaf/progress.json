@@ -1,15 +1,15 @@
 {
-  "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/betterleaf/Z2gK9pB8WKQ.%(ext)s', 'https://www.youtube.com/watch?v=Z2gK9pB8WKQ'])",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 586,
-  "queue_index": 288,
-  "updated_at": 1792180337,
-  "updated_at_readable": "2026-10-16 19:52:17",
-  "current_video_id": "Z2gK9pB8WKQ",
-  "current_title": "專注力：化繁爲簡的驚人力量 | 如何有效戰勝拖延 【好葉】",
-  "current_url": "https://www.youtube.com/watch?v=Z2gK9pB8WKQ",
+  "queue_index": 289,
+  "updated_at": 1792187314,
+  "updated_at_readable": "2026-10-16 21:48:34",
+  "current_video_id": "uM5Dk7-kYms",
+  "current_title": "斷捨離：你越捨就越富有，少即是多【好葉】",
+  "current_url": "https://www.youtube.com/watch?v=uM5Dk7-kYms",
   "current_tab": "videos"
 }
