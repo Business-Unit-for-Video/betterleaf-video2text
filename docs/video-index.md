@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 205，待转写 380，失败待处理 1，文件不完整 0。
+共 586 条：已转写 206，待转写 379，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -214,7 +214,7 @@
 | [怎樣投資股票賺錢：美股，ETF，開單交易，風險 \| 新手入門，看完秒懂如何投資賺錢](https://www.youtube.com/watch?v=5sbgQ1WThPk) | 23:30 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5sbgQ1WThPk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5sbgQ1WThPk.txt) |
 | [從咖啡小偷到建立百億咖啡帝國 \| 星巴克創始人的傳奇故事](https://www.youtube.com/watch?v=_Xl1PFuOOtI) | 14:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf__Xl1PFuOOtI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf__Xl1PFuOOtI.txt) |
 | [3大步驟提升求職秘訣 \| 看穿僱用潛規則，立刻找到好工作【說書動畫】](https://www.youtube.com/watch?v=_20bGSnS9g0) | 10:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf__20bGSnS9g0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf__20bGSnS9g0.txt) |
-| [5個成就喬布斯的男人，商業天才背後的導師 \| PART 1：史蒂夫·喬布斯傳](https://www.youtube.com/watch?v=xtwzt1mkaFg) | 17:42 | 待转写 | — | — |
+| [5個成就喬布斯的男人，商業天才背後的導師 \| PART 1：史蒂夫·喬布斯傳](https://www.youtube.com/watch?v=xtwzt1mkaFg) | 17:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xtwzt1mkaFg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xtwzt1mkaFg.txt) |
 | [我差點被詐騙17000！6個你必知的詐騙心理學手段，白領最有可能中招](https://www.youtube.com/watch?v=ikeB2eyk2WY) | 16:39 | 待转写 | — | — |
 | [注意: 完美主義正在侵害你!! \| PART 1 哈佛積極心理學，一門幸福的科學課【動畫說書】](https://www.youtube.com/watch?v=1iq9OUFa1I8) | 12:17 | 待转写 | — | — |
 | [2022年趨勢預測! 有什麼生意是好賺錢的? Feat. 天賦理財專家 Jamie【好葉會客室 EP10】](https://www.youtube.com/watch?v=tq2D-Dy6CN0) | 24:18 | 待转写 | — | — |
