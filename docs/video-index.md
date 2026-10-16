@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 190，待转写 395，失败待处理 1，文件不完整 0。
+共 586 条：已转写 191，待转写 394，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -199,7 +199,7 @@
 | [我的0元辦公室，如何低成本創業白手起家 \| 佛係企業家，好葉工作室開箱](https://www.youtube.com/watch?v=5j5bZG198pE) | 13:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5j5bZG198pE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5j5bZG198pE.txt) |
 | [遇到衝突，你是不是又妥協了？\| 別再做沒立場的人了 \| PART 1 解決衝突的關鍵技巧](https://www.youtube.com/watch?v=pINqEH9y50o) | 8:56 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_pINqEH9y50o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_pINqEH9y50o.txt) |
 | [未來3年最需掌握的5大能力，VUCA時代更重要的可遷移能力 \| 如果不想被淘汰](https://www.youtube.com/watch?v=5Yw5SQ0WRiQ) | 14:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5Yw5SQ0WRiQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5Yw5SQ0WRiQ.txt) |
-| [PART 1 錯失中的歡樂：如何活得更多，做得更少 \| 擺脫焦慮不再FOMO \| The Joy of Missing Out 動畫說書](https://www.youtube.com/watch?v=O5wVjEzMLgo) | 12:48 | 待转写 | — | — |
+| [PART 1 錯失中的歡樂：如何活得更多，做得更少 \| 擺脫焦慮不再FOMO \| The Joy of Missing Out 動畫說書](https://www.youtube.com/watch?v=O5wVjEzMLgo) | 12:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_O5wVjEzMLgo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_O5wVjEzMLgo.txt) |
 | [PART 1 \| 堅毅：釋放激情與堅持的力量 \| 這才是你該追求的頂層目標 \| 動畫說書](https://www.youtube.com/watch?v=qC5obOPeQ9w) | 13:57 | 待转写 | — | — |
 | [你要如何過好這一生？PART 1 少有人走的路：心智成熟的旅程 \| 動畫說書](https://www.youtube.com/watch?v=WUtszKFVhQY) | 17:37 | 待转写 | — | — |
 | [7大法則，從新手到投資高手 \| 怎樣購買你的第一支股票 2022](https://www.youtube.com/watch?v=G7E1nMv9sME) | 16:20 | 待转写 | — | — |
