@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 246，待转写 339，失败待处理 1，文件不完整 0。
+共 586 条：已转写 247，待转写 338，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -255,7 +255,7 @@
 | [10分鐘了解加密貨幣歷史，和投資價值 \| 新時代貨幣！](https://www.youtube.com/watch?v=mR4eEPrAPXE) | 12:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mR4eEPrAPXE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mR4eEPrAPXE.txt) |
 | [啟動天賦3步曲：順著你的『天賦』找到你的『財富』 Feat #天賦專家 Jamie【好葉會客室 #EP8】](https://www.youtube.com/watch?v=rZ_TJXw1pu4) | 21:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_rZ_TJXw1pu4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_rZ_TJXw1pu4.txt) |
 | [3招讓你變得更靈活創意 \| 偉大的心智模型 \| 動畫說書](https://www.youtube.com/watch?v=M38akS4dxuQ) | 9:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_M38akS4dxuQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_M38akS4dxuQ.txt) |
-| [5件投資最重要的事 \| 教練，我想學投資！動畫說書](https://www.youtube.com/watch?v=O75RiTXI3io) | 12:17 | 待转写 | — | — |
+| [5件投資最重要的事 \| 教練，我想學投資！動畫說書](https://www.youtube.com/watch?v=O75RiTXI3io) | 12:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_O75RiTXI3io.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_O75RiTXI3io.txt) |
 | [十倍勝，絕不單靠運氣：在不確定中取勝的4大關鍵！\| 動畫說書](https://www.youtube.com/watch?v=KGl3BzvvRbE) | 7:57 | 待转写 | — | — |
 | [致富4階段：普通人如何從負債到財富自由 \| 絕對可行！](https://www.youtube.com/watch?v=dO43YU9XVqo) | 17:33 | 待转写 | — | — |
 | [7種减少干扰，提升專注力的簡單技巧 \| 高效工作的關鍵](https://www.youtube.com/watch?v=Bm_zGbA_pTw) | 10:44 | 待转写 | — | — |
