@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 112，待转写 473，失败待处理 1，文件不完整 0。
+共 586 条：已转写 113，待转写 472，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -121,7 +121,7 @@
 | [高學歷能成為有錢人嗎？更重要的是“知識層級”！5個習慣，讓你擁有「易富」體質～｜有錢人的書櫃 Part 2](https://www.youtube.com/watch?v=vJ6GpPFKH3U) | 28:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vJ6GpPFKH3U.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vJ6GpPFKH3U.txt) |
 | [股市讓你感覺變有錢，小心跌入財富效應的陷阱！ 美股創新高，通脹卻依舊不減！六個策略應對“假財富”，有效管理風險。](https://www.youtube.com/watch?v=GfOZGAeYcGs) | 23:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_GfOZGAeYcGs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_GfOZGAeYcGs.txt) |
 | [5個特質，決定你是5%的富人，還是95%的窮人！想成為有錢人，先了解有錢人的心理 \| 有錢人的書櫃總有一本心理學書 \| 好葉說書](https://www.youtube.com/watch?v=evumDQt_NQQ) | 30:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_evumDQt_NQQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_evumDQt_NQQ.txt) |
-| [揭示掙錢的最高境界！掙錢的六個境界，你屬於哪一層？](https://www.youtube.com/watch?v=YAVwF2p-plU) | 23:02 | 待转写 | — | — |
+| [揭示掙錢的最高境界！掙錢的六個境界，你屬於哪一層？](https://www.youtube.com/watch?v=YAVwF2p-plU) | 23:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YAVwF2p-plU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YAVwF2p-plU.txt) |
 | [專家預測：2024年股市將會暴跌80%？應對股市崩盤的6個策略，如何保護你的資產？](https://www.youtube.com/watch?v=PBl_Mmcfwr8) | 27:17 | 待转写 | — | — |
 | [先還債，還是先投資？一個選擇決定你需不需要多打10年工！ 先有緊急籌備金](https://www.youtube.com/watch?v=-g5o234rCSk) | 12:10 | 待转写 | — | — |
 | [內在的美好，會被外在創造出來 \| 如何由內而外的獲取成功，修復你的能量狀態 \| 情緒陰影、內在能量、童年創傷](https://www.youtube.com/watch?v=-dJsOR6ZU3k) | 29:13 | 待转写 | — | — |
