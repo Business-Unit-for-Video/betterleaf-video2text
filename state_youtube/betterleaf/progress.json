@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/betterleaf/Z2gK9pB8WKQ.%(ext)s', 'https://www.youtube.com/watch?v=Z2gK9pB8WKQ'])",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 586,
-  "queue_index": 287,
-  "updated_at": 1792179886,
-  "updated_at_readable": "2026-10-16 19:44:46",
-  "current_video_id": "rcRZZWM0WbM",
-  "current_title": "5大行銷套路，你絕對不能錯過！我也中招了【好葉】",
-  "current_url": "https://www.youtube.com/watch?v=rcRZZWM0WbM",
+  "queue_index": 288,
+  "updated_at": 1792180337,
+  "updated_at_readable": "2026-10-16 19:52:17",
+  "current_video_id": "Z2gK9pB8WKQ",
+  "current_title": "專注力：化繁爲簡的驚人力量 | 如何有效戰勝拖延 【好葉】",
+  "current_url": "https://www.youtube.com/watch?v=Z2gK9pB8WKQ",
   "current_tab": "videos"
 }
