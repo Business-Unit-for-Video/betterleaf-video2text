@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 133，待转写 452，失败待处理 1，文件不完整 0。
+共 586 条：已转写 134，待转写 451，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -142,7 +142,7 @@
 | [10個不尋常的理財方式，富人都在悄悄佈局！\| 不要只會房產和股票~](https://www.youtube.com/watch?v=xNg764JWf18) | 15:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xNg764JWf18.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xNg764JWf18.txt) |
 | [巴菲特的5種資產等級，你都擁有哪些資產？能夠抗通膨嗎｜Betterleaf 好葉](https://www.youtube.com/watch?v=8p-k1ohKLMo) | 14:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8p-k1ohKLMo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8p-k1ohKLMo.txt) |
 | [我連續交易3天，竟發現了新的獲利方式！交易挑戰 \| 富拓 實測](https://www.youtube.com/watch?v=9ok1O-BEikg) | 12:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_9ok1O-BEikg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_9ok1O-BEikg.txt) |
-| [【好葉】你的醫療保單是不是漲價了？！為什麼你的醫藥卡大漲價，儲蓄保險值不值得投資 \| Medical Insurance](https://www.youtube.com/watch?v=7UMxiITz3Nw) | 19:38 | 待转写 | — | — |
+| [【好葉】你的醫療保單是不是漲價了？！為什麼你的醫藥卡大漲價，儲蓄保險值不值得投資 \| Medical Insurance](https://www.youtube.com/watch?v=7UMxiITz3Nw) | 19:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7UMxiITz3Nw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7UMxiITz3Nw.txt) |
 | [4句話改變人生：深刻影響自己與他人的言語力量 ｜《Magic Words》 動畫說書](https://www.youtube.com/watch?v=mr47O8FTMBI) | 7:33 | 待转写 | — | — |
 | [你的說話方式，決定你的人生高度 \| 4個高級說話技巧，瞬間提升影響力｜動畫說書](https://www.youtube.com/watch?v=VRy1fwPd7DI) | 7:29 | 待转写 | — | — |
 | [4個步驟，自動化成為百萬富翁「美元」 \| 《The Automatic Millionaire》  讓錢為你工作的自動理財法](https://www.youtube.com/watch?v=vvbQTF1bAf4) | 10:53 | 待转写 | — | — |
