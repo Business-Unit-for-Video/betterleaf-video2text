@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 260，待转写 325，失败待处理 1，文件不完整 0。
+共 586 条：已转写 261，待转写 324，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -269,7 +269,7 @@
 | [4大致富的關鍵：鄰家的百萬富翁，富人沒告訴你的秘密 \| 好葉說書](https://www.youtube.com/watch?v=09taRzaxO4Y) | 12:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_09taRzaxO4Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_09taRzaxO4Y.txt) |
 | [從讚賞開始，改變你的職場關係 \| 赞赏的五种语言](https://www.youtube.com/watch?v=0BcjAG5nj_Q) | 21:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_0BcjAG5nj_Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_0BcjAG5nj_Q.txt) |
 | [5大遠距必備能力 \| 啟動遠距工作，設計你的理想生活 \| 好葉說書](https://www.youtube.com/watch?v=9il7hGEYIYk) | 11:26 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_9il7hGEYIYk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_9il7hGEYIYk.txt) |
-| [晨起日記：一招讓你擺脫焦慮，找回高效狀態！](https://www.youtube.com/watch?v=KRJwUV1ALMs) | 14:50 | 待转写 | — | — |
+| [晨起日記：一招讓你擺脫焦慮，找回高效狀態！](https://www.youtube.com/watch?v=KRJwUV1ALMs) | 14:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_KRJwUV1ALMs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_KRJwUV1ALMs.txt) |
 | [請停止無效努力 \| 如何用正確的方法快速進階](https://www.youtube.com/watch?v=Wf3WUsfJsVM) | 11:46 | 待转写 | — | — |
 | [你有選擇困難症嗎？ \|  選擇的悖論︰用心理學解讀人的經濟行為](https://www.youtube.com/watch?v=eB5xqzfWwCQ) | 11:39 | 待转写 | — | — |
 | [PART 1：蔦屋經營哲學 \| 创造让顾客怦然心动的生活方式](https://www.youtube.com/watch?v=9O73CVmBhq8) | 14:04 | 待转写 | — | — |
