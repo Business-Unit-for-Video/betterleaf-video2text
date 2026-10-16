@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 163，待转写 422，失败待处理 1，文件不完整 0。
+共 586 条：已转写 164，待转写 421，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -172,7 +172,7 @@
 | [Netflix靠什麼成功？千億串流帝國的經營哲學 \| PART 1 不拘一格：網飛的自由與責任工作法](https://www.youtube.com/watch?v=4F68ZzRbyT8) | 10:54 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4F68ZzRbyT8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4F68ZzRbyT8.txt) |
 | [2023年最賺錢的7大趨勢行業，抓住紅利讓你不怕沒錢！Feat: Yale Chen 網絡創業家](https://www.youtube.com/watch?v=TKA-J5Z4wb8) | 17:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_TKA-J5Z4wb8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_TKA-J5Z4wb8.txt) |
 | [PART 1 不可撼動的財務自由：成功投資的4大法則 \| 動畫說書](https://www.youtube.com/watch?v=8rNzwsAddOs) | 14:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8rNzwsAddOs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8rNzwsAddOs.txt) |
-| [5位頂流心理學家的人生智慧，讓你重塑人生的幸福感 \| 《20位心理學大師的人生必修課》 \| 好葉說書](https://www.youtube.com/watch?v=obYipll0XWM) | 26:38 | 待转写 | — | — |
+| [5位頂流心理學家的人生智慧，讓你重塑人生的幸福感 \| 《20位心理學大師的人生必修課》 \| 好葉說書](https://www.youtube.com/watch?v=obYipll0XWM) | 26:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_obYipll0XWM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_obYipll0XWM.txt) |
 | [你真正害怕的是「被暴露」\| PART 1 社恐自救法：3招教你如何克服社交焦慮 \| 動畫說書](https://www.youtube.com/watch?v=xv8XT8X1HYI) | 11:55 | 待转写 | — | — |
 | [這是我一整年創業失敗的經驗 \| 半途而廢的我學會的5件事，好葉創業經歷](https://www.youtube.com/watch?v=ugrocfssp50) | 21:36 | 待转写 | — | — |
 | [這個AI正在淘汰掉你的工作 \| 寫文案、說書、編程、幫你設計通通幫你搞定 \| Feat. ChatGPT-3](https://www.youtube.com/watch?v=5jKmxbIaq78) | 29:55 | 待转写 | — | — |
