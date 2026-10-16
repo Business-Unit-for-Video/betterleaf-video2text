@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 288，待转写 296，失败待处理 2，文件不完整 0。
+共 586 条：已转写 289，待转写 295，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -298,7 +298,7 @@
 | [專注力：化繁爲簡的驚人力量 \| 如何有效戰勝拖延 【好葉】](https://www.youtube.com/watch?v=Z2gK9pB8WKQ) | 10:22 | 失败待处理 | — | — |
 | [斷捨離：你越捨就越富有，少即是多【好葉】](https://www.youtube.com/watch?v=uM5Dk7-kYms) | 10:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_uM5Dk7-kYms.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_uM5Dk7-kYms.txt) |
 | [如何找回動力 \| 引導自我改變的2個方法 【好葉】](https://www.youtube.com/watch?v=hIz7xSOCKUQ) | 12:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_hIz7xSOCKUQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_hIz7xSOCKUQ.txt) |
-| [活出幸福人生的6個指標，你中幾個？ 【好葉】](https://www.youtube.com/watch?v=Zi4L5M7QoQI) | 10:46 | 待转写 | — | — |
+| [活出幸福人生的6個指標，你中幾個？ 【好葉】](https://www.youtube.com/watch?v=Zi4L5M7QoQI) | 10:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Zi4L5M7QoQI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Zi4L5M7QoQI.txt) |
 | [4種方法提高金錢EQ，真正快樂的財富才會跟著來 \| Happy Money 動畫說書](https://www.youtube.com/watch?v=ltlM_LsU1YU) | 12:13 | 待转写 | — | — |
 | [如何精準表達，有效溝通的技術 \| SCQA模型【好葉】](https://www.youtube.com/watch?v=QQE_Hnno6xc) | 10:56 | 待转写 | — | — |
 | [原來15分鐘的運動效果比一個小時的還要好  \| 速效運動 【好葉】](https://www.youtube.com/watch?v=hbTYlqwbzPQ) | 9:42 | 待转写 | — | — |
