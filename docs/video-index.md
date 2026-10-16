@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 219，待转写 366，失败待处理 1，文件不完整 0。
+共 586 条：已转写 220，待转写 365，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -228,7 +228,7 @@
 | [從A到A+：企業從優秀到卓越的奧祕 \| 暢銷百萬的管理智慧 \| 動畫說書](https://www.youtube.com/watch?v=nU5vmvlBSo0) | 8:08 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nU5vmvlBSo0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nU5vmvlBSo0.txt) |
 | [60%的人都有這一個病症，請你好好正視！ \| 4大方法擺脫憂鬱症](https://www.youtube.com/watch?v=TA__TkztPfo) | 17:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_TA__TkztPfo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_TA__TkztPfo.txt) |
 | [10分鐘了解流動性挖礦 \| 不用礦機的挖礦方式，Defi 加密貨幣被動收入方式 \| 加密貨幣投資](https://www.youtube.com/watch?v=vrBylnQ5Cqc) | 8:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vrBylnQ5Cqc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vrBylnQ5Cqc.txt) |
-| [破解你對 "財務自由" 的迷思！\|《財務自由實踐版》工作與理財的規劃指南](https://www.youtube.com/watch?v=ASvZXjAPlbA) | 10:21 | 待转写 | — | — |
+| [破解你對 "財務自由" 的迷思！\|《財務自由實踐版》工作與理財的規劃指南](https://www.youtube.com/watch?v=ASvZXjAPlbA) | 10:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ASvZXjAPlbA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ASvZXjAPlbA.txt) |
 | [為什麼我們會下意識的買單？ 3個必學銷售心理學  \| PART 1：影響力 【動畫書評】](https://www.youtube.com/watch?v=DP_pjsWdNhw) | 10:55 | 待转写 | — | — |
 | [10個你要趁早了解的金錢法則 \| 有錢人和你想得不一樣！](https://www.youtube.com/watch?v=6CRStLfm-s8) | 12:37 | 待转写 | — | — |
 | [一個讓你不再自責、自我否定的幸福法則 \| 四大信條 Part 3](https://www.youtube.com/watch?v=WsZNC1rop3I) | 13:49 | 待转写 | — | — |
