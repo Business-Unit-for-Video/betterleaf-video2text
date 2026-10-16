@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 137，待转写 448，失败待处理 1，文件不完整 0。
+共 586 条：已转写 138，待转写 447，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -146,7 +146,7 @@
 | [4句話改變人生：深刻影響自己與他人的言語力量 ｜《Magic Words》 動畫說書](https://www.youtube.com/watch?v=mr47O8FTMBI) | 7:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mr47O8FTMBI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mr47O8FTMBI.txt) |
 | [你的說話方式，決定你的人生高度 \| 4個高級說話技巧，瞬間提升影響力｜動畫說書](https://www.youtube.com/watch?v=VRy1fwPd7DI) | 7:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_VRy1fwPd7DI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_VRy1fwPd7DI.txt) |
 | [4個步驟，自動化成為百萬富翁「美元」 \| 《The Automatic Millionaire》  讓錢為你工作的自動理財法](https://www.youtube.com/watch?v=vvbQTF1bAf4) | 10:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vvbQTF1bAf4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vvbQTF1bAf4.txt) |
-| [我如何從憂鬱情緒中，自救起來](https://www.youtube.com/watch?v=NHoEovz9syw) | 11:29 | 待转写 | — | — |
+| [我如何從憂鬱情緒中，自救起來](https://www.youtube.com/watch?v=NHoEovz9syw) | 11:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_NHoEovz9syw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_NHoEovz9syw.txt) |
 | [一個故事看懂財務報表，提升90%投資創業成功幾率  \| 小島創業故事](https://www.youtube.com/watch?v=gdtUDPkg8IY) | 23:24 | 待转写 | — | — |
 | [希望我20歲就懂的10個人生哲理 \| 如果你現在很迷惘，請看完他 \| 好葉人生學](https://www.youtube.com/watch?v=kUgwjCz6e4I) | 20:17 | 待转写 | — | — |
 | [為什麼專業基金經理，投資績效都不如散戶？ \| 你買的基金是不是都在虧錢？](https://www.youtube.com/watch?v=EtTen9LdGkA) | 15:21 | 待转写 | — | — |
