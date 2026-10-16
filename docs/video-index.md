@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 159，待转写 426，失败待处理 1，文件不完整 0。
+共 586 条：已转写 160，待转写 425，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -168,7 +168,7 @@
 | [7個低門檻被動收入，普通人也能輕鬆實現！每月賺1000美金，告別月光族，迎接財富自由之路](https://www.youtube.com/watch?v=IBfe44O2PSY) | 17:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_IBfe44O2PSY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_IBfe44O2PSY.txt) |
 | [21世紀資本論：為什麼勞動者越來越窮，而資本家越來越富 \| 3個破圈法則邁向新富時代，避免成為貧富差距的受害者](https://www.youtube.com/watch?v=q87J4IrXyps) | 11:56 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_q87J4IrXyps.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_q87J4IrXyps.txt) |
 | [輕鬆致富5大策略: 不做預算、不投資股票、不挑戰意志力的理財金字塔 \| 我要教你變有錢](https://www.youtube.com/watch?v=JmShMJUXNHM) | 12:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JmShMJUXNHM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JmShMJUXNHM.txt) |
-| [7個副業賺錢項目，你現在就可以開始月賺超過1千美金 \| 2023年最容易賺的副業項目](https://www.youtube.com/watch?v=w8Xk8ElAHJc) | 16:00 | 待转写 | — | — |
+| [7個副業賺錢項目，你現在就可以開始月賺超過1千美金 \| 2023年最容易賺的副業項目](https://www.youtube.com/watch?v=w8Xk8ElAHJc) | 16:00 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_w8Xk8ElAHJc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_w8Xk8ElAHJc.txt) |
 | [Netflix靠什麼成功？千億串流帝國的經營哲學 \| PART 1 不拘一格：網飛的自由與責任工作法](https://www.youtube.com/watch?v=4F68ZzRbyT8) | 10:54 | 待转写 | — | — |
 | [2023年最賺錢的7大趨勢行業，抓住紅利讓你不怕沒錢！Feat: Yale Chen 網絡創業家](https://www.youtube.com/watch?v=TKA-J5Z4wb8) | 17:35 | 待转写 | — | — |
 | [PART 1 不可撼動的財務自由：成功投資的4大法則 \| 動畫說書](https://www.youtube.com/watch?v=8rNzwsAddOs) | 14:13 | 待转写 | — | — |
