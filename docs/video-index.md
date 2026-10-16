@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 233，待转写 352，失败待处理 1，文件不完整 0。
+共 586 条：已转写 234，待转写 351，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -242,7 +242,7 @@
 | [10個必學加密貨幣投資知識 \|【穩定幣, defi, 出入金, 充值, 交易所, 轉幣】](https://www.youtube.com/watch?v=6hCC2nkyk3c) | 12:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6hCC2nkyk3c.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6hCC2nkyk3c.txt) |
 | [如何让公众表达变成影响力？ \|  背稿和不背稿優缺點  \| 演講的力量](https://www.youtube.com/watch?v=TS4Us2yLoZo) | 8:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_TS4Us2yLoZo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_TS4Us2yLoZo.txt) |
 | [7個最簡單的理財技巧，更快速地積纍財富 \| 守財比賺錢更簡單](https://www.youtube.com/watch?v=gMMxUwe-juc) | 12:25 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_gMMxUwe-juc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_gMMxUwe-juc.txt) |
-| [有效破解拖延的小技巧 \| 短视频](https://www.youtube.com/watch?v=ZtajqAwXGuw) | 0:52 | 待转写 | — | — |
+| [有效破解拖延的小技巧 \| 短视频](https://www.youtube.com/watch?v=ZtajqAwXGuw) | 0:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZtajqAwXGuw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZtajqAwXGuw.txt) |
 | [Matrixport實測：最適合小白的幣理財平台，30%年化收益！？\| 雙幣理財、保本固收、活期投資、流動挖礦](https://www.youtube.com/watch?v=rOeWwj4y7-Q) | 15:17 | 待转写 | — | — |
 | [iPhone13 新品發佈後，蘋果再次躺贏其它對手？！蘋果股票值得投資嗎？【送你價值150usd蘋果股票】](https://www.youtube.com/watch?v=EljCn9RoDzM) | 8:46 | 待转写 | — | — |
 | [10個讓你越來越有錢的資產，現金很重要！ \| 小改變累積大財富  \| 投資生財](https://www.youtube.com/watch?v=hNjdgoqrpLg) | 12:14 | 待转写 | — | — |
