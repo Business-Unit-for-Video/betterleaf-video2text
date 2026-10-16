@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 277，待转写 308，失败待处理 1，文件不完整 0。
+共 586 条：已转写 278，待转写 307，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -286,7 +286,7 @@
 | [請停止無效努力：如何用正確的方法快速找出你的天賦 【好葉】](https://www.youtube.com/watch?v=UVVXT2b72eM) | 9:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_UVVXT2b72eM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_UVVXT2b72eM.txt) |
 | [4大指標，帶你創造卓越的職業表現 \| Part 1：現在，發現你的職業優勢](https://www.youtube.com/watch?v=dJtANzFF6jY) | 9:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dJtANzFF6jY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dJtANzFF6jY.txt) |
 | [3種提問方式教你如何問出好的問題 \| 精準提問的力量](https://www.youtube.com/watch?v=S4Fb_LL6Bsw) | 7:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_S4Fb_LL6Bsw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_S4Fb_LL6Bsw.txt) |
-| [女性才是天生的投資高手 \| 向女性学习投资 【好葉】](https://www.youtube.com/watch?v=RWDgqbc0bSc) | 10:19 | 待转写 | — | — |
+| [女性才是天生的投資高手 \| 向女性学习投资 【好葉】](https://www.youtube.com/watch?v=RWDgqbc0bSc) | 10:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RWDgqbc0bSc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RWDgqbc0bSc.txt) |
 | [成為你想看到的改變：重新定義你的工作和學習 \| 好葉說書](https://www.youtube.com/watch?v=j_LuNGgBrgw) | 8:43 | 待转写 | — | — |
 | [彈性習慣：3個步驟無痛養成好習慣 \| 好葉說書](https://www.youtube.com/watch?v=dnxM8RTtCIU) | 11:22 | 待转写 | — | — |
 | [當幸福出現時，你能抓住嗎？\| 正念的奇跡【好葉】](https://www.youtube.com/watch?v=F2Pixifhi5M) | 11:11 | 待转写 | — | — |
