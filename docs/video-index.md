@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 295，待转写 289，失败待处理 2，文件不完整 0。
+共 586 条：已转写 296，待转写 288，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -305,7 +305,7 @@
 | [成為自己的內在英雄：6種人格原型 \| 瞭解你的人生階段【好葉】](https://www.youtube.com/watch?v=HDCoZ9m-H7o) | 13:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HDCoZ9m-H7o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HDCoZ9m-H7o.txt) |
 | [如果你是個很在意別人評價的人，請參考這3個建議【好葉】](https://www.youtube.com/watch?v=WFQhp8Hyqv0) | 9:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_WFQhp8Hyqv0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_WFQhp8Hyqv0.txt) |
 | [黑匣子思維: 我們如何更理性的犯錯 \| 好葉說書](https://www.youtube.com/watch?v=gk4VACYLh_8) | 8:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_gk4VACYLh_8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_gk4VACYLh_8.txt) |
-| [3招重新塑造好奇心的方法 【好葉】](https://www.youtube.com/watch?v=e0jXtkwLqok) | 7:15 | 待转写 | — | — |
+| [3招重新塑造好奇心的方法 【好葉】](https://www.youtube.com/watch?v=e0jXtkwLqok) | 7:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_e0jXtkwLqok.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_e0jXtkwLqok.txt) |
 | [5個幫助你找到工作意義的小技巧，讓你對工作充滿動力 【好葉】](https://www.youtube.com/watch?v=HzfM-azPpfM) | 11:41 | 待转写 | — | — |
 | [3個高效法則幫你找回內在動力 \| 為何我們總是想得太多，卻做得太少 【好葉】](https://www.youtube.com/watch?v=jBMkanZkzeM) | 13:07 | 待转写 | — | — |
 | [稀缺：我們是如何陷入貧窮與忙碌的 \| 動畫說書 【好葉】](https://www.youtube.com/watch?v=1qL4xgB7fTY) | 9:48 | 待转写 | — | — |
