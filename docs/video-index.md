@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 310，待转写 274，失败待处理 2，文件不完整 0。
+共 586 条：已转写 311，待转写 273，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -320,7 +320,7 @@
 | [5種策略，大幅提升職場工作效率！\| 每天最重要的2小時 【好葉】](https://www.youtube.com/watch?v=LZ6ogZaP_YA) | 9:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LZ6ogZaP_YA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LZ6ogZaP_YA.txt) |
 | [當商業開始改變世界：從亞當．斯密到巴菲特，探看近300年世界商業思潮演變與影響 \| 動畫說書](https://www.youtube.com/watch?v=-VSPPgEUcnE) | 15:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-VSPPgEUcnE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-VSPPgEUcnE.txt) |
 | [工作不开心，因爲薪水不高？明白这3点再做决定 【好葉】](https://www.youtube.com/watch?v=vi1NzaXouHc) | 8:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vi1NzaXouHc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vi1NzaXouHc.txt) |
-| [3招提升复原力：面對挫折和失敗的重要能力 \| 尋找復原力 \| 好葉說書](https://www.youtube.com/watch?v=Dq1En5SGScU) | 12:14 | 待转写 | — | — |
+| [3招提升复原力：面對挫折和失敗的重要能力 \| 尋找復原力 \| 好葉說書](https://www.youtube.com/watch?v=Dq1En5SGScU) | 12:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Dq1En5SGScU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Dq1En5SGScU.txt) |
 | [認識聆聽的5個等級，學習「真心誠意的聆聽」\| 好葉](https://www.youtube.com/watch?v=PfnnYX6Zg5E) | 6:23 | 待转写 | — | — |
 | [年輕人必懂的5大理財觀念和技巧 【好葉】](https://www.youtube.com/watch?v=EcG6Mgk33S4) | 11:33 | 待转写 | — | — |
 | [5個步驟掌握早起的習慣 \| 早起的奇跡【好葉】](https://www.youtube.com/watch?v=7ruv8mWKlCY) | 8:13 | 待转写 | — | — |
