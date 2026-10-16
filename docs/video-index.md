@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 252，待转写 333，失败待处理 1，文件不完整 0。
+共 586 条：已转写 253，待转写 332，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -261,7 +261,7 @@
 | [7種减少干扰，提升專注力的簡單技巧 \| 高效工作的關鍵](https://www.youtube.com/watch?v=Bm_zGbA_pTw) | 10:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Bm_zGbA_pTw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Bm_zGbA_pTw.txt) |
 | [3大理財盲點，讓你陷入月光族的陷阱！\| 心理賬戶偏差](https://www.youtube.com/watch?v=_be6Zh5IYQs) | 9:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf__be6Zh5IYQs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf__be6Zh5IYQs.txt) |
 | [事後補救 vs 超前部署 \| 3種扯你後腿的思維盲點 \| 上游思維](https://www.youtube.com/watch?v=ELNXiZ2voXs) | 12:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ELNXiZ2voXs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ELNXiZ2voXs.txt) |
-| [大遠距時代來臨！高效遠距工作的7個訣竅！](https://www.youtube.com/watch?v=9v3T5fqUe4g) | 14:25 | 待转写 | — | — |
+| [大遠距時代來臨！高效遠距工作的7個訣竅！](https://www.youtube.com/watch?v=9v3T5fqUe4g) | 14:25 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_9v3T5fqUe4g.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_9v3T5fqUe4g.txt) |
 | [3個撩妹高手常用的秘訣 - 話題永遠聊不完 ！](https://www.youtube.com/watch?v=bmP0uGKII68) | 11:39 | 待转写 | — | — |
 | [創業精神，從10歲教起 \| 3招培養創業思維](https://www.youtube.com/watch?v=VAx5NHNg6qc) | 10:40 | 待转写 | — | — |
 | [簡單到不行！ 學會這6種超好用的表達善意方式](https://www.youtube.com/watch?v=00EQ5TTMQ_c) | 13:18 | 待转写 | — | — |
