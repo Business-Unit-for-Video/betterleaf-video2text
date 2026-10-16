@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 258，待转写 327，失败待处理 1，文件不完整 0。
+共 586 条：已转写 259，待转写 326，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -267,7 +267,7 @@
 | [簡單到不行！ 學會這6種超好用的表達善意方式](https://www.youtube.com/watch?v=00EQ5TTMQ_c) | 13:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_00EQ5TTMQ_c.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_00EQ5TTMQ_c.txt) |
 | [FUTU MOOMOO tutorial - How to claim Apple share and Nio share for FREE!](https://www.youtube.com/watch?v=M2I1FQsR8lg) | 21:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_M2I1FQsR8lg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_M2I1FQsR8lg.txt) |
 | [4大致富的關鍵：鄰家的百萬富翁，富人沒告訴你的秘密 \| 好葉說書](https://www.youtube.com/watch?v=09taRzaxO4Y) | 12:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_09taRzaxO4Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_09taRzaxO4Y.txt) |
-| [從讚賞開始，改變你的職場關係 \| 赞赏的五种语言](https://www.youtube.com/watch?v=0BcjAG5nj_Q) | 21:19 | 待转写 | — | — |
+| [從讚賞開始，改變你的職場關係 \| 赞赏的五种语言](https://www.youtube.com/watch?v=0BcjAG5nj_Q) | 21:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_0BcjAG5nj_Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_0BcjAG5nj_Q.txt) |
 | [5大遠距必備能力 \| 啟動遠距工作，設計你的理想生活 \| 好葉說書](https://www.youtube.com/watch?v=9il7hGEYIYk) | 11:26 | 待转写 | — | — |
 | [晨起日記：一招讓你擺脫焦慮，找回高效狀態！](https://www.youtube.com/watch?v=KRJwUV1ALMs) | 14:50 | 待转写 | — | — |
 | [請停止無效努力 \| 如何用正確的方法快速進階](https://www.youtube.com/watch?v=Wf3WUsfJsVM) | 11:46 | 待转写 | — | — |
