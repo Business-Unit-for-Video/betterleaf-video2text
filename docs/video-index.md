@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 165，待转写 420，失败待处理 1，文件不完整 0。
+共 586 条：已转写 166，待转写 419，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -174,7 +174,7 @@
 | [PART 1 不可撼動的財務自由：成功投資的4大法則 \| 動畫說書](https://www.youtube.com/watch?v=8rNzwsAddOs) | 14:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8rNzwsAddOs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8rNzwsAddOs.txt) |
 | [5位頂流心理學家的人生智慧，讓你重塑人生的幸福感 \| 《20位心理學大師的人生必修課》 \| 好葉說書](https://www.youtube.com/watch?v=obYipll0XWM) | 26:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_obYipll0XWM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_obYipll0XWM.txt) |
 | [你真正害怕的是「被暴露」\| PART 1 社恐自救法：3招教你如何克服社交焦慮 \| 動畫說書](https://www.youtube.com/watch?v=xv8XT8X1HYI) | 11:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xv8XT8X1HYI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xv8XT8X1HYI.txt) |
-| [這是我一整年創業失敗的經驗 \| 半途而廢的我學會的5件事，好葉創業經歷](https://www.youtube.com/watch?v=ugrocfssp50) | 21:36 | 待转写 | — | — |
+| [這是我一整年創業失敗的經驗 \| 半途而廢的我學會的5件事，好葉創業經歷](https://www.youtube.com/watch?v=ugrocfssp50) | 21:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ugrocfssp50.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ugrocfssp50.txt) |
 | [這個AI正在淘汰掉你的工作 \| 寫文案、說書、編程、幫你設計通通幫你搞定 \| Feat. ChatGPT-3](https://www.youtube.com/watch?v=5jKmxbIaq78) | 29:55 | 待转写 | — | — |
 | [13個理財法則，從月光族到財富自由 \| 輕鬆改善你的財務狀況](https://www.youtube.com/watch?v=_xWbPpSj7b8) | 17:50 | 待转写 | — | — |
 | [2023兔年看風水轉運，原來風水師是這樣創業賺錢的！Feat #風水師 Master Addison Foo【好葉會客室 EP11 - 內無十二生肖運程】](https://www.youtube.com/watch?v=hd8fRaA0zXE) | 18:49 | 待转写 | — | — |
