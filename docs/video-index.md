@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 147，待转写 438，失败待处理 1，文件不完整 0。
+共 586 条：已转写 148，待转写 437，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -156,7 +156,7 @@
 | [3個問題，幫你擺脫低效人生，戒掉拖延症 \| 好葉成長系列](https://www.youtube.com/watch?v=TLmtkroCYIs) | 10:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_TLmtkroCYIs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_TLmtkroCYIs.txt) |
 | [普通人達到財富自由最簡單方式！股票是最重要的資產？\|  好葉投資系列](https://www.youtube.com/watch?v=xrMdRR0if8g) | 14:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xrMdRR0if8g.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xrMdRR0if8g.txt) |
 | [我如何做到31歲就財富自由 \| XX的投資金額 「附贈財富自由模擬器」 \| 好葉投資系列](https://www.youtube.com/watch?v=2xawwx_Ckr4) | 19:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_2xawwx_Ckr4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_2xawwx_Ckr4.txt) |
-| [不要買股了！23年一遇，投資債券最好時機？ \| 好葉投資系列](https://www.youtube.com/watch?v=vYUuz32zSzU) | 10:27 | 待转写 | — | — |
+| [不要買股了！23年一遇，投資債券最好時機？ \| 好葉投資系列](https://www.youtube.com/watch?v=vYUuz32zSzU) | 10:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vYUuz32zSzU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vYUuz32zSzU.txt) |
 | [如何在投資中100%的獲利！資料科學家告訴你：千萬不要抄底！「持續買進」才是致富不敗法則  \|《持續買進》Just keep buying](https://www.youtube.com/watch?v=BI1J_zyXHXg) | 11:59 | 待转写 | — | — |
 | [致富3大槓桿：普通人如何從零到財富自由 \| 絕對有效！納瓦爾寶典](https://www.youtube.com/watch?v=8jDlXj-naRM) | 12:47 | 待转写 | — | — |
 | [反脆弱：如何把壓力變成你的成長動力 \| 一個超簡單的技巧！](https://www.youtube.com/watch?v=NTZT93N8i0Y) | 11:02 | 待转写 | — | — |
