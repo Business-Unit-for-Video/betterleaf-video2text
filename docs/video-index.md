@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 120，待转写 465，失败待处理 1，文件不完整 0。
+共 586 条：已转写 121，待转写 464，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -129,7 +129,7 @@
 | [30歲送給自己的禮物，車的故事 Porsche Taycan 2024 開箱 \| 好葉](https://www.youtube.com/watch?v=5HAkWT6EtwQ) | 16:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5HAkWT6EtwQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5HAkWT6EtwQ.txt) |
 | [年收240萬，居然是低產階級！ 壓死年輕人的竟是這原因，一招教你破局](https://www.youtube.com/watch?v=BsPeO99r9QQ) | 12:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_BsPeO99r9QQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_BsPeO99r9QQ.txt) |
 | [按照你的年齡段，你應該存下收入的多少%？ \| 退休金錢規劃 \| 好葉](https://www.youtube.com/watch?v=eBWhY91_Xgc) | 10:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_eBWhY91_Xgc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_eBWhY91_Xgc.txt) |
-| [你的第一個10萬很難，但最重要！克服這4大挑戰，教你如何快速累積第一桶金！\| 好葉](https://www.youtube.com/watch?v=YusFAgN-1-Y) | 10:01 | 待转写 | — | — |
+| [你的第一個10萬很難，但最重要！克服這4大挑戰，教你如何快速累積第一桶金！\| 好葉](https://www.youtube.com/watch?v=YusFAgN-1-Y) | 10:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YusFAgN-1-Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YusFAgN-1-Y.txt) |
 | [為什麼身邊的人都比你有錢？真相居然是...  4個原因，你只是少做了這幾點 \| 好葉](https://www.youtube.com/watch?v=lh61PfMH9vU) | 11:14 | 待转写 | — | — |
 | [10大財富自由訊號，你目前中了幾個？其實你比想象中的有錢！\| 好葉](https://www.youtube.com/watch?v=duIaPn_GpFg) | 11:21 | 待转写 | — | — |
 | [「普通人和窮人的距離，只隔著一場大病」貧窮的兩大陷阱，窮人無法翻身的重要原因！](https://www.youtube.com/watch?v=m9SaInuciNg) | 7:16 | 待转写 | — | — |
