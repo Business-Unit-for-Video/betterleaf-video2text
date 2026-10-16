@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 230，待转写 355，失败待处理 1，文件不完整 0。
+共 586 条：已转写 231，待转写 354，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -239,7 +239,7 @@
 | [別再做出很多字的PPT了！3個元素，讓你用PPT融資千萬 \| 演講的力量](https://www.youtube.com/watch?v=64TWW2YmZv8) | 6:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_64TWW2YmZv8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_64TWW2YmZv8.txt) |
 | [成長讀書會：一年讀懂100本書，翻轉你的財富人生 \| 最精華實用的讀書會](https://www.youtube.com/watch?v=T0xR14K54HA) | 3:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_T0xR14K54HA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_T0xR14K54HA.txt) |
 | [5大戒律，讓你走上百萬富翁的快車道 PART 1\|  慢慢理財致富是一個謊言【動畫書評】](https://www.youtube.com/watch?v=r_k781pKWGU) | 14:20 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_r_k781pKWGU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_r_k781pKWGU.txt) |
-| [10個必學加密貨幣投資知識 \|【穩定幣, defi, 出入金, 充值, 交易所, 轉幣】](https://www.youtube.com/watch?v=6hCC2nkyk3c) | 12:39 | 待转写 | — | — |
+| [10個必學加密貨幣投資知識 \|【穩定幣, defi, 出入金, 充值, 交易所, 轉幣】](https://www.youtube.com/watch?v=6hCC2nkyk3c) | 12:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6hCC2nkyk3c.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6hCC2nkyk3c.txt) |
 | [如何让公众表达变成影响力？ \|  背稿和不背稿優缺點  \| 演講的力量](https://www.youtube.com/watch?v=TS4Us2yLoZo) | 8:47 | 待转写 | — | — |
 | [7個最簡單的理財技巧，更快速地積纍財富 \| 守財比賺錢更簡單](https://www.youtube.com/watch?v=gMMxUwe-juc) | 12:25 | 待转写 | — | — |
 | [有效破解拖延的小技巧 \| 短视频](https://www.youtube.com/watch?v=ZtajqAwXGuw) | 0:52 | 待转写 | — | — |
