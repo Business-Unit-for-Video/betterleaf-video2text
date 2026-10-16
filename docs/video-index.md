@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 232，待转写 353，失败待处理 1，文件不完整 0。
+共 586 条：已转写 233，待转写 352，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -241,7 +241,7 @@
 | [5大戒律，讓你走上百萬富翁的快車道 PART 1\|  慢慢理財致富是一個謊言【動畫書評】](https://www.youtube.com/watch?v=r_k781pKWGU) | 14:20 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_r_k781pKWGU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_r_k781pKWGU.txt) |
 | [10個必學加密貨幣投資知識 \|【穩定幣, defi, 出入金, 充值, 交易所, 轉幣】](https://www.youtube.com/watch?v=6hCC2nkyk3c) | 12:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6hCC2nkyk3c.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6hCC2nkyk3c.txt) |
 | [如何让公众表达变成影响力？ \|  背稿和不背稿優缺點  \| 演講的力量](https://www.youtube.com/watch?v=TS4Us2yLoZo) | 8:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_TS4Us2yLoZo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_TS4Us2yLoZo.txt) |
-| [7個最簡單的理財技巧，更快速地積纍財富 \| 守財比賺錢更簡單](https://www.youtube.com/watch?v=gMMxUwe-juc) | 12:25 | 待转写 | — | — |
+| [7個最簡單的理財技巧，更快速地積纍財富 \| 守財比賺錢更簡單](https://www.youtube.com/watch?v=gMMxUwe-juc) | 12:25 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_gMMxUwe-juc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_gMMxUwe-juc.txt) |
 | [有效破解拖延的小技巧 \| 短视频](https://www.youtube.com/watch?v=ZtajqAwXGuw) | 0:52 | 待转写 | — | — |
 | [Matrixport實測：最適合小白的幣理財平台，30%年化收益！？\| 雙幣理財、保本固收、活期投資、流動挖礦](https://www.youtube.com/watch?v=rOeWwj4y7-Q) | 15:17 | 待转写 | — | — |
 | [iPhone13 新品發佈後，蘋果再次躺贏其它對手？！蘋果股票值得投資嗎？【送你價值150usd蘋果股票】](https://www.youtube.com/watch?v=EljCn9RoDzM) | 8:46 | 待转写 | — | — |
