@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 186，待转写 399，失败待处理 1，文件不完整 0。
+共 586 条：已转写 187，待转写 398，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -195,7 +195,7 @@
 | [PART 1 \| 1小時完成1天工作，亞馬遜怎麼辦到的？ \| The Amazon Way 動畫說書](https://www.youtube.com/watch?v=UWrZMF_vhoE) | 11:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_UWrZMF_vhoE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_UWrZMF_vhoE.txt) |
 | [唯有痛苦才能讓人清醒 \| 在艱難時刻，你才能學到的3件事，磨煉心智看清事實](https://www.youtube.com/watch?v=OermZPKTNBo) | 14:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OermZPKTNBo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OermZPKTNBo.txt) |
 | [比爾蓋茲推薦必讀的「反思法」，如何像科學家一樣思考 \| Think Again by Adam Grant \| 動畫說書](https://www.youtube.com/watch?v=ahcb1YmlsRA) | 7:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ahcb1YmlsRA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ahcb1YmlsRA.txt) |
-| [2022年百物漲價，我們该如何應對，化危機為轉機？\| 3大法則改變命運 \| 好葉](https://www.youtube.com/watch?v=T_sUrfsyM8I) | 14:29 | 待转写 | — | — |
+| [2022年百物漲價，我們该如何應對，化危機為轉機？\| 3大法則改變命運 \| 好葉](https://www.youtube.com/watch?v=T_sUrfsyM8I) | 14:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_T_sUrfsyM8I.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_T_sUrfsyM8I.txt) |
 | [我的0元辦公室，如何低成本創業白手起家 \| 佛係企業家，好葉工作室開箱](https://www.youtube.com/watch?v=5j5bZG198pE) | 13:41 | 待转写 | — | — |
 | [遇到衝突，你是不是又妥協了？\| 別再做沒立場的人了 \| PART 1 解決衝突的關鍵技巧](https://www.youtube.com/watch?v=pINqEH9y50o) | 8:56 | 待转写 | — | — |
 | [未來3年最需掌握的5大能力，VUCA時代更重要的可遷移能力 \| 如果不想被淘汰](https://www.youtube.com/watch?v=5Yw5SQ0WRiQ) | 14:40 | 待转写 | — | — |
