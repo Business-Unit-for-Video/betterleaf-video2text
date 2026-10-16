@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 208，待转写 377，失败待处理 1，文件不完整 0。
+共 586 条：已转写 209，待转写 376，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -217,7 +217,7 @@
 | [5個成就喬布斯的男人，商業天才背後的導師 \| PART 1：史蒂夫·喬布斯傳](https://www.youtube.com/watch?v=xtwzt1mkaFg) | 17:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xtwzt1mkaFg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xtwzt1mkaFg.txt) |
 | [我差點被詐騙17000！6個你必知的詐騙心理學手段，白領最有可能中招](https://www.youtube.com/watch?v=ikeB2eyk2WY) | 16:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ikeB2eyk2WY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ikeB2eyk2WY.txt) |
 | [注意: 完美主義正在侵害你!! \| PART 1 哈佛積極心理學，一門幸福的科學課【動畫說書】](https://www.youtube.com/watch?v=1iq9OUFa1I8) | 12:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1iq9OUFa1I8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1iq9OUFa1I8.txt) |
-| [2022年趨勢預測! 有什麼生意是好賺錢的? Feat. 天賦理財專家 Jamie【好葉會客室 EP10】](https://www.youtube.com/watch?v=tq2D-Dy6CN0) | 24:18 | 待转写 | — | — |
+| [2022年趨勢預測! 有什麼生意是好賺錢的? Feat. 天賦理財專家 Jamie【好葉會客室 EP10】](https://www.youtube.com/watch?v=tq2D-Dy6CN0) | 24:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_tq2D-Dy6CN0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_tq2D-Dy6CN0.txt) |
 | [精準達成目標的7大法則 \| 用SMARTER規劃你最好的一年 \| 動畫說書](https://www.youtube.com/watch?v=ZYvFDddoR-s) | 14:26 | 待转写 | — | — |
 | [墨非定律: 越擔心的事, 越容易發生 \| 你還相信星座、算命專家嗎？ 【動畫說書】](https://www.youtube.com/watch?v=7AYknXYPsn4) | 13:18 | 待转写 | — | — |
 | [小資族創建百萬被動收入的秘訣!! Feat. 蕾咪【好葉會客室 #EP9】](https://www.youtube.com/watch?v=xtJP1wgSDto) | 26:55 | 待转写 | — | — |
