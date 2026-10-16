@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 235，待转写 350，失败待处理 1，文件不完整 0。
+共 586 条：已转写 236，待转写 349，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -244,7 +244,7 @@
 | [7個最簡單的理財技巧，更快速地積纍財富 \| 守財比賺錢更簡單](https://www.youtube.com/watch?v=gMMxUwe-juc) | 12:25 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_gMMxUwe-juc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_gMMxUwe-juc.txt) |
 | [有效破解拖延的小技巧 \| 短视频](https://www.youtube.com/watch?v=ZtajqAwXGuw) | 0:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZtajqAwXGuw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZtajqAwXGuw.txt) |
 | [Matrixport實測：最適合小白的幣理財平台，30%年化收益！？\| 雙幣理財、保本固收、活期投資、流動挖礦](https://www.youtube.com/watch?v=rOeWwj4y7-Q) | 15:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_rOeWwj4y7-Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_rOeWwj4y7-Q.txt) |
-| [iPhone13 新品發佈後，蘋果再次躺贏其它對手？！蘋果股票值得投資嗎？【送你價值150usd蘋果股票】](https://www.youtube.com/watch?v=EljCn9RoDzM) | 8:46 | 待转写 | — | — |
+| [iPhone13 新品發佈後，蘋果再次躺贏其它對手？！蘋果股票值得投資嗎？【送你價值150usd蘋果股票】](https://www.youtube.com/watch?v=EljCn9RoDzM) | 8:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EljCn9RoDzM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EljCn9RoDzM.txt) |
 | [10個讓你越來越有錢的資產，現金很重要！ \| 小改變累積大財富  \| 投資生財](https://www.youtube.com/watch?v=hNjdgoqrpLg) | 12:14 | 待转写 | — | — |
 | [5種加密貨幣，投資獲利的方式！NFT, PoW, AirDrops, PoS, PoT 哪種投資最好賺](https://www.youtube.com/watch?v=XGj4g7oG0GI) | 11:52 | 待转写 | — | — |
 | [国富論 Part 2：如何花錢致富，越花越有錢！資本的運用  \|  亞當斯密斯  \|  動畫說書](https://www.youtube.com/watch?v=Xb1cf-nE--Y) | 12:12 | 待转写 | — | — |
