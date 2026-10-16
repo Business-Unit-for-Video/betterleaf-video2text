@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 273，待转写 312，失败待处理 1，文件不完整 0。
+共 586 条：已转写 274，待转写 311，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -282,7 +282,7 @@
 | [致富心態：關於財富、貪婪與幸福的20堂理財課 \| 好葉說書](https://www.youtube.com/watch?v=ssRgoAq2t9w) | 14:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ssRgoAq2t9w.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ssRgoAq2t9w.txt) |
 | [運用7Cs來加强你在職場上的表達能力 \| 7c溝通法則](https://www.youtube.com/watch?v=lWHQuSYaRDo) | 10:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_lWHQuSYaRDo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_lWHQuSYaRDo.txt) |
 | [5個幫助你減輕工作環境壓力的小技巧 \| 高效工作](https://www.youtube.com/watch?v=nSEfSS4ZaqQ) | 8:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nSEfSS4ZaqQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nSEfSS4ZaqQ.txt) |
-| [高手都在這3種心法提高決策力  \| Part 1：你有你的計劃，世界另有計劃](https://www.youtube.com/watch?v=FHkj9qlsSZw) | 11:51 | 待转写 | — | — |
+| [高手都在這3種心法提高決策力  \| Part 1：你有你的計劃，世界另有計劃](https://www.youtube.com/watch?v=FHkj9qlsSZw) | 11:51 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_FHkj9qlsSZw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_FHkj9qlsSZw.txt) |
 | [請停止無效努力：如何用正確的方法快速找出你的天賦 【好葉】](https://www.youtube.com/watch?v=UVVXT2b72eM) | 9:13 | 待转写 | — | — |
 | [4大指標，帶你創造卓越的職業表現 \| Part 1：現在，發現你的職業優勢](https://www.youtube.com/watch?v=dJtANzFF6jY) | 9:15 | 待转写 | — | — |
 | [3種提問方式教你如何問出好的問題 \| 精準提問的力量](https://www.youtube.com/watch?v=S4Fb_LL6Bsw) | 7:50 | 待转写 | — | — |
