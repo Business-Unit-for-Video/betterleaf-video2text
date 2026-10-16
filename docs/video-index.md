@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 167，待转写 418，失败待处理 1，文件不完整 0。
+共 586 条：已转写 168，待转写 417，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -176,7 +176,7 @@
 | [你真正害怕的是「被暴露」\| PART 1 社恐自救法：3招教你如何克服社交焦慮 \| 動畫說書](https://www.youtube.com/watch?v=xv8XT8X1HYI) | 11:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xv8XT8X1HYI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xv8XT8X1HYI.txt) |
 | [這是我一整年創業失敗的經驗 \| 半途而廢的我學會的5件事，好葉創業經歷](https://www.youtube.com/watch?v=ugrocfssp50) | 21:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ugrocfssp50.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ugrocfssp50.txt) |
 | [這個AI正在淘汰掉你的工作 \| 寫文案、說書、編程、幫你設計通通幫你搞定 \| Feat. ChatGPT-3](https://www.youtube.com/watch?v=5jKmxbIaq78) | 29:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5jKmxbIaq78.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5jKmxbIaq78.txt) |
-| [13個理財法則，從月光族到財富自由 \| 輕鬆改善你的財務狀況](https://www.youtube.com/watch?v=_xWbPpSj7b8) | 17:50 | 待转写 | — | — |
+| [13個理財法則，從月光族到財富自由 \| 輕鬆改善你的財務狀況](https://www.youtube.com/watch?v=_xWbPpSj7b8) | 17:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf__xWbPpSj7b8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf__xWbPpSj7b8.txt) |
 | [2023兔年看風水轉運，原來風水師是這樣創業賺錢的！Feat #風水師 Master Addison Foo【好葉會客室 EP11 - 內無十二生肖運程】](https://www.youtube.com/watch?v=hd8fRaA0zXE) | 18:49 | 待转写 | — | — |
 | [經濟蕭條，富人變得更富的10個原因 \| 有錢人不告訴你的秘密](https://www.youtube.com/watch?v=qWwDKAK7Czo) | 13:15 | 待转写 | — | — |
 | [如果你的人生停滯不前，請停止這些行為 \| 7個你必須去除的攔路石，為了美好的2023年](https://www.youtube.com/watch?v=TkmCt12mr5s) | 13:30 | 待转写 | — | — |
