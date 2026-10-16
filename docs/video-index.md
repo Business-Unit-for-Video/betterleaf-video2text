@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 143，待转写 442，失败待处理 1，文件不完整 0。
+共 586 条：已转写 144，待转写 441，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -152,7 +152,7 @@
 | [為什麼專業基金經理，投資績效都不如散戶？ \| 你買的基金是不是都在虧錢？](https://www.youtube.com/watch?v=EtTen9LdGkA) | 15:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EtTen9LdGkA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EtTen9LdGkA.txt) |
 | [我如何在20s歲賺到100萬 \| 第一桶金的5堂课](https://www.youtube.com/watch?v=kTFoWZ2I1iE) | 15:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_kTFoWZ2I1iE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_kTFoWZ2I1iE.txt) |
 | [從0到100萬的三個階段 \| 打工族如何實現財富自由](https://www.youtube.com/watch?v=noagCwCmDGc) | 21:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_noagCwCmDGc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_noagCwCmDGc.txt) |
-| [一念天堂，一念地獄。你應該使用槓桿嗎？\| 什麼是金融投資槓桿](https://www.youtube.com/watch?v=SfEmLb64uKI) | 8:44 | 待转写 | — | — |
+| [一念天堂，一念地獄。你應該使用槓桿嗎？\| 什麼是金融投資槓桿](https://www.youtube.com/watch?v=SfEmLb64uKI) | 8:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_SfEmLb64uKI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_SfEmLb64uKI.txt) |
 | [3個問題，幫你擺脫低效人生，戒掉拖延症 \| 好葉成長系列](https://www.youtube.com/watch?v=TLmtkroCYIs) | 10:18 | 待转写 | — | — |
 | [普通人達到財富自由最簡單方式！股票是最重要的資產？\|  好葉投資系列](https://www.youtube.com/watch?v=xrMdRR0if8g) | 14:04 | 待转写 | — | — |
 | [我如何做到31歲就財富自由 \| XX的投資金額 「附贈財富自由模擬器」 \| 好葉投資系列](https://www.youtube.com/watch?v=2xawwx_Ckr4) | 19:31 | 待转写 | — | — |
