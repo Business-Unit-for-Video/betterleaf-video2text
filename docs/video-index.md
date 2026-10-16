@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 200，待转写 385，失败待处理 1，文件不完整 0。
+共 586 条：已转写 201，待转写 384，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -42,7 +42,7 @@
 | [2025年投資績效公開！資產突破60萬美金，我是如何持續戰勝大盤的？](https://www.youtube.com/watch?v=X4Sos6etERw) | 29:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_X4Sos6etERw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_X4Sos6etERw.txt) |
 | [投資為何會越努力越窮？揭秘 90% 散戶虧損的真相：你需要的不是「勤勞」，而是像富人一樣的「鈍感力」](https://www.youtube.com/watch?v=qvb7iulxKkQ) | 16:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_qvb7iulxKkQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_qvb7iulxKkQ.txt) |
 | [Still worried about AI taking your job? Elon Musk predicts: "Work will become an option," reveali...](https://www.youtube.com/watch?v=nCmxZGjWxO4) | 18:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nCmxZGjWxO4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nCmxZGjWxO4.txt) |
-| [Why is saving $20,000 a real turning point in your life?](https://www.youtube.com/watch?v=Xsn9IiGsKXs) | 14:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xsn9IiGsKXs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xsn9IiGsKXs.txt) |
+| [為什麼存到2萬美元，是你人生真正的分水嶺？](https://www.youtube.com/watch?v=Xsn9IiGsKXs) | 14:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xsn9IiGsKXs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xsn9IiGsKXs.txt) |
 | [3個月財富增長超越99%的人！TRM法則讓你的錢自動翻倍](https://www.youtube.com/watch?v=24NngMEoagk) | 17:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_24NngMEoagk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_24NngMEoagk.txt) |
 | [停止窮忙！想成為百萬富翁（美金），你只需要盯緊這4個「致富數字」](https://www.youtube.com/watch?v=o2PZmuEm01Q) | 16:53 | 失败待处理 | — | — |
 | [「穩定」是這時代最大的謊言：別讓一份薪水，鎖死你的一生！【好葉】](https://www.youtube.com/watch?v=GVcAdCgDQVo) | 14:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_GVcAdCgDQVo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_GVcAdCgDQVo.txt) |
@@ -209,7 +209,7 @@
 | [累死你的不是工作，是工作方法！\| 動畫說書 \| 便簽工作法](https://www.youtube.com/watch?v=ygDq48zZXKc) | 9:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ygDq48zZXKc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ygDq48zZXKc.txt) |
 | [大學你應該做的5件事，讓你快速成長！我是如何從學渣到學霸的【好葉】](https://www.youtube.com/watch?v=-aLANpBIeqY) | 14:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-aLANpBIeqY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-aLANpBIeqY.txt) |
 | [PART 1 脆弱的力量：讓你脆弱的，也讓你變得更勇敢 \| 動畫說書【好葉】](https://www.youtube.com/watch?v=myi5ElTb2Ko) | 10:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_myi5ElTb2Ko.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_myi5ElTb2Ko.txt) |
-| [被忽視的孩子：為什麼你總感到孤獨？\| 好葉說書](https://www.youtube.com/watch?v=LzkyWiUw4Rc) | 15:59 | 待转写 | — | — |
+| [被忽視的孩子：為什麼你總感到孤獨？\| 好葉說書](https://www.youtube.com/watch?v=LzkyWiUw4Rc) | 15:59 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LzkyWiUw4Rc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LzkyWiUw4Rc.txt) |
 | [經濟危機，你應該要怎樣投資？\| 經濟蕭條，加息通膨，失業率 \| 股災投資策略](https://www.youtube.com/watch?v=8Jf46davyo8) | 16:52 | 待转写 | — | — |
 | [怎樣投資股票賺錢：美股，ETF，開單交易，風險 \| 新手入門，看完秒懂如何投資賺錢](https://www.youtube.com/watch?v=5sbgQ1WThPk) | 23:30 | 待转写 | — | — |
 | [從咖啡小偷到建立百億咖啡帝國 \| 星巴克創始人的傳奇故事](https://www.youtube.com/watch?v=_Xl1PFuOOtI) | 14:21 | 待转写 | — | — |
