@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 290，待转写 294，失败待处理 2，文件不完整 0。
+共 586 条：已转写 291，待转写 293，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -300,7 +300,7 @@
 | [如何找回動力 \| 引導自我改變的2個方法 【好葉】](https://www.youtube.com/watch?v=hIz7xSOCKUQ) | 12:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_hIz7xSOCKUQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_hIz7xSOCKUQ.txt) |
 | [活出幸福人生的6個指標，你中幾個？ 【好葉】](https://www.youtube.com/watch?v=Zi4L5M7QoQI) | 10:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Zi4L5M7QoQI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Zi4L5M7QoQI.txt) |
 | [4種方法提高金錢EQ，真正快樂的財富才會跟著來 \| Happy Money 動畫說書](https://www.youtube.com/watch?v=ltlM_LsU1YU) | 12:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ltlM_LsU1YU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ltlM_LsU1YU.txt) |
-| [如何精準表達，有效溝通的技術 \| SCQA模型【好葉】](https://www.youtube.com/watch?v=QQE_Hnno6xc) | 10:56 | 待转写 | — | — |
+| [如何精準表達，有效溝通的技術 \| SCQA模型【好葉】](https://www.youtube.com/watch?v=QQE_Hnno6xc) | 10:56 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_QQE_Hnno6xc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_QQE_Hnno6xc.txt) |
 | [原來15分鐘的運動效果比一個小時的還要好  \| 速效運動 【好葉】](https://www.youtube.com/watch?v=hbTYlqwbzPQ) | 9:42 | 待转写 | — | — |
 | [成為自己的內在英雄：6種人格原型 \| 瞭解你的人生階段【好葉】](https://www.youtube.com/watch?v=HDCoZ9m-H7o) | 13:37 | 待转写 | — | — |
 | [如果你是個很在意別人評價的人，請參考這3個建議【好葉】](https://www.youtube.com/watch?v=WFQhp8Hyqv0) | 9:07 | 待转写 | — | — |
