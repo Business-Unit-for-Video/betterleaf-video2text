@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 152，待转写 433，失败待处理 1，文件不完整 0。
+共 586 条：已转写 153，待转写 432，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -161,7 +161,7 @@
 | [致富3大槓桿：普通人如何從零到財富自由 \| 絕對有效！納瓦爾寶典](https://www.youtube.com/watch?v=8jDlXj-naRM) | 12:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8jDlXj-naRM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8jDlXj-naRM.txt) |
 | [反脆弱：如何把壓力變成你的成長動力 \| 一個超簡單的技巧！](https://www.youtube.com/watch?v=NTZT93N8i0Y) | 11:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_NTZT93N8i0Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_NTZT93N8i0Y.txt) |
 | [身家破億的投資秘訣：如何利用天賦投資理財？ \| feat: Jamie 天賦專家](https://www.youtube.com/watch?v=RLywh07YNpA) | 20:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RLywh07YNpA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RLywh07YNpA.txt) |
-| [因果方程式：如何達成任何目標的四因論  \| 亞里士多德的智慧](https://www.youtube.com/watch?v=2Kray7TPxDA) | 12:02 | 待转写 | — | — |
+| [因果方程式：如何達成任何目標的四因論  \| 亞里士多德的智慧](https://www.youtube.com/watch?v=2Kray7TPxDA) | 12:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_2Kray7TPxDA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_2Kray7TPxDA.txt) |
 | [成功創新的人，都具備這3個關鍵思維！ PART 1 讓大象飛：如何成為下一個十億獨角獸](https://www.youtube.com/watch?v=qXOAI1kXb38) | 11:21 | 待转写 | — | — |
 | [90萬訂閱YouTube頻道被盜，五年心血就這樣沒了？ 我如何在24小時內快速恢復\| 防盜技巧tips分享](https://www.youtube.com/watch?v=WsctH9wU3fk) | 13:49 | 待转写 | — | — |
 | [買磚致富：如何用自媒體打造千人房產團隊，10年累積10套房 \| feat Tony Yap](https://www.youtube.com/watch?v=scuEv4d3CP8) | 15:17 | 待转写 | — | — |
