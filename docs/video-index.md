@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 305，待转写 279，失败待处理 2，文件不完整 0。
+共 586 条：已转写 306，待转写 278，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -315,7 +315,7 @@
 | [人性的弱點：如何贏得友誼和影響他人的6大法則 \| 好葉說書](https://www.youtube.com/watch?v=wPL5N-5BYJ4) | 14:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wPL5N-5BYJ4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wPL5N-5BYJ4.txt) |
 | [如果你現在對人生很迷茫，請花10分鐘觀看此影片 \| 少，但更好 【好葉】](https://www.youtube.com/watch?v=aJAaLszp-9w) | 10:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_aJAaLszp-9w.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_aJAaLszp-9w.txt) |
 | [為什麼很多人用吸引力法則失敗？明白這3點你就會成功！【好葉】](https://www.youtube.com/watch?v=Hf_A3XLMRKw) | 6:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Hf_A3XLMRKw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Hf_A3XLMRKw.txt) |
-| [如何延緩大腦老化，提高大腦記憶力的4種主要方法 \| 不老的腦 【好葉】](https://www.youtube.com/watch?v=lSkLtuw3_qs) | 7:19 | 待转写 | — | — |
+| [如何延緩大腦老化，提高大腦記憶力的4種主要方法 \| 不老的腦 【好葉】](https://www.youtube.com/watch?v=lSkLtuw3_qs) | 7:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_lSkLtuw3_qs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_lSkLtuw3_qs.txt) |
 | [人的大腦為什麼會變老？答案就是因為"它” \| 不老的腦 【好葉】](https://www.youtube.com/watch?v=KODkzicVbuM) | 7:21 | 待转写 | — | — |
 | [5種策略，大幅提升職場工作效率！\| 每天最重要的2小時 【好葉】](https://www.youtube.com/watch?v=LZ6ogZaP_YA) | 9:09 | 待转写 | — | — |
 | [當商業開始改變世界：從亞當．斯密到巴菲特，探看近300年世界商業思潮演變與影響 \| 動畫說書](https://www.youtube.com/watch?v=-VSPPgEUcnE) | 15:14 | 待转写 | — | — |
