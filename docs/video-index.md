@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 124，待转写 461，失败待处理 1，文件不完整 0。
+共 586 条：已转写 125，待转写 460，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -133,7 +133,7 @@
 | [為什麼身邊的人都比你有錢？真相居然是...  4個原因，你只是少做了這幾點 \| 好葉](https://www.youtube.com/watch?v=lh61PfMH9vU) | 11:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_lh61PfMH9vU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_lh61PfMH9vU.txt) |
 | [10大財富自由訊號，你目前中了幾個？其實你比想象中的有錢！\| 好葉](https://www.youtube.com/watch?v=duIaPn_GpFg) | 11:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_duIaPn_GpFg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_duIaPn_GpFg.txt) |
 | [「普通人和窮人的距離，只隔著一場大病」貧窮的兩大陷阱，窮人無法翻身的重要原因！](https://www.youtube.com/watch?v=m9SaInuciNg) | 7:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_m9SaInuciNg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_m9SaInuciNg.txt) |
-| [If you don’t want to be poor and busy all your life, please avoid these 8 middle-class traps!](https://www.youtube.com/watch?v=DKaCLyDV5c8) | 7:42 | 待转写 | — | — |
+| [If you don’t want to be poor and busy all your life, please avoid these 8 middle-class traps!](https://www.youtube.com/watch?v=DKaCLyDV5c8) | 7:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_DKaCLyDV5c8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_DKaCLyDV5c8.txt) |
 | [4 steps to build wealth from scratch without relying on your father! \| Are you doing it right?](https://www.youtube.com/watch?v=qKUkFJhmFEU) | 7:52 | 待转写 | — | — |
 | [100 Baggers: The Profit Guide every investor pursues throughout his life \| Betterleaf 好葉](https://www.youtube.com/watch?v=Tfquso85RhE) | 10:50 | 待转写 | — | — |
 | [How much money you should have by Age? It’s different from what you think! \| Average Wealth Report](https://www.youtube.com/watch?v=1n3ZofY7co8) | 10:43 | 待转写 | — | — |
