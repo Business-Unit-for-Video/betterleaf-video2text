@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 210，待转写 375，失败待处理 1，文件不完整 0。
+共 586 条：已转写 211，待转写 374，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -219,7 +219,7 @@
 | [注意: 完美主義正在侵害你!! \| PART 1 哈佛積極心理學，一門幸福的科學課【動畫說書】](https://www.youtube.com/watch?v=1iq9OUFa1I8) | 12:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1iq9OUFa1I8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1iq9OUFa1I8.txt) |
 | [2022年趨勢預測! 有什麼生意是好賺錢的? Feat. 天賦理財專家 Jamie【好葉會客室 EP10】](https://www.youtube.com/watch?v=tq2D-Dy6CN0) | 24:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_tq2D-Dy6CN0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_tq2D-Dy6CN0.txt) |
 | [精準達成目標的7大法則 \| 用SMARTER規劃你最好的一年 \| 動畫說書](https://www.youtube.com/watch?v=ZYvFDddoR-s) | 14:26 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZYvFDddoR-s.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZYvFDddoR-s.txt) |
-| [墨非定律: 越擔心的事, 越容易發生 \| 你還相信星座、算命專家嗎？ 【動畫說書】](https://www.youtube.com/watch?v=7AYknXYPsn4) | 13:18 | 待转写 | — | — |
+| [墨非定律: 越擔心的事, 越容易發生 \| 你還相信星座、算命專家嗎？ 【動畫說書】](https://www.youtube.com/watch?v=7AYknXYPsn4) | 13:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7AYknXYPsn4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7AYknXYPsn4.txt) |
 | [小資族創建百萬被動收入的秘訣!! Feat. 蕾咪【好葉會客室 #EP9】](https://www.youtube.com/watch?v=xtJP1wgSDto) | 26:55 | 待转写 | — | — |
 | [演說高手都是這樣練的: 歐陽立中的40堂魅力演說課 \| 動畫說書](https://www.youtube.com/watch?v=2pS0vy4POwI) | 15:05 | 待转写 | — | — |
 | [Matrixport: 全網最強，最簡單的幣理財全攻略 \| 入金策略、Defi、固收保底、雙幣理財、區間獵手、自動復投](https://www.youtube.com/watch?v=NdlkBPYaY6Q) | 16:17 | 待转写 | — | — |
