@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 198，待转写 387，失败待处理 1，文件不完整 0。
+共 586 条：已转写 199，待转写 386，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -207,7 +207,7 @@
 | [10大常犯投資陷阱，新手必學的投資誤區！ 好葉的投資血淚教訓](https://www.youtube.com/watch?v=JM9XImAWSs0) | 14:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JM9XImAWSs0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JM9XImAWSs0.txt) |
 | [這10本財商思維，讓我從0賺到100萬美金 \| 好書推薦 \| 好葉財商思維](https://www.youtube.com/watch?v=cjUx2cXza0A) | 12:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_cjUx2cXza0A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_cjUx2cXza0A.txt) |
 | [累死你的不是工作，是工作方法！\| 動畫說書 \| 便簽工作法](https://www.youtube.com/watch?v=ygDq48zZXKc) | 9:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ygDq48zZXKc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ygDq48zZXKc.txt) |
-| [大學你應該做的5件事，讓你快速成長！我是如何從學渣到學霸的【好葉】](https://www.youtube.com/watch?v=-aLANpBIeqY) | 14:49 | 待转写 | — | — |
+| [大學你應該做的5件事，讓你快速成長！我是如何從學渣到學霸的【好葉】](https://www.youtube.com/watch?v=-aLANpBIeqY) | 14:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-aLANpBIeqY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-aLANpBIeqY.txt) |
 | [PART 1 脆弱的力量：讓你脆弱的，也讓你變得更勇敢 \| 動畫說書【好葉】](https://www.youtube.com/watch?v=myi5ElTb2Ko) | 10:15 | 待转写 | — | — |
 | [被忽視的孩子：為什麼你總感到孤獨？\| 好葉說書](https://www.youtube.com/watch?v=LzkyWiUw4Rc) | 15:59 | 待转写 | — | — |
 | [經濟危機，你應該要怎樣投資？\| 經濟蕭條，加息通膨，失業率 \| 股災投資策略](https://www.youtube.com/watch?v=8Jf46davyo8) | 16:52 | 待转写 | — | — |
