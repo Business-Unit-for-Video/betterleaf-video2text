@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 279，待转写 306，失败待处理 1，文件不完整 0。
+共 586 条：已转写 280，待转写 305，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -288,7 +288,7 @@
 | [3種提問方式教你如何問出好的問題 \| 精準提問的力量](https://www.youtube.com/watch?v=S4Fb_LL6Bsw) | 7:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_S4Fb_LL6Bsw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_S4Fb_LL6Bsw.txt) |
 | [女性才是天生的投資高手 \| 向女性学习投资 【好葉】](https://www.youtube.com/watch?v=RWDgqbc0bSc) | 10:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RWDgqbc0bSc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RWDgqbc0bSc.txt) |
 | [成為你想看到的改變：重新定義你的工作和學習 \| 好葉說書](https://www.youtube.com/watch?v=j_LuNGgBrgw) | 8:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_j_LuNGgBrgw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_j_LuNGgBrgw.txt) |
-| [彈性習慣：3個步驟無痛養成好習慣 \| 好葉說書](https://www.youtube.com/watch?v=dnxM8RTtCIU) | 11:22 | 待转写 | — | — |
+| [彈性習慣：3個步驟無痛養成好習慣 \| 好葉說書](https://www.youtube.com/watch?v=dnxM8RTtCIU) | 11:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dnxM8RTtCIU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dnxM8RTtCIU.txt) |
 | [當幸福出現時，你能抓住嗎？\| 正念的奇跡【好葉】](https://www.youtube.com/watch?v=F2Pixifhi5M) | 11:11 | 待转写 | — | — |
 | [如何提高自己的情商：3個步驟成為一個高EQ的人](https://www.youtube.com/watch?v=xX86lOQXNLY) | 9:34 | 待转写 | — | — |
 | [反脆弱：如何在不確定中持續獲益 \| 好葉說書](https://www.youtube.com/watch?v=DYBfnvYkAx0) | 19:08 | 待转写 | — | — |
