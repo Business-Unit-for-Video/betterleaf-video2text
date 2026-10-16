@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 240，待转写 345，失败待处理 1，文件不完整 0。
+共 586 条：已转写 241，待转写 344，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -249,7 +249,7 @@
 | [5種加密貨幣，投資獲利的方式！NFT, PoW, AirDrops, PoS, PoT 哪種投資最好賺](https://www.youtube.com/watch?v=XGj4g7oG0GI) | 11:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_XGj4g7oG0GI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_XGj4g7oG0GI.txt) |
 | [国富論 Part 2：如何花錢致富，越花越有錢！資本的運用  \|  亞當斯密斯  \|  動畫說書](https://www.youtube.com/watch?v=Xb1cf-nE--Y) | 12:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xb1cf-nE--Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xb1cf-nE--Y.txt) |
 | [西班牙最暢銷的心理學書 \| 讓人生停止灰暗的藝術](https://www.youtube.com/watch?v=xMnAwQ2lT6E) | 8:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xMnAwQ2lT6E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xMnAwQ2lT6E.txt) |
-| [三無青年的焦慮感  \| PART 1 小學問：解決你的7種人生焦慮 \| 動畫說書](https://www.youtube.com/watch?v=B8ikEJbeBAU) | 12:03 | 待转写 | — | — |
+| [三無青年的焦慮感  \| PART 1 小學問：解決你的7種人生焦慮 \| 動畫說書](https://www.youtube.com/watch?v=B8ikEJbeBAU) | 12:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_B8ikEJbeBAU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_B8ikEJbeBAU.txt) |
 | [創業家必看的商管經典著作 \| 基業長青 \| 動畫說書](https://www.youtube.com/watch?v=olLy7F3kZnk) | 10:27 | 待转写 | — | — |
 | [国富論：讓经济学之父教你變有錢 \| 亞當斯密斯 \| 動畫說書](https://www.youtube.com/watch?v=LB2ByaUYPlE) | 15:30 | 待转写 | — | — |
 | [10分鐘了解加密貨幣歷史，和投資價值 \| 新時代貨幣！](https://www.youtube.com/watch?v=mR4eEPrAPXE) | 12:36 | 待转写 | — | — |
