@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 180，待转写 405，失败待处理 1，文件不完整 0。
+共 586 条：已转写 181，待转写 404，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -189,7 +189,7 @@
 | [ABC法則：不用推銷，也能把產品賣出去 \| PART 1 未來在等待的銷售人才，發掘你天生具備的推銷本能](https://www.youtube.com/watch?v=wOXI8N1bCYs) | 16:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wOXI8N1bCYs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wOXI8N1bCYs.txt) |
 | [PART 1：99%的人一看就會的理財書 \| 提早實現財務自由的目標 \| 好葉說書](https://www.youtube.com/watch?v=CiUyf98Zox0) | 12:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_CiUyf98Zox0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_CiUyf98Zox0.txt) |
 | [F.I.R.E 是如何讓你越存越窮的？小心誤入陷阱，揭秘財務自由者不告訴你的3大步驟 \| F.I.R.E 財務自由，提早退休【好葉】](https://www.youtube.com/watch?v=bsjN5Mx3HAM) | 15:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_bsjN5Mx3HAM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_bsjN5Mx3HAM.txt) |
-| [不要再傻傻堅持了，你應該學會「放棄」 \| PART 1 The Dip 低谷：贏家與輸家之間的距離](https://www.youtube.com/watch?v=w0DHpScyhYE) | 10:50 | 待转写 | — | — |
+| [不要再傻傻堅持了，你應該學會「放棄」 \| PART 1 The Dip 低谷：贏家與輸家之間的距離](https://www.youtube.com/watch?v=w0DHpScyhYE) | 10:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_w0DHpScyhYE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_w0DHpScyhYE.txt) |
 | [不會匯報工作，你的工作等於零！\| 5招向上管理，給上司留下好印象 \| 高效工作法](https://www.youtube.com/watch?v=v9gk_WO_1R4) | 9:27 | 待转写 | — | — |
 | [如何面對別人的閒言閒語? 拒絕別人的「道德綁架」](https://www.youtube.com/watch?v=Xhf8D5of8M0) | 7:52 | 待转写 | — | — |
 | [PART 1 \| 1小時完成1天工作，亞馬遜怎麼辦到的？ \| The Amazon Way 動畫說書](https://www.youtube.com/watch?v=UWrZMF_vhoE) | 11:55 | 待转写 | — | — |
