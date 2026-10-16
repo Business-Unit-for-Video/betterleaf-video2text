@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 280，待转写 305，失败待处理 1，文件不完整 0。
+共 586 条：已转写 281，待转写 304，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -289,7 +289,7 @@
 | [女性才是天生的投資高手 \| 向女性学习投资 【好葉】](https://www.youtube.com/watch?v=RWDgqbc0bSc) | 10:19 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RWDgqbc0bSc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RWDgqbc0bSc.txt) |
 | [成為你想看到的改變：重新定義你的工作和學習 \| 好葉說書](https://www.youtube.com/watch?v=j_LuNGgBrgw) | 8:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_j_LuNGgBrgw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_j_LuNGgBrgw.txt) |
 | [彈性習慣：3個步驟無痛養成好習慣 \| 好葉說書](https://www.youtube.com/watch?v=dnxM8RTtCIU) | 11:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dnxM8RTtCIU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dnxM8RTtCIU.txt) |
-| [當幸福出現時，你能抓住嗎？\| 正念的奇跡【好葉】](https://www.youtube.com/watch?v=F2Pixifhi5M) | 11:11 | 待转写 | — | — |
+| [當幸福出現時，你能抓住嗎？\| 正念的奇跡【好葉】](https://www.youtube.com/watch?v=F2Pixifhi5M) | 11:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_F2Pixifhi5M.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_F2Pixifhi5M.txt) |
 | [如何提高自己的情商：3個步驟成為一個高EQ的人](https://www.youtube.com/watch?v=xX86lOQXNLY) | 9:34 | 待转写 | — | — |
 | [反脆弱：如何在不確定中持續獲益 \| 好葉說書](https://www.youtube.com/watch?v=DYBfnvYkAx0) | 19:08 | 待转写 | — | — |
 | [控制點理論：你是不是一個可以掌控人生的人？Locus of Control](https://www.youtube.com/watch?v=xKS5QCxo1uE) | 8:32 | 待转写 | — | — |
