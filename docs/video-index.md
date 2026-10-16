@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 118，待转写 467，失败待处理 1，文件不完整 0。
+共 586 条：已转写 119，待转写 466，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -127,7 +127,7 @@
 | [內在的美好，會被外在創造出來 \| 如何由內而外的獲取成功，修復你的能量狀態 \| 情緒陰影、內在能量、童年創傷](https://www.youtube.com/watch?v=-dJsOR6ZU3k) | 29:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-dJsOR6ZU3k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-dJsOR6ZU3k.txt) |
 | [8個方式，快速累積第一個10萬美金 \| 證實有效！](https://www.youtube.com/watch?v=A18uxQ8cVGU) | 11:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_A18uxQ8cVGU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_A18uxQ8cVGU.txt) |
 | [30歲送給自己的禮物，車的故事 Porsche Taycan 2024 開箱 \| 好葉](https://www.youtube.com/watch?v=5HAkWT6EtwQ) | 16:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5HAkWT6EtwQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5HAkWT6EtwQ.txt) |
-| [年收240萬，居然是低產階級！ 壓死年輕人的竟是這原因，一招教你破局](https://www.youtube.com/watch?v=BsPeO99r9QQ) | 12:09 | 待转写 | — | — |
+| [年收240萬，居然是低產階級！ 壓死年輕人的竟是這原因，一招教你破局](https://www.youtube.com/watch?v=BsPeO99r9QQ) | 12:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_BsPeO99r9QQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_BsPeO99r9QQ.txt) |
 | [按照你的年齡段，你應該存下收入的多少%？ \| 退休金錢規劃 \| 好葉](https://www.youtube.com/watch?v=eBWhY91_Xgc) | 10:52 | 待转写 | — | — |
 | [你的第一個10萬很難，但最重要！克服這4大挑戰，教你如何快速累積第一桶金！\| 好葉](https://www.youtube.com/watch?v=YusFAgN-1-Y) | 10:01 | 待转写 | — | — |
 | [為什麼身邊的人都比你有錢？真相居然是...  4個原因，你只是少做了這幾點 \| 好葉](https://www.youtube.com/watch?v=lh61PfMH9vU) | 11:14 | 待转写 | — | — |
