@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 194，待转写 391，失败待处理 1，文件不完整 0。
+共 586 条：已转写 195，待转写 390，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -42,7 +42,7 @@
 | [2025年投資績效公開！資產突破60萬美金，我是如何持續戰勝大盤的？](https://www.youtube.com/watch?v=X4Sos6etERw) | 29:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_X4Sos6etERw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_X4Sos6etERw.txt) |
 | [投資為何會越努力越窮？揭秘 90% 散戶虧損的真相：你需要的不是「勤勞」，而是像富人一樣的「鈍感力」](https://www.youtube.com/watch?v=qvb7iulxKkQ) | 16:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_qvb7iulxKkQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_qvb7iulxKkQ.txt) |
 | [Still worried about AI taking your job? Elon Musk predicts: "Work will become an option," reveali...](https://www.youtube.com/watch?v=nCmxZGjWxO4) | 18:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nCmxZGjWxO4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nCmxZGjWxO4.txt) |
-| [為什麼存到2萬美元，是你人生真正的分水嶺？](https://www.youtube.com/watch?v=Xsn9IiGsKXs) | 14:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xsn9IiGsKXs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xsn9IiGsKXs.txt) |
+| [Why is saving $20,000 a real turning point in your life?](https://www.youtube.com/watch?v=Xsn9IiGsKXs) | 14:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xsn9IiGsKXs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xsn9IiGsKXs.txt) |
 | [3個月財富增長超越99%的人！TRM法則讓你的錢自動翻倍](https://www.youtube.com/watch?v=24NngMEoagk) | 17:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_24NngMEoagk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_24NngMEoagk.txt) |
 | [停止窮忙！想成為百萬富翁（美金），你只需要盯緊這4個「致富數字」](https://www.youtube.com/watch?v=o2PZmuEm01Q) | 16:53 | 失败待处理 | — | — |
 | [「穩定」是這時代最大的謊言：別讓一份薪水，鎖死你的一生！【好葉】](https://www.youtube.com/watch?v=GVcAdCgDQVo) | 14:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_GVcAdCgDQVo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_GVcAdCgDQVo.txt) |
@@ -203,7 +203,7 @@
 | [PART 1 \| 堅毅：釋放激情與堅持的力量 \| 這才是你該追求的頂層目標 \| 動畫說書](https://www.youtube.com/watch?v=qC5obOPeQ9w) | 13:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_qC5obOPeQ9w.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_qC5obOPeQ9w.txt) |
 | [你要如何過好這一生？PART 1 少有人走的路：心智成熟的旅程 \| 動畫說書](https://www.youtube.com/watch?v=WUtszKFVhQY) | 17:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_WUtszKFVhQY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_WUtszKFVhQY.txt) |
 | [7大法則，從新手到投資高手 \| 怎樣購買你的第一支股票 2022](https://www.youtube.com/watch?v=G7E1nMv9sME) | 16:20 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_G7E1nMv9sME.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_G7E1nMv9sME.txt) |
-| [3大高效習慣，CEO、明星、奧運選手都擁有 \| 高成效習慣 \| 動畫說書](https://www.youtube.com/watch?v=BG8oDeUwcIg) | 8:31 | 待转写 | — | — |
+| [3大高效習慣，CEO、明星、奧運選手都擁有 \| 高成效習慣 \| 動畫說書](https://www.youtube.com/watch?v=BG8oDeUwcIg) | 8:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_BG8oDeUwcIg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_BG8oDeUwcIg.txt) |
 | [10大常犯投資陷阱，新手必學的投資誤區！ 好葉的投資血淚教訓](https://www.youtube.com/watch?v=JM9XImAWSs0) | 14:40 | 待转写 | — | — |
 | [這10本財商思維，讓我從0賺到100萬美金 \| 好書推薦 \| 好葉財商思維](https://www.youtube.com/watch?v=cjUx2cXza0A) | 12:14 | 待转写 | — | — |
 | [累死你的不是工作，是工作方法！\| 動畫說書 \| 便簽工作法](https://www.youtube.com/watch?v=ygDq48zZXKc) | 9:37 | 待转写 | — | — |
