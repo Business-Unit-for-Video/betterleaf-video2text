@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 301，待转写 283，失败待处理 2，文件不完整 0。
+共 586 条：已转写 302，待转写 282，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -311,7 +311,7 @@
 | [稀缺：我們是如何陷入貧窮與忙碌的 \| 動畫說書 【好葉】](https://www.youtube.com/watch?v=1qL4xgB7fTY) | 9:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1qL4xgB7fTY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1qL4xgB7fTY.txt) |
 | [我出書了！ 一人公司的致富思維：從零到百萬訂閱，靠知識變現的成功法則](https://www.youtube.com/watch?v=a0jUpQ09L68) | 5:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_a0jUpQ09L68.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_a0jUpQ09L68.txt) |
 | [如何巧妙战胜拖延症：打破帕金森定律【好葉】](https://www.youtube.com/watch?v=QkgdMKCrd30) | 7:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_QkgdMKCrd30.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_QkgdMKCrd30.txt) |
-| [展開斜槓人生，關鍵是克服這3個障礙 \| 斜槓的50道難題 【好葉】](https://www.youtube.com/watch?v=zoQNV_ou6jM) | 8:21 | 待转写 | — | — |
+| [展開斜槓人生，關鍵是克服這3個障礙 \| 斜槓的50道難題 【好葉】](https://www.youtube.com/watch?v=zoQNV_ou6jM) | 8:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_zoQNV_ou6jM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_zoQNV_ou6jM.txt) |
 | [人性的弱點：如何贏得友誼和影響他人的6大法則 \| 好葉說書](https://www.youtube.com/watch?v=wPL5N-5BYJ4) | 14:18 | 待转写 | — | — |
 | [如果你現在對人生很迷茫，請花10分鐘觀看此影片 \| 少，但更好 【好葉】](https://www.youtube.com/watch?v=aJAaLszp-9w) | 10:05 | 待转写 | — | — |
 | [為什麼很多人用吸引力法則失敗？明白這3點你就會成功！【好葉】](https://www.youtube.com/watch?v=Hf_A3XLMRKw) | 6:32 | 待转写 | — | — |
