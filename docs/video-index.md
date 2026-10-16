@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 268，待转写 317，失败待处理 1，文件不完整 0。
+共 586 条：已转写 269，待转写 316，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -277,7 +277,7 @@
 | [如何應對驚恐發作，擺脫它的威脅 \| Part 1：心理醫生為什麼沒有告訴我](https://www.youtube.com/watch?v=I6MBkLm3L5Q) | 11:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_I6MBkLm3L5Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_I6MBkLm3L5Q.txt) |
 | [Part 1：回到當下的旅程：靈性覺醒的清晰指引 \| 3個方法找回自己](https://www.youtube.com/watch?v=vrfUnxV3mZI) | 10:51 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vrfUnxV3mZI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vrfUnxV3mZI.txt) |
 | [數據化思維 ：找到解決問題的能力](https://www.youtube.com/watch?v=ec_WVVF6AEI) | 9:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ec_WVVF6AEI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ec_WVVF6AEI.txt) |
-| [決定你職場成功最關鍵的因素 \| 素質能力](https://www.youtube.com/watch?v=XoHQkyOeNG0) | 9:06 | 待转写 | — | — |
+| [決定你職場成功最關鍵的因素 \| 素質能力](https://www.youtube.com/watch?v=XoHQkyOeNG0) | 9:06 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_XoHQkyOeNG0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_XoHQkyOeNG0.txt) |
 | [如何像富人那樣思考，實現你致富的目標 \| 小狗錢錢](https://www.youtube.com/watch?v=sDg_MeMd8oU) | 12:06 | 待转写 | — | — |
 | [致富心態：關於財富、貪婪與幸福的20堂理財課 \| 好葉說書](https://www.youtube.com/watch?v=ssRgoAq2t9w) | 14:29 | 待转写 | — | — |
 | [運用7Cs來加强你在職場上的表達能力 \| 7c溝通法則](https://www.youtube.com/watch?v=lWHQuSYaRDo) | 10:37 | 待转写 | — | — |
