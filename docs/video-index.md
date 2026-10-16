@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 127，待转写 458，失败待处理 1，文件不完整 0。
+共 586 条：已转写 128，待转写 457，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -136,7 +136,7 @@
 | [If you don’t want to be poor and busy all your life, please avoid these 8 middle-class traps!](https://www.youtube.com/watch?v=DKaCLyDV5c8) | 7:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_DKaCLyDV5c8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_DKaCLyDV5c8.txt) |
 | [4 steps to build wealth from scratch without relying on your father! \| Are you doing it right?](https://www.youtube.com/watch?v=qKUkFJhmFEU) | 7:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_qKUkFJhmFEU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_qKUkFJhmFEU.txt) |
 | [100 Baggers: The Profit Guide every investor pursues throughout his life \| Betterleaf 好葉](https://www.youtube.com/watch?v=Tfquso85RhE) | 10:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Tfquso85RhE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Tfquso85RhE.txt) |
-| [How much money you should have by Age? It’s different from what you think! \| Average Wealth Report](https://www.youtube.com/watch?v=1n3ZofY7co8) | 10:43 | 待转写 | — | — |
+| [How much money you should have by Age? It’s different from what you think! \| Average Wealth Report](https://www.youtube.com/watch?v=1n3ZofY7co8) | 10:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1n3ZofY7co8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1n3ZofY7co8.txt) |
 | [7大投資心法，避免成為投資的輸家 \| 紀律的交易者：培養贏的態度，成功的交易80％靠心理，只有20％靠技巧 \| 動畫說書](https://www.youtube.com/watch?v=wIHetFCDGUg) | 15:04 | 待转写 | — | — |
 | [交易那麼賺錢，為什麼還要來教課？7位數交易員的修煉之路 \| feat AllenThee 【好葉會客室】](https://www.youtube.com/watch?v=zrPoeRwvNWs) | 29:10 | 待转写 | — | — |
 | [10個不尋常的理財方式，富人都在悄悄佈局！\| 不要只會房產和股票~](https://www.youtube.com/watch?v=xNg764JWf18) | 15:36 | 待转写 | — | — |
