@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 161，待转写 424，失败待处理 1，文件不完整 0。
+共 586 条：已转写 162，待转写 423，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -170,7 +170,7 @@
 | [輕鬆致富5大策略: 不做預算、不投資股票、不挑戰意志力的理財金字塔 \| 我要教你變有錢](https://www.youtube.com/watch?v=JmShMJUXNHM) | 12:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JmShMJUXNHM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JmShMJUXNHM.txt) |
 | [7個副業賺錢項目，你現在就可以開始月賺超過1千美金 \| 2023年最容易賺的副業項目](https://www.youtube.com/watch?v=w8Xk8ElAHJc) | 16:00 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_w8Xk8ElAHJc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_w8Xk8ElAHJc.txt) |
 | [Netflix靠什麼成功？千億串流帝國的經營哲學 \| PART 1 不拘一格：網飛的自由與責任工作法](https://www.youtube.com/watch?v=4F68ZzRbyT8) | 10:54 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4F68ZzRbyT8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4F68ZzRbyT8.txt) |
-| [2023年最賺錢的7大趨勢行業，抓住紅利讓你不怕沒錢！Feat: Yale Chen 網絡創業家](https://www.youtube.com/watch?v=TKA-J5Z4wb8) | 17:35 | 待转写 | — | — |
+| [2023年最賺錢的7大趨勢行業，抓住紅利讓你不怕沒錢！Feat: Yale Chen 網絡創業家](https://www.youtube.com/watch?v=TKA-J5Z4wb8) | 17:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_TKA-J5Z4wb8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_TKA-J5Z4wb8.txt) |
 | [PART 1 不可撼動的財務自由：成功投資的4大法則 \| 動畫說書](https://www.youtube.com/watch?v=8rNzwsAddOs) | 14:13 | 待转写 | — | — |
 | [5位頂流心理學家的人生智慧，讓你重塑人生的幸福感 \| 《20位心理學大師的人生必修課》 \| 好葉說書](https://www.youtube.com/watch?v=obYipll0XWM) | 26:38 | 待转写 | — | — |
 | [你真正害怕的是「被暴露」\| PART 1 社恐自救法：3招教你如何克服社交焦慮 \| 動畫說書](https://www.youtube.com/watch?v=xv8XT8X1HYI) | 11:55 | 待转写 | — | — |
