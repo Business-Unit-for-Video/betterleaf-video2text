@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 299，待转写 285，失败待处理 2，文件不完整 0。
+共 586 条：已转写 300，待转写 284，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -309,7 +309,7 @@
 | [5個幫助你找到工作意義的小技巧，讓你對工作充滿動力 【好葉】](https://www.youtube.com/watch?v=HzfM-azPpfM) | 11:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HzfM-azPpfM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HzfM-azPpfM.txt) |
 | [3個高效法則幫你找回內在動力 \| 為何我們總是想得太多，卻做得太少 【好葉】](https://www.youtube.com/watch?v=jBMkanZkzeM) | 13:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jBMkanZkzeM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jBMkanZkzeM.txt) |
 | [稀缺：我們是如何陷入貧窮與忙碌的 \| 動畫說書 【好葉】](https://www.youtube.com/watch?v=1qL4xgB7fTY) | 9:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1qL4xgB7fTY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1qL4xgB7fTY.txt) |
-| [我出書了！ 一人公司的致富思維：從零到百萬訂閱，靠知識變現的成功法則](https://www.youtube.com/watch?v=a0jUpQ09L68) | 5:38 | 待转写 | — | — |
+| [我出書了！ 一人公司的致富思維：從零到百萬訂閱，靠知識變現的成功法則](https://www.youtube.com/watch?v=a0jUpQ09L68) | 5:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_a0jUpQ09L68.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_a0jUpQ09L68.txt) |
 | [如何巧妙战胜拖延症：打破帕金森定律【好葉】](https://www.youtube.com/watch?v=QkgdMKCrd30) | 7:07 | 待转写 | — | — |
 | [展開斜槓人生，關鍵是克服這3個障礙 \| 斜槓的50道難題 【好葉】](https://www.youtube.com/watch?v=zoQNV_ou6jM) | 8:21 | 待转写 | — | — |
 | [人性的弱點：如何贏得友誼和影響他人的6大法則 \| 好葉說書](https://www.youtube.com/watch?v=wPL5N-5BYJ4) | 14:18 | 待转写 | — | — |
