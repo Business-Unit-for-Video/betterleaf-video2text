@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 115，待转写 470，失败待处理 1，文件不完整 0。
+共 586 条：已转写 116，待转写 469，失败待处理 1，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -124,7 +124,7 @@
 | [揭示掙錢的最高境界！掙錢的六個境界，你屬於哪一層？](https://www.youtube.com/watch?v=YAVwF2p-plU) | 23:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YAVwF2p-plU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YAVwF2p-plU.txt) |
 | [專家預測：2024年股市將會暴跌80%？應對股市崩盤的6個策略，如何保護你的資產？](https://www.youtube.com/watch?v=PBl_Mmcfwr8) | 27:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_PBl_Mmcfwr8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_PBl_Mmcfwr8.txt) |
 | [先還債，還是先投資？一個選擇決定你需不需要多打10年工！ 先有緊急籌備金](https://www.youtube.com/watch?v=-g5o234rCSk) | 12:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-g5o234rCSk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-g5o234rCSk.txt) |
-| [內在的美好，會被外在創造出來 \| 如何由內而外的獲取成功，修復你的能量狀態 \| 情緒陰影、內在能量、童年創傷](https://www.youtube.com/watch?v=-dJsOR6ZU3k) | 29:13 | 待转写 | — | — |
+| [內在的美好，會被外在創造出來 \| 如何由內而外的獲取成功，修復你的能量狀態 \| 情緒陰影、內在能量、童年創傷](https://www.youtube.com/watch?v=-dJsOR6ZU3k) | 29:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-dJsOR6ZU3k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-dJsOR6ZU3k.txt) |
 | [8個方式，快速累積第一個10萬美金 \| 證實有效！](https://www.youtube.com/watch?v=A18uxQ8cVGU) | 11:13 | 待转写 | — | — |
 | [30歲送給自己的禮物，車的故事 Porsche Taycan 2024 開箱 \| 好葉](https://www.youtube.com/watch?v=5HAkWT6EtwQ) | 16:58 | 待转写 | — | — |
 | [年收240萬，居然是低產階級！ 壓死年輕人的竟是這原因，一招教你破局](https://www.youtube.com/watch?v=BsPeO99r9QQ) | 12:09 | 待转写 | — | — |
