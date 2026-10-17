@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 522，待转写 62，失败待处理 3，文件不完整 0。
+共 587 条：已转写 523，待转写 61，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -533,7 +533,7 @@
 | [【好葉】8個酒後顯露的性格 - 太準了！！！（酒後看性格）](https://www.youtube.com/watch?v=Em7whRvF4XE) | 5:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Em7whRvF4XE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Em7whRvF4XE.txt) |
 | [【好葉】為甚麼你沒運氣 -（幸運的人不告訴你的秘密！！！）](https://www.youtube.com/watch?v=EkyXQFzaKdI) | 5:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EkyXQFzaKdI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EkyXQFzaKdI.txt) |
 | [【好葉】9個實用心理學小技巧 - 讓你解脱煩惱 - 5分鐘心理學](https://www.youtube.com/watch?v=eZ1qBGjvAPA) | 5:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_eZ1qBGjvAPA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_eZ1qBGjvAPA.txt) |
-| [【好葉】5步有邏輯地說服人 - 5分鐘教你怎樣說服人 - 動畫講解](https://www.youtube.com/watch?v=wdJZzX-wRhs) | 5:18 | 待转写 | — | — |
+| [【好葉】5步有邏輯地說服人 - 5分鐘教你怎樣說服人 - 動畫講解](https://www.youtube.com/watch?v=wdJZzX-wRhs) | 5:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wdJZzX-wRhs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wdJZzX-wRhs.txt) |
 | [【好葉】5招教你轻松修炼时间管理 - How To Manage Your Time - 5 Tricks To Hack Your Time - Chinese](https://www.youtube.com/watch?v=9FeKh_Yf0-o) | 7:13 | 待转写 | — | — |
 | [【好葉】8個给人留下好印象的技巧 - 8 tricks to get people like you- How to impress people](https://www.youtube.com/watch?v=ymgEXADOyo8) | 6:46 | 待转写 | — | — |
 | [【好葉】How To Be Rich - 怎樣變有錢-理財入門動畫（富爸爸窮爸爸）](https://www.youtube.com/watch?v=EwIxkv9vS2Q) | 4:53 | 待转写 | — | — |
