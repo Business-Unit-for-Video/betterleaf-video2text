@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 467，待转写 117，失败待处理 3，文件不完整 0。
+共 587 条：已转写 468，待转写 116，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -478,7 +478,7 @@
 | [【好葉】你是不是會一直窮下去 \| 馬太效應](https://www.youtube.com/watch?v=OvMQnLLykOE) | 6:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OvMQnLLykOE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OvMQnLLykOE.txt) |
 | [【好葉】5個你必學英語的原因 \| 實用冷技巧 \| 好葉有好康](https://www.youtube.com/watch?v=iPGG1mnboQE) | 7:20 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_iPGG1mnboQE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_iPGG1mnboQE.txt) |
 | [【好葉】一切都是幻覺！大腦對我們設下了騙局 \| 天天都好用的實效心理學 \| 動畫書評](https://www.youtube.com/watch?v=lHCp0W1KUL8) | 6:51 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_lHCp0W1KUL8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_lHCp0W1KUL8.txt) |
-| [【好葉】3招擺脫拖延症：意志力的迷思 \| 自控力](https://www.youtube.com/watch?v=LLQMB2PpK_A) | 7:55 | 待转写 | — | — |
+| [【好葉】3招擺脫拖延症：意志力的迷思 \| 自控力](https://www.youtube.com/watch?v=LLQMB2PpK_A) | 7:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LLQMB2PpK_A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LLQMB2PpK_A.txt) |
 | [【好葉】7個導致你拖延的原因 \| 高效率人生](https://www.youtube.com/watch?v=bRdCH2isDPA) | 7:16 | 待转写 | — | — |
 | [【好葉】其實你已經活在了別人的期待里！\| 5分鐘心理學](https://www.youtube.com/watch?v=ePpBWcjsTiA) | 5:51 | 待转写 | — | — |
 | [【好葉】原來你的學習方法一直都錯了！ \[微精通-動畫書評\]](https://www.youtube.com/watch?v=jDifKpCoKxw) | 6:06 | 待转写 | — | — |
