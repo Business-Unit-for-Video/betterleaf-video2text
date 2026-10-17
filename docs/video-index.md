@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 362，待转写 221，失败待处理 3，文件不完整 0。
+共 586 条：已转写 363，待转写 220，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -373,7 +373,7 @@
 | [知識變能力的秘密 : 读懂一本书 \| 動畫書評](https://www.youtube.com/watch?v=XvsGArAzjoQ) | 7:08 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_XvsGArAzjoQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_XvsGArAzjoQ.txt) |
 | [5件行動管制你要做的事 \| 如何彎道超車](https://www.youtube.com/watch?v=SrfPHpAjlcU) | 8:06 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_SrfPHpAjlcU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_SrfPHpAjlcU.txt) |
 | [我對股災的看法（止損？抄底？看熱鬧？）](https://www.youtube.com/watch?v=1nFkw0J_3ko) | 5:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1nFkw0J_3ko.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1nFkw0J_3ko.txt) |
-| [窮爸爸富爸爸：修炼财商之道 \| 動畫書評](https://www.youtube.com/watch?v=mbAlsCsE6lg) | 13:10 | 待转写 | — | — |
+| [窮爸爸富爸爸：修炼财商之道 \| 動畫書評](https://www.youtube.com/watch?v=mbAlsCsE6lg) | 13:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mbAlsCsE6lg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mbAlsCsE6lg.txt) |
 | [七个导致你容易感染病毒的原因 feat 新冠病毒](https://www.youtube.com/watch?v=6oS7V3OAB3o) | 10:13 | 待转写 | — | — |
 | [5G时代，你是否还在用着2G的赚钱方式？feat 保罗老师](https://www.youtube.com/watch?v=6xpaWFoGxDo) | 9:24 | 待转写 | — | — |
 | [晚上睡不著，你失眠了嗎？3招擺脫失眠症](https://www.youtube.com/watch?v=xnWB9jolxhk) | 8:52 | 待转写 | — | — |
