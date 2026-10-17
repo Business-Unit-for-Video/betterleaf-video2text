@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 392，待转写 191，失败待处理 3，文件不完整 0。
+共 586 条：已转写 393，待转写 190，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -403,7 +403,7 @@
 | [這一個心態，讓很多人失去了致富的機會 \| 好葉原創故事](https://www.youtube.com/watch?v=ahjIFf_hny0) | 10:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ahjIFf_hny0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ahjIFf_hny0.txt) |
 | [我從校園霸凌變成了億萬富翁...  真人版鋼鐵俠的傳奇人生 \| Bonus 特斯拉 股票分析](https://www.youtube.com/watch?v=HV_TeVWGOJ0) | 11:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HV_TeVWGOJ0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HV_TeVWGOJ0.txt) |
 | [6種常見的認知偏誤，學會讓你變得更聰明！ 精準決策 \| 動畫說書](https://www.youtube.com/watch?v=-ZJgZuK5ZH8) | 8:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-ZJgZuK5ZH8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-ZJgZuK5ZH8.txt) |
-| [第二集：解憂的魔法方程式 \| 卡內基《人性的優點》](https://www.youtube.com/watch?v=ZUzm2ZWiH6c) | 6:32 | 待转写 | — | — |
+| [第二集：解憂的魔法方程式 \| 卡內基《人性的優點》](https://www.youtube.com/watch?v=ZUzm2ZWiH6c) | 6:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZUzm2ZWiH6c.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZUzm2ZWiH6c.txt) |
 | [有錢人的大陰謀：8個新時代的金錢法則 \| 富人致富的秘密](https://www.youtube.com/watch?v=9JqHPbu8jag) | 11:13 | 待转写 | — | — |
 | [明明很努力卻賺不到錢？因為你把力道用錯了地方！\| 天賦原動力 Talent Dynamics](https://www.youtube.com/watch?v=_1Ozc74mYsk) | 12:34 | 待转写 | — | — |
 | [金錢能不能買到快樂，關鍵在於你怎樣用錢 \| 金錢超思考](https://www.youtube.com/watch?v=O7klyxu4wW4) | 8:36 | 待转写 | — | — |
