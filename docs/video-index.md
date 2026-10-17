@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 450，待转写 134，失败待处理 3，文件不完整 0。
+共 587 条：已转写 451，待转写 133，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -461,7 +461,7 @@
 | [【好葉】別讓公司死在股權分配問題上 \| 創業公司的動態股權分配機制](https://www.youtube.com/watch?v=VXaWimLqMzE) | 5:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_VXaWimLqMzE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_VXaWimLqMzE.txt) |
 | [【好葉】你以為你還有自由？AI正悄悄的搶走你人生 \| 21世紀的21堂課](https://www.youtube.com/watch?v=x6J5bIakNSo) | 8:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_x6J5bIakNSo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_x6J5bIakNSo.txt) |
 | [【好葉】沒定性是種優勢：獻給還不知道未來要做什麼的人](https://www.youtube.com/watch?v=4EyfOge9Fxo) | 6:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4EyfOge9Fxo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4EyfOge9Fxo.txt) |
-| [【好葉】30個心理工具，教你step by step 突破停滯不前的人生 \| 大腦衝浪](https://www.youtube.com/watch?v=p_VYe3WjWMc) | 9:44 | 待转写 | — | — |
+| [【好葉】30個心理工具，教你step by step 突破停滯不前的人生 \| 大腦衝浪](https://www.youtube.com/watch?v=p_VYe3WjWMc) | 9:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_p_VYe3WjWMc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_p_VYe3WjWMc.txt) |
 | [【好葉】8大股神投資指標 \| 巴菲特的投資秘訣](https://www.youtube.com/watch?v=35KnUXaI3MI) | 8:21 | 待转写 | — | — |
 | [【好葉】5個實用心理學技巧 \| 這些心理學實驗告訴你這樣做事最有效](https://www.youtube.com/watch?v=4omPdgkcPR0) | 7:35 | 待转写 | — | — |
 | [【好葉】販賣妻子,害蟲審判背後隱藏的經濟效益 \| WTF ？！一趟不可思議的經濟學之旅](https://www.youtube.com/watch?v=Ei84k-fcQsQ) | 8:27 | 待转写 | — | — |
