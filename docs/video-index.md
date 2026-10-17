@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 350，待转写 234，失败待处理 2，文件不完整 0。
+共 586 条：已转写 351，待转写 233，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -360,7 +360,7 @@
 | [人脈變現：建立共好網絡，讓別人看見你，也讓機會找上你 \| 動畫說書](https://www.youtube.com/watch?v=OWACVzddiYg) | 14:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OWACVzddiYg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OWACVzddiYg.txt) |
 | [4個方法帮助你克服在網絡世界裡的孤單感  \| 好葉](https://www.youtube.com/watch?v=EdnfVyD7sk4) | 10:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EdnfVyD7sk4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EdnfVyD7sk4.txt) |
 | [五个面試實用小技巧，让你在面试的時候得心应手 \| 好葉](https://www.youtube.com/watch?v=d9l8IhH1_Eg) | 9:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_d9l8IhH1_Eg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_d9l8IhH1_Eg.txt) |
-| [【好葉】集體大規模的暴亂是如何引發的 \| 烏合之眾](https://www.youtube.com/watch?v=s4K4lTT0OjU) | 11:37 | 待转写 | — | — |
+| [【好葉】集體大規模的暴亂是如何引發的 \| 烏合之眾](https://www.youtube.com/watch?v=s4K4lTT0OjU) | 11:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_s4K4lTT0OjU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_s4K4lTT0OjU.txt) |
 | [10分鐘帶你了解金錢史：為什麼我們要投資 \| 金錢的本質](https://www.youtube.com/watch?v=fjoDrWvjpno) | 14:43 | 待转写 | — | — |
 | [7種現象，看出女生對你有無意思 \| 好葉](https://www.youtube.com/watch?v=j58SGrEVl24) | 7:02 | 待转写 | — | — |
 | [【好葉】7個生出更多時間的方法 \| 生時間 高績效時間管理術](https://www.youtube.com/watch?v=lmqaxj0qv4c) | 8:54 | 待转写 | — | — |
