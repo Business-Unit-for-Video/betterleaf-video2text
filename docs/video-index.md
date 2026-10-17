@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 496，待转写 88，失败待处理 3，文件不完整 0。
+共 587 条：已转写 497，待转写 87，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -507,7 +507,7 @@
 | [【好葉】你是個跟風者嗎？從眾心理 - 5分鐘心理學](https://www.youtube.com/watch?v=v7COGQwDdiY) | 5:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_v7COGQwDdiY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_v7COGQwDdiY.txt) |
 | [【好葉】5種愛的語言 - 怎樣讓愛情永久保溫 - 動畫書評](https://www.youtube.com/watch?v=GauOG4aHSwQ) | 4:59 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_GauOG4aHSwQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_GauOG4aHSwQ.txt) |
 | [【好葉】印象：在別人眼中的你 - 5分鐘心理學](https://www.youtube.com/watch?v=mdtT5JEzyI0) | 5:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mdtT5JEzyI0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mdtT5JEzyI0.txt) |
-| [【好葉】怎樣讓人對你印象深刻 - 輕諾言，重兌現](https://www.youtube.com/watch?v=IgaR8WAtC18) | 5:27 | 待转写 | — | — |
+| [【好葉】怎樣讓人對你印象深刻 - 輕諾言，重兌現](https://www.youtube.com/watch?v=IgaR8WAtC18) | 5:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_IgaR8WAtC18.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_IgaR8WAtC18.txt) |
 | [【好葉】你會安慰自己嗎？ ’酸葡萄,甜檸檬’效應 - 5分鐘心理學](https://www.youtube.com/watch?v=9pFD_saGWqI) | 5:35 | 待转写 | — | — |
 | [【好葉】3招教你變成快讀大師 \| 快速閲讀術 - 動畫書評](https://www.youtube.com/watch?v=spmgSzazzZk) | 4:47 | 待转写 | — | — |
 | [【好葉】青蛙效應 - 你滿足于現在的生活嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=4s36M3-8Blo) | 4:48 | 待转写 | — | — |
