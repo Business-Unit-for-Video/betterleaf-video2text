@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 340，待转写 244，失败待处理 2，文件不完整 0。
+共 586 条：已转写 341，待转写 243，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -350,7 +350,7 @@
 | [#抽書活動 學會這4點，用寫作收服人心 \| OREO寫作法【好葉】](https://www.youtube.com/watch?v=whCU3uGp57I) | 11:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_whCU3uGp57I.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_whCU3uGp57I.txt) |
 | [放空的3大好處 \| 極度專注力 【好葉】](https://www.youtube.com/watch?v=6Q_rpU2ZGRs) | 7:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6Q_rpU2ZGRs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6Q_rpU2ZGRs.txt) |
 | [9個結帳前 我们需要思考的金钱問題 \| FIRE 財務自由【好葉】](https://www.youtube.com/watch?v=uZUmJlD7-HM) | 11:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_uZUmJlD7-HM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_uZUmJlD7-HM.txt) |
-| [如何找回自己的自尊，提升自信心和自我價值 \| 好葉原创故事](https://www.youtube.com/watch?v=3aJ1zDzPZ4k) | 12:42 | 待转写 | — | — |
+| [如何找回自己的自尊，提升自信心和自我價值 \| 好葉原创故事](https://www.youtube.com/watch?v=3aJ1zDzPZ4k) | 12:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_3aJ1zDzPZ4k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_3aJ1zDzPZ4k.txt) |
 | [PART 1：4個步驟教你把無人問津的產品變成爆款 \| 圈對粉，小生意也能賺大錢 \| 動畫說書](https://www.youtube.com/watch?v=QmjGmVVxZCY) | 13:56 | 待转写 | — | — |
 | [沒資金，沒人脈，也能創業？ \| 用你的不平等優勢創業 【好葉】](https://www.youtube.com/watch?v=7QzWW3jDL3Q) | 12:13 | 待转写 | — | — |
 | [如何從悲痛中走出來 \| 活出生命的意義 \| 好葉原创故事](https://www.youtube.com/watch?v=zFMRbT78JGE) | 11:08 | 待转写 | — | — |
