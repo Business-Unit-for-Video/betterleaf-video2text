@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 401，待转写 182，失败待处理 3，文件不完整 0。
+共 586 条：已转写 402，待转写 181，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -412,7 +412,7 @@
 | [6種被動收入解密，網紅美女教你打造被動收入 Feat Ms. Selena \| 好葉](https://www.youtube.com/watch?v=AMJ1pSWbZyc) | 8:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_AMJ1pSWbZyc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_AMJ1pSWbZyc.txt) |
 | [第一集：活在只有今天的密封艙里 \| 卡內基《人性的優點》](https://www.youtube.com/watch?v=Oa7zetFJmls) | 6:26 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Oa7zetFJmls.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Oa7zetFJmls.txt) |
 | [1000美元要怎麼投資：5種高效投資方式 \| 好葉](https://www.youtube.com/watch?v=5-gN3nrli1Q) | 8:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5-gN3nrli1Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5-gN3nrli1Q.txt) |
-| [4種最難搞的人，該如何應對？ \| 好葉](https://www.youtube.com/watch?v=xAgtZvoOWnk) | 7:37 | 待转写 | — | — |
+| [4種最難搞的人，該如何應對？ \| 好葉](https://www.youtube.com/watch?v=xAgtZvoOWnk) | 7:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xAgtZvoOWnk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xAgtZvoOWnk.txt) |
 | [5個提高自身魅力的實用技巧 \| 讓每個人都喜歡和你聊](https://www.youtube.com/watch?v=HCiqj0qGjpA) | 7:43 | 待转写 | — | — |
 | [騎士與戰馬：一個掌握高情商的秘密 \| 好葉](https://www.youtube.com/watch?v=nUSAXEg7JuY) | 9:36 | 待转写 | — | — |
 | [做到這3點，你也可以成為百萬富翁 \| 征服金錢 Money Master The Game](https://www.youtube.com/watch?v=P1-ogY6MWDU) | 9:17 | 待转写 | — | — |
