@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 511，待转写 73，失败待处理 3，文件不完整 0。
+共 587 条：已转写 512，待转写 72，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -522,7 +522,7 @@
 | [【好葉】《好奇心》 Lan leslie - 動畫書評](https://www.youtube.com/watch?v=nxIiGW3M9t4) | 5:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nxIiGW3M9t4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nxIiGW3M9t4.txt) |
 | [【好葉】你的直覺對嗎 - 5分鐘心理學](https://www.youtube.com/watch?v=ZirtFuQK28k) | 4:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZirtFuQK28k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZirtFuQK28k.txt) |
 | [【好葉】5個實用經濟學技巧 - 解決各種難題](https://www.youtube.com/watch?v=mxHRwPzfVPk) | 5:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mxHRwPzfVPk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mxHRwPzfVPk.txt) |
-| [【好葉】高效能人士的七个习惯(上） - 動畫書評](https://www.youtube.com/watch?v=CVYAt6ZTY_Y) | 5:45 | 待转写 | — | — |
+| [【好葉】高效能人士的七个习惯(上） - 動畫書評](https://www.youtube.com/watch?v=CVYAt6ZTY_Y) | 5:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_CVYAt6ZTY_Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_CVYAt6ZTY_Y.txt) |
 | [【好葉】關鍵20小時 - 快速學會任何技能 - The First 20 hours( Josh Kaufman) - 動畫書評](https://www.youtube.com/watch?v=CeNTWXK7S-k) | 4:42 | 待转写 | — | — |
 | [【好葉】你要如何衡量你的人生 - Clayton M. Christensen - 動畫書評](https://www.youtube.com/watch?v=iRPmoY_SSJw) | 5:38 | 待转写 | — | — |
 | [【好葉】9個讓你變窮的原因 - 5分鐘動畫](https://www.youtube.com/watch?v=cJ-IzMnp_9A) | 6:02 | 待转写 | — | — |
@@ -547,7 +547,7 @@
 | [2025投資成績-現代價值實戰班 #好葉 #投資理財 #美股赚钱](https://www.youtube.com/watch?v=yaoCr1iMTXk) | 未知 | 待转写 | — | — |
 | [現代價值實戰班 - 年終優惠招生！ #好葉 #投資理財 #被動收入](https://www.youtube.com/watch?v=u8Jfi7D2_8U) | 未知 | 待转写 | — | — |
 | [🇫🇷A song + a France travel vlog. I even used AI to create a song for the video. What do you all t...](https://www.youtube.com/watch?v=oWVvKL8u04M) | 未知 | 待转写 | — | — |
-| [31歲網絡創業者，比利時旅遊🇧🇪留言「網絡事業」，馬上了解並建立自己的自動化賺錢系統 #好葉 #投資理財 #網絡事業 #財務自由 #自動化系統 #知識變現ai #自媒體知識變現](https://www.youtube.com/watch?v=aSoIyJ-0Xi0) | 未知 | 待转写 | — | — |
+| [A 31-year-old online entrepreneur, currently traveling in Belgium 🇧🇪, left a message saying "onli...](https://www.youtube.com/watch?v=aSoIyJ-0Xi0) | 未知 | 待转写 | — | — |
 | [31-year-old online entrepreneur, traveling in the Netherlands 🇳🇱 #money #investment #onlineentrep...](https://www.youtube.com/watch?v=D0zZM6KsuI0) | 未知 | 待转写 | — | — |
 | [如何把粉絲，真正轉化成收入？](https://www.youtube.com/watch?v=euEDowjh_gE) | 未知 | 待转写 | — | — |
 | [我虧了幾百萬，換來了這個教訓...](https://www.youtube.com/watch?v=rBhOLFL8MOs) | 未知 | 待转写 | — | — |
