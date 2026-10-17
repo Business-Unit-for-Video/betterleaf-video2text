@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 435，待转写 149，失败待处理 3，文件不完整 0。
+共 587 条：已转写 436，待转写 148，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -446,7 +446,7 @@
 | [怎樣用50美元買到谷歌的股票 \| eToro使用教學：註冊、入金、投資、出金](https://www.youtube.com/watch?v=xnASOFQItMA) | 4:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xnASOFQItMA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xnASOFQItMA.txt) |
 | [未來5年世界竟變成了這樣！主宰未來的6大關鍵 \| 未來地圖](https://www.youtube.com/watch?v=8HnAE7l8YPs) | 6:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8HnAE7l8YPs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8HnAE7l8YPs.txt) |
 | [5分鐘看懂經濟學，就靠這本書 \| 小島經濟學](https://www.youtube.com/watch?v=Ir5IVnBhVr8) | 7:06 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Ir5IVnBhVr8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Ir5IVnBhVr8.txt) |
-| [【好葉】4種現金流現象 \| 富人致富的秘密](https://www.youtube.com/watch?v=X9Ph2JqzPIw) | 7:12 | 待转写 | — | — |
+| [【好葉】4種現金流現象 \| 富人致富的秘密](https://www.youtube.com/watch?v=X9Ph2JqzPIw) | 7:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_X9Ph2JqzPIw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_X9Ph2JqzPIw.txt) |
 | [【好葉】跟老外講英語就用這5招 \| Cambly英文外教 \| 好葉有好康](https://www.youtube.com/watch?v=FEIc_sbDtjc) | 10:09 | 待转写 | — | — |
 | [【好葉】3個步驟，為2019設定最強年度目標！\| 實用冷技巧](https://www.youtube.com/watch?v=jnVRnjnYgs8) | 7:58 | 待转写 | — | — |
 | [【好葉】90%的工作都不需要文憑！？ \| 學歷到底重不重要](https://www.youtube.com/watch?v=M3VTxg_sju4) | 6:35 | 待转写 | — | — |
