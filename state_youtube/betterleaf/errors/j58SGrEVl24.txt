@@ -1,0 +1,6 @@
+video_id: j58SGrEVl24
+title: 7種現象，看出女生對你有無意思 | 好葉
+url: https://www.youtube.com/watch?v=j58SGrEVl24
+tab: videos
+time: 2026-10-17 03:39:41
+error: RuntimeError('downloaded audio is incomplete: audio=393.552s, source=422.000s, shortfall=28.448s')

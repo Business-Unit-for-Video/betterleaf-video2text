@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "finished_with_errors",
+  "note": "RuntimeError('downloaded audio is incomplete: audio=393.552s, source=422.000s, shortfall=28.448s')",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 586,
-  "queue_index": 354,
-  "updated_at": 1792208306,
-  "updated_at_readable": "2026-10-17 03:38:26",
-  "current_video_id": "fjoDrWvjpno",
-  "current_title": "10分鐘帶你了解金錢史：為什麼我們要投資 | 金錢的本質",
-  "current_url": "https://www.youtube.com/watch?v=fjoDrWvjpno",
+  "queue_index": 355,
+  "updated_at": 1792208381,
+  "updated_at_readable": "2026-10-17 03:39:41",
+  "current_video_id": "j58SGrEVl24",
+  "current_title": "7種現象，看出女生對你有無意思 | 好葉",
+  "current_url": "https://www.youtube.com/watch?v=j58SGrEVl24",
   "current_tab": "videos"
 }
