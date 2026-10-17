@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 525，待转写 59，失败待处理 3，文件不完整 0。
+共 587 条：已转写 526，待转写 58，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -536,7 +536,7 @@
 | [【好葉】5步有邏輯地說服人 - 5分鐘教你怎樣說服人 - 動畫講解](https://www.youtube.com/watch?v=wdJZzX-wRhs) | 5:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wdJZzX-wRhs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wdJZzX-wRhs.txt) |
 | [【好葉】5招教你轻松修炼时间管理 - How To Manage Your Time - 5 Tricks To Hack Your Time - Chinese](https://www.youtube.com/watch?v=9FeKh_Yf0-o) | 7:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_9FeKh_Yf0-o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_9FeKh_Yf0-o.txt) |
 | [【好葉】8個给人留下好印象的技巧 - 8 tricks to get people like you- How to impress people](https://www.youtube.com/watch?v=ymgEXADOyo8) | 6:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ymgEXADOyo8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ymgEXADOyo8.txt) |
-| [【好葉】How To Be Rich - 怎樣變有錢-理財入門動畫（富爸爸窮爸爸）](https://www.youtube.com/watch?v=EwIxkv9vS2Q) | 4:53 | 待转写 | — | — |
+| [【好葉】How To Be Rich - 怎樣變有錢-理財入門動畫（富爸爸窮爸爸）](https://www.youtube.com/watch?v=EwIxkv9vS2Q) | 4:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EwIxkv9vS2Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EwIxkv9vS2Q.txt) |
 | [戰勝大盤的投資策略，APP幫你一鍵搞定](https://www.youtube.com/watch?v=ZRQbAoCA1eo) | 62:31 | 待转写 | — | — |
 | [你不必討好全世界：讓你活出高能量狀態的四大心法](https://www.youtube.com/watch?v=l6tCj95fwz4) | 80:12 | 待转写 | — | — |
 | [川普關稅砸盤，股市暴跌！投者的應對策略](https://www.youtube.com/watch?v=8KvXZhEE_v0) | 70:23 | 待转写 | — | — |
