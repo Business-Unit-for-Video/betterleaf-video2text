@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 312，待转写 272，失败待处理 2，文件不完整 0。
+共 586 条：已转写 313，待转写 271，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -322,7 +322,7 @@
 | [工作不开心，因爲薪水不高？明白这3点再做决定 【好葉】](https://www.youtube.com/watch?v=vi1NzaXouHc) | 8:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_vi1NzaXouHc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_vi1NzaXouHc.txt) |
 | [3招提升复原力：面對挫折和失敗的重要能力 \| 尋找復原力 \| 好葉說書](https://www.youtube.com/watch?v=Dq1En5SGScU) | 12:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Dq1En5SGScU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Dq1En5SGScU.txt) |
 | [認識聆聽的5個等級，學習「真心誠意的聆聽」\| 好葉](https://www.youtube.com/watch?v=PfnnYX6Zg5E) | 6:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_PfnnYX6Zg5E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_PfnnYX6Zg5E.txt) |
-| [年輕人必懂的5大理財觀念和技巧 【好葉】](https://www.youtube.com/watch?v=EcG6Mgk33S4) | 11:33 | 待转写 | — | — |
+| [年輕人必懂的5大理財觀念和技巧 【好葉】](https://www.youtube.com/watch?v=EcG6Mgk33S4) | 11:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EcG6Mgk33S4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EcG6Mgk33S4.txt) |
 | [5個步驟掌握早起的習慣 \| 早起的奇跡【好葉】](https://www.youtube.com/watch?v=7ruv8mWKlCY) | 8:13 | 待转写 | — | — |
 | [10分鐘帶你搞懂權證 \| 風險在哪裡，你適合嗎？](https://www.youtube.com/watch?v=YhJs7VmcxE8) | 13:42 | 待转写 | — | — |
 | [五大元素，拓展你的有效人脈，加速實現目標 \| PART 1：WOL大聲工作法](https://www.youtube.com/watch?v=LgVBwKMRGMo) | 12:29 | 待转写 | — | — |
