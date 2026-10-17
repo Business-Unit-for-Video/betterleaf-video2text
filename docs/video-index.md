@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 487，待转写 97，失败待处理 3，文件不完整 0。
+共 587 条：已转写 488，待转写 96，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -498,7 +498,7 @@
 | [【好葉】5個實用聊天技巧 - 話題永遠聊不完 ！ - 實用冷技巧](https://www.youtube.com/watch?v=4qhq2kWfBnI) | 6:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4qhq2kWfBnI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4qhq2kWfBnI.txt) |
 | [【好葉】算命師效應：星座真的準嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=kbjwchLHYTE) | 6:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_kbjwchLHYTE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_kbjwchLHYTE.txt) |
 | [【好葉】費曼學習法：快速掌握新知識 - Feynman Technique](https://www.youtube.com/watch?v=gcbCXqjicu0) | 4:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_gcbCXqjicu0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_gcbCXqjicu0.txt) |
-| [【好葉】投射效應：為什麼你會討厭別人 - 5分鐘心理學](https://www.youtube.com/watch?v=348KltVP9UE) | 5:34 | 待转写 | — | — |
+| [【好葉】投射效應：為什麼你會討厭別人 - 5分鐘心理學](https://www.youtube.com/watch?v=348KltVP9UE) | 5:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_348KltVP9UE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_348KltVP9UE.txt) |
 | [【好葉】7個高效人士的習慣（下） 動畫書評](https://www.youtube.com/watch?v=3rNlTgioMu8) | 5:34 | 待转写 | — | — |
 | [【好葉】羅森塔爾效應 - 說你行你就行 - 5分鐘心理學](https://www.youtube.com/watch?v=M0bRF-_CezU) | 5:16 | 待转写 | — | — |
 | [【好葉】習慣2之改造習慣3步曲 - The Power of Habit](https://www.youtube.com/watch?v=wXaxRqGGxHc) | 5:40 | 待转写 | — | — |
