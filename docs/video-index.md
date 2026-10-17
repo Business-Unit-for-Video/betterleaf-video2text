@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 470，待转写 114，失败待处理 3，文件不完整 0。
+共 587 条：已转写 471，待转写 113，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -481,7 +481,7 @@
 | [【好葉】3招擺脫拖延症：意志力的迷思 \| 自控力](https://www.youtube.com/watch?v=LLQMB2PpK_A) | 7:55 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LLQMB2PpK_A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LLQMB2PpK_A.txt) |
 | [【好葉】7個導致你拖延的原因 \| 高效率人生](https://www.youtube.com/watch?v=bRdCH2isDPA) | 7:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_bRdCH2isDPA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_bRdCH2isDPA.txt) |
 | [【好葉】其實你已經活在了別人的期待里！\| 5分鐘心理學](https://www.youtube.com/watch?v=ePpBWcjsTiA) | 5:51 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ePpBWcjsTiA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ePpBWcjsTiA.txt) |
-| [【好葉】原來你的學習方法一直都錯了！ \[微精通-動畫書評\]](https://www.youtube.com/watch?v=jDifKpCoKxw) | 6:06 | 待转写 | — | — |
+| [【好葉】原來你的學習方法一直都錯了！ \[微精通-動畫書評\]](https://www.youtube.com/watch?v=jDifKpCoKxw) | 6:06 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jDifKpCoKxw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jDifKpCoKxw.txt) |
 | [【好葉】你會經常感到孤單嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=iYOT05KWFPE) | 5:23 | 待转写 | — | — |
 | [\[Better Leaf\] Hedgehog strategy for successful people - stimulating potential](https://www.youtube.com/watch?v=QdpDggn__zA) | 7:52 | 待转写 | — | — |
 | [【好葉】你有選擇困難症嗎？ - 布里丹效應 - 5分鐘心理學](https://www.youtube.com/watch?v=nengHUMdluY) | 5:38 | 待转写 | — | — |
