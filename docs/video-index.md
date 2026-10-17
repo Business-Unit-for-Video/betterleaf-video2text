@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 360，待转写 223，失败待处理 3，文件不完整 0。
+共 586 条：已转写 361，待转写 222，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -371,7 +371,7 @@
 | [好好說話 : 如何讓人心服口服（3個技巧）](https://www.youtube.com/watch?v=Z_RZNN-TEJo) | 7:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Z_RZNN-TEJo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Z_RZNN-TEJo.txt) |
 | [30堂課搞定價值投資，從投資新手邁向投資高手 \|  股票投資線上課](https://www.youtube.com/watch?v=cEuux52W12k) | 6:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_cEuux52W12k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_cEuux52W12k.txt) |
 | [知識變能力的秘密 : 读懂一本书 \| 動畫書評](https://www.youtube.com/watch?v=XvsGArAzjoQ) | 7:08 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_XvsGArAzjoQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_XvsGArAzjoQ.txt) |
-| [5件行動管制你要做的事 \| 如何彎道超車](https://www.youtube.com/watch?v=SrfPHpAjlcU) | 8:06 | 待转写 | — | — |
+| [5件行動管制你要做的事 \| 如何彎道超車](https://www.youtube.com/watch?v=SrfPHpAjlcU) | 8:06 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_SrfPHpAjlcU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_SrfPHpAjlcU.txt) |
 | [我對股災的看法（止損？抄底？看熱鬧？）](https://www.youtube.com/watch?v=1nFkw0J_3ko) | 5:36 | 待转写 | — | — |
 | [窮爸爸富爸爸：修炼财商之道 \| 動畫書評](https://www.youtube.com/watch?v=mbAlsCsE6lg) | 13:10 | 待转写 | — | — |
 | [七个导致你容易感染病毒的原因 feat 新冠病毒](https://www.youtube.com/watch?v=6oS7V3OAB3o) | 10:13 | 待转写 | — | — |
