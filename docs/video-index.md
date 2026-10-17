@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 379，待转写 204，失败待处理 3，文件不完整 0。
+共 586 条：已转写 380，待转写 203，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -390,7 +390,7 @@
 | [原來YouTuber可以這樣來賺錢！理財網紅的6種被動收入 Feat Yale Chen](https://www.youtube.com/watch?v=jTXikOUmNCo) | 16:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jTXikOUmNCo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jTXikOUmNCo.txt) |
 | [這十隻股票，讓我一年爽賺30%的 \| 好葉投資組合大公開](https://www.youtube.com/watch?v=ZN5aiNjcvEQ) | 11:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZN5aiNjcvEQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZN5aiNjcvEQ.txt) |
 | [學會這4點，人人都可以創業成功 \| 一人創業](https://www.youtube.com/watch?v=Ce11UXcADlk) | 7:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Ce11UXcADlk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Ce11UXcADlk.txt) |
-| [9道問題，深度回顧你的一整年 \| 2019精彩回顧](https://www.youtube.com/watch?v=Ksu6BBtOKbE) | 10:15 | 待转写 | — | — |
+| [9道問題，深度回顧你的一整年 \| 2019精彩回顧](https://www.youtube.com/watch?v=Ksu6BBtOKbE) | 10:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Ksu6BBtOKbE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Ksu6BBtOKbE.txt) |
 | [全世界都會幫你的秘密：正確的信念 Feat. 宋姐](https://www.youtube.com/watch?v=QAW6M0roo64) | 7:31 | 待转写 | — | — |
 | [7分鐘看完全球首富的傳奇故事 \| 貝索斯傳與亞馬遜](https://www.youtube.com/watch?v=jzTS6OWIr-U) | 7:47 | 待转写 | — | — |
 | [7個約會小技巧，秒懂她的心 \| 好葉](https://www.youtube.com/watch?v=4AqiNLNUH4c) | 7:56 | 待转写 | — | — |
