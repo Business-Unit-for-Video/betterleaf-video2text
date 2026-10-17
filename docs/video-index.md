@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 356，待转写 227，失败待处理 3，文件不完整 0。
+共 586 条：已转写 357，待转写 226，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -367,7 +367,7 @@
 | [我是如何積累到第一桶金的 \| 從0到500萬元財富積累經歷分享](https://www.youtube.com/watch?v=ZsD25FF3uaM) | 15:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZsD25FF3uaM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZsD25FF3uaM.txt) |
 | [5大指標看准入場股市時機 ，美國正陷入經濟蕭條當中？](https://www.youtube.com/watch?v=Xpb7_a1WYgA) | 8:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xpb7_a1WYgA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xpb7_a1WYgA.txt) |
 | [【好葉】三招學會正念領導力 \| 靜下來工作](https://www.youtube.com/watch?v=7Opcp_ghfrY) | 9:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7Opcp_ghfrY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7Opcp_ghfrY.txt) |
-| [成功，從聚焦一件事開始 : 5個擋在你和成功之間的迷思 \| 動畫書評](https://www.youtube.com/watch?v=rXRQtadzqm8) | 7:42 | 待转写 | — | — |
+| [成功，從聚焦一件事開始 : 5個擋在你和成功之間的迷思 \| 動畫書評](https://www.youtube.com/watch?v=rXRQtadzqm8) | 7:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_rXRQtadzqm8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_rXRQtadzqm8.txt) |
 | [好好說話 : 如何讓人心服口服（3個技巧）](https://www.youtube.com/watch?v=Z_RZNN-TEJo) | 7:52 | 待转写 | — | — |
 | [30堂課搞定價值投資，從投資新手邁向投資高手 \|  股票投資線上課](https://www.youtube.com/watch?v=cEuux52W12k) | 6:16 | 待转写 | — | — |
 | [知識變能力的秘密 : 读懂一本书 \| 動畫書評](https://www.youtube.com/watch?v=XvsGArAzjoQ) | 7:08 | 待转写 | — | — |
@@ -545,9 +545,9 @@
 | [你的年齡，該有多少錢才算及格？亞洲的朋友，可以適當把標準降低30%喔！ #財務自由 #好葉 #資產 #財富 #財富數據](https://www.youtube.com/watch?v=u96OFVLNJqo) | 未知 | 待转写 | — | — |
 | [2025投資成績-現代價值實戰班 #好葉 #投資理財 #美股赚钱](https://www.youtube.com/watch?v=yaoCr1iMTXk) | 未知 | 待转写 | — | — |
 | [現代價值實戰班 - 年終優惠招生！ #好葉 #投資理財 #被動收入](https://www.youtube.com/watch?v=u8Jfi7D2_8U) | 未知 | 待转写 | — | — |
-| [🇫🇷歌曲＋法國旅遊 Vlog，特別用AI弄了一首歌來做影片，大家覺得如何呢？](https://www.youtube.com/watch?v=oWVvKL8u04M) | 未知 | 待转写 | — | — |
-| [31歲網絡創業者，比利時旅遊🇧🇪留言「網絡事業」，馬上了解並建立自己的自動化賺錢系統 #好葉 #投資理財 #網絡事業 #財務自由 #自動化系統 #知識變現ai #自媒體知識變現](https://www.youtube.com/watch?v=aSoIyJ-0Xi0) | 未知 | 待转写 | — | — |
-| [31歲網絡創業者，荷蘭旅遊🇳🇱 #money #投資理財 #網絡創業](https://www.youtube.com/watch?v=D0zZM6KsuI0) | 未知 | 待转写 | — | — |
+| [🇫🇷A song + a France travel vlog. I even used AI to create a song for the video. What do you all t...](https://www.youtube.com/watch?v=oWVvKL8u04M) | 未知 | 待转写 | — | — |
+| [A 31-year-old online entrepreneur, currently traveling in Belgium 🇧🇪, left a message saying "onli...](https://www.youtube.com/watch?v=aSoIyJ-0Xi0) | 未知 | 待转写 | — | — |
+| [31-year-old online entrepreneur, traveling in the Netherlands 🇳🇱 #money #investment #onlineentrep...](https://www.youtube.com/watch?v=D0zZM6KsuI0) | 未知 | 待转写 | — | — |
 | [如何把粉絲，真正轉化成收入？](https://www.youtube.com/watch?v=euEDowjh_gE) | 未知 | 待转写 | — | — |
 | [我虧了幾百萬，換來了這個教訓...](https://www.youtube.com/watch?v=rBhOLFL8MOs) | 未知 | 待转写 | — | — |
 | [我如何從被平台綁架，到建立百萬美金的事業](https://www.youtube.com/watch?v=XkvASkV2y5Y) | 未知 | 待转写 | — | — |
