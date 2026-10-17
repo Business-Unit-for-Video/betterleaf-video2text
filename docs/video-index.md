@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 538，待转写 46，失败待处理 3，文件不完整 0。
+共 587 条：已转写 539，待转写 45，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -549,7 +549,7 @@
 | [🇫🇷A song + a France travel vlog. I even used AI to create a song for the video. What do you all t...](https://www.youtube.com/watch?v=oWVvKL8u04M) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_oWVvKL8u04M.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_oWVvKL8u04M.txt) |
 | [A 31-year-old online entrepreneur, currently traveling in Belgium 🇧🇪, left a message saying "onli...](https://www.youtube.com/watch?v=aSoIyJ-0Xi0) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_aSoIyJ-0Xi0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_aSoIyJ-0Xi0.txt) |
 | [31-year-old online entrepreneur, traveling in the Netherlands 🇳🇱 #money #investment #onlineentrep...](https://www.youtube.com/watch?v=D0zZM6KsuI0) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_D0zZM6KsuI0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_D0zZM6KsuI0.txt) |
-| [如何把粉絲，真正轉化成收入？](https://www.youtube.com/watch?v=euEDowjh_gE) | 未知 | 待转写 | — | — |
+| [如何把粉絲，真正轉化成收入？](https://www.youtube.com/watch?v=euEDowjh_gE) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_euEDowjh_gE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_euEDowjh_gE.txt) |
 | [我虧了幾百萬，換來了這個教訓...](https://www.youtube.com/watch?v=rBhOLFL8MOs) | 未知 | 待转写 | — | — |
 | [我如何從被平台綁架，到建立百萬美金的事業](https://www.youtube.com/watch?v=XkvASkV2y5Y) | 未知 | 待转写 | — | — |
 | [31歲前，我最不後悔的決定：開始投資！](https://www.youtube.com/watch?v=id1_zxTVpVM) | 未知 | 待转写 | — | — |
