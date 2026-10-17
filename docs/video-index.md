@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 373，待转写 210，失败待处理 3，文件不完整 0。
+共 586 条：已转写 374，待转写 209，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -384,7 +384,7 @@
 | [5個小資常犯的理財誤區 \| 不要再上大師課了！ feat Jamie](https://www.youtube.com/watch?v=Gl2EAWXO1hA) | 12:00 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Gl2EAWXO1hA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Gl2EAWXO1hA.txt) |
 | [你敢不敢冒險？面對風險時的人性弱點：前景理論](https://www.youtube.com/watch?v=dXtMUePqErw) | 10:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dXtMUePqErw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dXtMUePqErw.txt) |
 | [2020投資策略：股息投資法 \| 股災來臨時還能賺錢？](https://www.youtube.com/watch?v=LEoGdTcxnt0) | 12:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LEoGdTcxnt0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LEoGdTcxnt0.txt) |
-| [卡內基提升溝通能力的4大法則 \| 好葉](https://www.youtube.com/watch?v=4_zelZmUzLg) | 7:38 | 待转写 | — | — |
+| [卡內基提升溝通能力的4大法則 \| 好葉](https://www.youtube.com/watch?v=4_zelZmUzLg) | 7:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4_zelZmUzLg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4_zelZmUzLg.txt) |
 | [FIRE 財富自由，提早退休計劃 Feat Yale Chen](https://www.youtube.com/watch?v=kHGXPf9q5H4) | 9:24 | 待转写 | — | — |
 | [該不該借錢給好朋友？\| 好葉原創故事](https://www.youtube.com/watch?v=Nk48AFmOEh0) | 10:48 | 待转写 | — | — |
 | [原來YouTuber可以這樣來賺錢！理財網紅的6種被動收入 Feat Yale Chen](https://www.youtube.com/watch?v=jTXikOUmNCo) | 16:16 | 待转写 | — | — |
