@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 377，待转写 206，失败待处理 3，文件不完整 0。
+共 586 条：已转写 378，待转写 205，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -388,7 +388,7 @@
 | [FIRE 財富自由，提早退休計劃 Feat Yale Chen](https://www.youtube.com/watch?v=kHGXPf9q5H4) | 9:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_kHGXPf9q5H4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_kHGXPf9q5H4.txt) |
 | [該不該借錢給好朋友？\| 好葉原創故事](https://www.youtube.com/watch?v=Nk48AFmOEh0) | 10:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Nk48AFmOEh0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Nk48AFmOEh0.txt) |
 | [原來YouTuber可以這樣來賺錢！理財網紅的6種被動收入 Feat Yale Chen](https://www.youtube.com/watch?v=jTXikOUmNCo) | 16:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jTXikOUmNCo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jTXikOUmNCo.txt) |
-| [這十隻股票，讓我一年爽賺30%的 \| 好葉投資組合大公開](https://www.youtube.com/watch?v=ZN5aiNjcvEQ) | 11:05 | 待转写 | — | — |
+| [這十隻股票，讓我一年爽賺30%的 \| 好葉投資組合大公開](https://www.youtube.com/watch?v=ZN5aiNjcvEQ) | 11:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZN5aiNjcvEQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZN5aiNjcvEQ.txt) |
 | [學會這4點，人人都可以創業成功 \| 一人創業](https://www.youtube.com/watch?v=Ce11UXcADlk) | 7:50 | 待转写 | — | — |
 | [9道問題，深度回顧你的一整年 \| 2019精彩回顧](https://www.youtube.com/watch?v=Ksu6BBtOKbE) | 10:15 | 待转写 | — | — |
 | [全世界都會幫你的秘密：正確的信念 Feat. 宋姐](https://www.youtube.com/watch?v=QAW6M0roo64) | 7:31 | 待转写 | — | — |
