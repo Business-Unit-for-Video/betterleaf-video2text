@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 448，待转写 136，失败待处理 3，文件不完整 0。
+共 587 条：已转写 449，待转写 135，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -459,7 +459,7 @@
 | [【好葉】總是覺得自己比活得更艱難 \| 跨欄定律 \| 5分鐘心理學](https://www.youtube.com/watch?v=TaaT2jDDSYU) | 4:10 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_TaaT2jDDSYU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_TaaT2jDDSYU.txt) |
 | [【好葉】對于‘未完成’工作的壓力 \| 齊氏效應 \| 5分鐘心理學](https://www.youtube.com/watch?v=nNXFOKEjd0U) | 5:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nNXFOKEjd0U.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nNXFOKEjd0U.txt) |
 | [【好葉】別讓公司死在股權分配問題上 \| 創業公司的動態股權分配機制](https://www.youtube.com/watch?v=VXaWimLqMzE) | 5:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_VXaWimLqMzE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_VXaWimLqMzE.txt) |
-| [【好葉】你以為你還有自由？AI正悄悄的搶走你人生 \| 21世紀的21堂課](https://www.youtube.com/watch?v=x6J5bIakNSo) | 8:43 | 待转写 | — | — |
+| [【好葉】你以為你還有自由？AI正悄悄的搶走你人生 \| 21世紀的21堂課](https://www.youtube.com/watch?v=x6J5bIakNSo) | 8:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_x6J5bIakNSo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_x6J5bIakNSo.txt) |
 | [【好葉】沒定性是種優勢：獻給還不知道未來要做什麼的人](https://www.youtube.com/watch?v=4EyfOge9Fxo) | 6:03 | 待转写 | — | — |
 | [【好葉】30個心理工具，教你step by step 突破停滯不前的人生 \| 大腦衝浪](https://www.youtube.com/watch?v=p_VYe3WjWMc) | 9:44 | 待转写 | — | — |
 | [【好葉】8大股神投資指標 \| 巴菲特的投資秘訣](https://www.youtube.com/watch?v=35KnUXaI3MI) | 8:21 | 待转写 | — | — |
