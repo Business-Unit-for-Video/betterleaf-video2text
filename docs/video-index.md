@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 418，待转写 165，失败待处理 3，文件不完整 0。
+共 586 条：已转写 419，待转写 164，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -429,7 +429,7 @@
 | [7個方法，教你快速打造新習慣 \| 邁向積極人生](https://www.youtube.com/watch?v=WrGenJYgou4) | 7:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_WrGenJYgou4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_WrGenJYgou4.txt) |
 | [怎樣才能越有錢越幸福：《花掉的錢都會自己流回來》 說書動畫](https://www.youtube.com/watch?v=1YpLElX4HJY) | 6:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1YpLElX4HJY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1YpLElX4HJY.txt) |
 | [成功銳變的人，都因為這3個關鍵！ 一個故事教你實現自我改變](https://www.youtube.com/watch?v=bH7vuvcFqvY) | 7:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_bH7vuvcFqvY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_bH7vuvcFqvY.txt) |
-| [5條财富法則，拉開窮人與富人的秘密 \| 巴比倫最富有的人](https://www.youtube.com/watch?v=McqF_6lFT28) | 9:12 | 待转写 | — | — |
+| [5條财富法則，拉開窮人與富人的秘密 \| 巴比倫最富有的人](https://www.youtube.com/watch?v=McqF_6lFT28) | 9:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_McqF_6lFT28.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_McqF_6lFT28.txt) |
 | [一場大火燒掉了我的自尊心，這個想法改變了我的一生...](https://www.youtube.com/watch?v=quQJYdSHXd0) | 5:53 | 待转写 | — | — |
 | [怎樣練習英文工作面試？ Cambly的專業外教](https://www.youtube.com/watch?v=JKXfx9YqOAM) | 7:31 | 待转写 | — | — |
 | [這一生，你想留下什麼？：史丹佛的10堂領導課 \| 動畫書評](https://www.youtube.com/watch?v=dQtNTZ80nEM) | 7:29 | 待转写 | — | — |
