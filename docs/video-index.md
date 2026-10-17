@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 342，待转写 242，失败待处理 2，文件不完整 0。
+共 586 条：已转写 343，待转写 241，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -352,7 +352,7 @@
 | [9個結帳前 我们需要思考的金钱問題 \| FIRE 財務自由【好葉】](https://www.youtube.com/watch?v=uZUmJlD7-HM) | 11:43 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_uZUmJlD7-HM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_uZUmJlD7-HM.txt) |
 | [如何找回自己的自尊，提升自信心和自我價值 \| 好葉原创故事](https://www.youtube.com/watch?v=3aJ1zDzPZ4k) | 12:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_3aJ1zDzPZ4k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_3aJ1zDzPZ4k.txt) |
 | [PART 1：4個步驟教你把無人問津的產品變成爆款 \| 圈對粉，小生意也能賺大錢 \| 動畫說書](https://www.youtube.com/watch?v=QmjGmVVxZCY) | 13:56 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_QmjGmVVxZCY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_QmjGmVVxZCY.txt) |
-| [沒資金，沒人脈，也能創業？ \| 用你的不平等優勢創業 【好葉】](https://www.youtube.com/watch?v=7QzWW3jDL3Q) | 12:13 | 待转写 | — | — |
+| [沒資金，沒人脈，也能創業？ \| 用你的不平等優勢創業 【好葉】](https://www.youtube.com/watch?v=7QzWW3jDL3Q) | 12:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7QzWW3jDL3Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7QzWW3jDL3Q.txt) |
 | [如何從悲痛中走出來 \| 活出生命的意義 \| 好葉原创故事](https://www.youtube.com/watch?v=zFMRbT78JGE) | 11:08 | 待转写 | — | — |
 | [4個導致你不愛工作的原因 \| 我工作，我沒有不開心 \| 動畫說書](https://www.youtube.com/watch?v=E201fOWxf9c) | 9:53 | 待转写 | — | — |
 | [4個步驟有效建立習慣 \| 細微改變帶來巨大成就的實證法則 \| 原子習慣](https://www.youtube.com/watch?v=xY1k3Dd4wgs) | 10:40 | 待转写 | — | — |
