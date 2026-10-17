@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 315，待转写 269，失败待处理 2，文件不完整 0。
+共 586 条：已转写 316，待转写 268，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -325,7 +325,7 @@
 | [年輕人必懂的5大理財觀念和技巧 【好葉】](https://www.youtube.com/watch?v=EcG6Mgk33S4) | 11:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EcG6Mgk33S4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EcG6Mgk33S4.txt) |
 | [5個步驟掌握早起的習慣 \| 早起的奇跡【好葉】](https://www.youtube.com/watch?v=7ruv8mWKlCY) | 8:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7ruv8mWKlCY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7ruv8mWKlCY.txt) |
 | [10分鐘帶你搞懂權證 \| 風險在哪裡，你適合嗎？](https://www.youtube.com/watch?v=YhJs7VmcxE8) | 13:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YhJs7VmcxE8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YhJs7VmcxE8.txt) |
-| [五大元素，拓展你的有效人脈，加速實現目標 \| PART 1：WOL大聲工作法](https://www.youtube.com/watch?v=LgVBwKMRGMo) | 12:29 | 待转写 | — | — |
+| [五大元素，拓展你的有效人脈，加速實現目標 \| PART 1：WOL大聲工作法](https://www.youtube.com/watch?v=LgVBwKMRGMo) | 12:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LgVBwKMRGMo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LgVBwKMRGMo.txt) |
 | [3個方法改變舊習慣，創造全新自我 \| 未來預演](https://www.youtube.com/watch?v=Vf7wiJggCHc) | 10:06 | 待转写 | — | — |
 | [7個省錢的心理技巧 \| 如何每月節省更多錢 \| 好葉](https://www.youtube.com/watch?v=At3xgq6HDuA) | 11:14 | 待转写 | — | — |
 | [學會這三個經濟思維，你會活得更加自在 \| 經濟學的40堂公開課](https://www.youtube.com/watch?v=Gpm8rWJR_fo) | 12:32 | 待转写 | — | — |
