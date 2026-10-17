@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 442，待转写 142，失败待处理 3，文件不完整 0。
+共 587 条：已转写 443，待转写 141，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -453,7 +453,7 @@
 | [【好葉】曾經窮到只有一千元過年，到坐擁九位數資產 \| 即使從天空墜落，也不能癱瘓我的人生 \| 動畫書評](https://www.youtube.com/watch?v=1-aWcwEhiss) | 7:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1-aWcwEhiss.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1-aWcwEhiss.txt) |
 | [【好葉】3個步驟輕鬆增長財富 \| 打工族怎樣實現財富自由](https://www.youtube.com/watch?v=-QIKzyeP3ec) | 6:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-QIKzyeP3ec.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-QIKzyeP3ec.txt) |
 | [【好葉】學習語言最有效的方法 \| 無界限和母語者交流 \| HiNative超實用App推薦](https://www.youtube.com/watch?v=hzcP2PEWJF4) | 8:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_hzcP2PEWJF4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_hzcP2PEWJF4.txt) |
-| [【好葉】怎樣快速達成目標清單 \| 巴菲特的二分法 \| 25:5 高效率法則](https://www.youtube.com/watch?v=HHbXCXJE8tQ) | 4:41 | 待转写 | — | — |
+| [【好葉】怎樣快速達成目標清單 \| 巴菲特的二分法 \| 25:5 高效率法則](https://www.youtube.com/watch?v=HHbXCXJE8tQ) | 4:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HHbXCXJE8tQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HHbXCXJE8tQ.txt) |
 | [【好葉】5大生命必備的能力 \| 競爭社會不可或缺的能力 \| 幸福競爭力](https://www.youtube.com/watch?v=JoY-OwxrwMI) | 7:36 | 待转写 | — | — |
 | [【好葉】30萬訂閱特輯 \| 誰是好葉？](https://www.youtube.com/watch?v=bTpOqRs9164) | 4:12 | 待转写 | — | — |
 | [【好葉】總是覺得自己比活得更艱難 \| 跨欄定律 \| 5分鐘心理學](https://www.youtube.com/watch?v=TaaT2jDDSYU) | 4:10 | 待转写 | — | — |
