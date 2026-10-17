@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 498，待转写 86，失败待处理 3，文件不完整 0。
+共 587 条：已转写 499，待转写 85，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -509,7 +509,7 @@
 | [【好葉】印象：在別人眼中的你 - 5分鐘心理學](https://www.youtube.com/watch?v=mdtT5JEzyI0) | 5:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mdtT5JEzyI0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mdtT5JEzyI0.txt) |
 | [【好葉】怎樣讓人對你印象深刻 - 輕諾言，重兌現](https://www.youtube.com/watch?v=IgaR8WAtC18) | 5:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_IgaR8WAtC18.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_IgaR8WAtC18.txt) |
 | [【好葉】你會安慰自己嗎？ ’酸葡萄,甜檸檬’效應 - 5分鐘心理學](https://www.youtube.com/watch?v=9pFD_saGWqI) | 5:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_9pFD_saGWqI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_9pFD_saGWqI.txt) |
-| [【好葉】3招教你變成快讀大師 \| 快速閲讀術 - 動畫書評](https://www.youtube.com/watch?v=spmgSzazzZk) | 4:47 | 待转写 | — | — |
+| [【好葉】3招教你變成快讀大師 \| 快速閲讀術 - 動畫書評](https://www.youtube.com/watch?v=spmgSzazzZk) | 4:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_spmgSzazzZk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_spmgSzazzZk.txt) |
 | [【好葉】青蛙效應 - 你滿足于現在的生活嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=4s36M3-8Blo) | 4:48 | 待转写 | — | — |
 | [【好葉】人生就是一場游戲 - 怎樣精彩地展開屬於你的人生游戲？！](https://www.youtube.com/watch?v=RJ6fkHhELQE) | 8:00 | 待转写 | — | — |
 | [【好葉】3招最大化你的時間 - THE SECRET OF PRIORITY MANAGEMENT](https://www.youtube.com/watch?v=QMBjXsOS3Qw) | 4:08 | 待转写 | — | — |
