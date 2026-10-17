@@ -1,15 +1,15 @@
 {
-  "status": "finished_with_errors",
-  "note": "RuntimeError('downloaded audio is incomplete: audio=393.552s, source=422.000s, shortfall=28.448s')",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 586,
-  "queue_index": 355,
-  "updated_at": 1792208381,
-  "updated_at_readable": "2026-10-17 03:39:41",
-  "current_video_id": "j58SGrEVl24",
-  "current_title": "7種現象，看出女生對你有無意思 | 好葉",
-  "current_url": "https://www.youtube.com/watch?v=j58SGrEVl24",
+  "queue_index": 356,
+  "updated_at": 1792213447,
+  "updated_at_readable": "2026-10-17 05:04:07",
+  "current_video_id": "lmqaxj0qv4c",
+  "current_title": "【好葉】7個生出更多時間的方法 | 生時間 高績效時間管理術",
+  "current_url": "https://www.youtube.com/watch?v=lmqaxj0qv4c",
   "current_tab": "videos"
 }
