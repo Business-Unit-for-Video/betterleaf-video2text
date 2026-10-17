@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 542，待转写 42，失败待处理 3，文件不完整 0。
+共 587 条：已转写 543，待转写 41，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -553,7 +553,7 @@
 | [我虧了幾百萬，換來了這個教訓...](https://www.youtube.com/watch?v=rBhOLFL8MOs) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_rBhOLFL8MOs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_rBhOLFL8MOs.txt) |
 | [我如何從被平台綁架，到建立百萬美金的事業](https://www.youtube.com/watch?v=XkvASkV2y5Y) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_XkvASkV2y5Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_XkvASkV2y5Y.txt) |
 | [31歲前，我最不後悔的決定：開始投資！](https://www.youtube.com/watch?v=id1_zxTVpVM) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_id1_zxTVpVM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_id1_zxTVpVM.txt) |
-| [留言「預購」，我就會把鏈接發給你～ #好葉 #投資App](https://www.youtube.com/watch?v=_t_5JeIOrJc) | 未知 | 待转写 | — | — |
+| [留言「預購」，我就會把鏈接發給你～ #好葉 #投資App](https://www.youtube.com/watch?v=_t_5JeIOrJc) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf__t_5JeIOrJc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf__t_5JeIOrJc.txt) |
 | [按照你目前的歲數，應該要有多少錢？](https://www.youtube.com/watch?v=6cLqL2COwgY) | 未知 | 待转写 | — | — |
 | [第三篇：美元貶值還投美股？我的投資策略](https://www.youtube.com/watch?v=lcYYWu4gvDo) | 未知 | 待转写 | — | — |
 | [第二篇：股市大漲、經濟悲觀美國冰火兩重天](https://www.youtube.com/watch?v=wgOlM7qX-jc) | 未知 | 待转写 | — | — |
