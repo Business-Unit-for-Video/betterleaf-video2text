@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 433，待转写 151，失败待处理 3，文件不完整 0。
+共 587 条：已转写 434，待转写 150，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -444,7 +444,7 @@
 | [沉沒成本：為什麼你明明知道會虧錢，還是會一頭栽下去？ \| 五分鐘心理學](https://www.youtube.com/watch?v=WpEyAO3_bFA) | 5:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_WpEyAO3_bFA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_WpEyAO3_bFA.txt) |
 | [為什麼學馬雲的都變成了浮雲？死人不會說話 \| 倖存者偏差](https://www.youtube.com/watch?v=Qrc16Ha5Cgg) | 5:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Qrc16Ha5Cgg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Qrc16Ha5Cgg.txt) |
 | [怎樣用50美元買到谷歌的股票 \| eToro使用教學：註冊、入金、投資、出金](https://www.youtube.com/watch?v=xnASOFQItMA) | 4:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xnASOFQItMA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xnASOFQItMA.txt) |
-| [未來5年世界竟變成了這樣！主宰未來的6大關鍵 \| 未來地圖](https://www.youtube.com/watch?v=8HnAE7l8YPs) | 6:28 | 待转写 | — | — |
+| [未來5年世界竟變成了這樣！主宰未來的6大關鍵 \| 未來地圖](https://www.youtube.com/watch?v=8HnAE7l8YPs) | 6:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8HnAE7l8YPs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8HnAE7l8YPs.txt) |
 | [5分鐘看懂經濟學，就靠這本書 \| 小島經濟學](https://www.youtube.com/watch?v=Ir5IVnBhVr8) | 7:06 | 待转写 | — | — |
 | [【好葉】4種現金流現象 \| 富人致富的秘密](https://www.youtube.com/watch?v=X9Ph2JqzPIw) | 7:12 | 待转写 | — | — |
 | [【好葉】跟老外講英語就用這5招 \| Cambly英文外教 \| 好葉有好康](https://www.youtube.com/watch?v=FEIc_sbDtjc) | 10:09 | 待转写 | — | — |
