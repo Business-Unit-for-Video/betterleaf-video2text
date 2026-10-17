@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 454，待转写 130，失败待处理 3，文件不完整 0。
+共 587 条：已转写 455，待转写 129，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -465,7 +465,7 @@
 | [【好葉】8大股神投資指標 \| 巴菲特的投資秘訣](https://www.youtube.com/watch?v=35KnUXaI3MI) | 8:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_35KnUXaI3MI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_35KnUXaI3MI.txt) |
 | [【好葉】5個實用心理學技巧 \| 這些心理學實驗告訴你這樣做事最有效](https://www.youtube.com/watch?v=4omPdgkcPR0) | 7:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4omPdgkcPR0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4omPdgkcPR0.txt) |
 | [【好葉】販賣妻子,害蟲審判背後隱藏的經濟效益 \| WTF ？！一趟不可思議的經濟學之旅](https://www.youtube.com/watch?v=Ei84k-fcQsQ) | 8:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Ei84k-fcQsQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Ei84k-fcQsQ.txt) |
-| [【好葉】想創業投资？不知道這五点，必虧無疑! \| 五大創業投資陷阱](https://www.youtube.com/watch?v=JI1hWwdW1d0) | 7:14 | 待转写 | — | — |
+| [【好葉】想創業投资？不知道這五点，必虧無疑! \| 五大創業投資陷阱](https://www.youtube.com/watch?v=JI1hWwdW1d0) | 7:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JI1hWwdW1d0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JI1hWwdW1d0.txt) |
 | [【好葉】6堂價值數億元贏家智慧學 \| 跌倒的贏家：不只成功，更要卓越！](https://www.youtube.com/watch?v=mj7h4ZD32GQ) | 7:02 | 待转写 | — | — |
 | [【好葉】是自己太敏感，還是大家總是針對我？ \| 高敏感卻不受傷的七日練習](https://www.youtube.com/watch?v=Z3ncb7XJPfQ) | 6:57 | 待转写 | — | — |
 | [【好葉】99%的人都沒能真正做到聰明工作 \| 全新聰明工作學 \| 高績效心智](https://www.youtube.com/watch?v=b9Ib9UgIJJ8) | 10:23 | 待转写 | — | — |
