@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 544，待转写 40，失败待处理 3，文件不完整 0。
+共 587 条：已转写 545，待转写 39，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -555,7 +555,7 @@
 | [31歲前，我最不後悔的決定：開始投資！](https://www.youtube.com/watch?v=id1_zxTVpVM) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_id1_zxTVpVM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_id1_zxTVpVM.txt) |
 | [留言「預購」，我就會把鏈接發給你～ #好葉 #投資App](https://www.youtube.com/watch?v=_t_5JeIOrJc) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf__t_5JeIOrJc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf__t_5JeIOrJc.txt) |
 | [按照你目前的歲數，應該要有多少錢？](https://www.youtube.com/watch?v=6cLqL2COwgY) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6cLqL2COwgY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6cLqL2COwgY.txt) |
-| [第三篇：美元貶值還投美股？我的投資策略](https://www.youtube.com/watch?v=lcYYWu4gvDo) | 未知 | 待转写 | — | — |
+| [第三篇：美元貶值還投美股？我的投資策略](https://www.youtube.com/watch?v=lcYYWu4gvDo) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_lcYYWu4gvDo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_lcYYWu4gvDo.txt) |
 | [第二篇：股市大漲、經濟悲觀美國冰火兩重天](https://www.youtube.com/watch?v=wgOlM7qX-jc) | 未知 | 待转写 | — | — |
 | [第一篇：美債降級？別慌！這不是第一次](https://www.youtube.com/watch?v=zMvA_EBBVeM) | 未知 | 待转写 | — | — |
 | [現金流象限：你的財富轉折點](https://www.youtube.com/watch?v=HGGt-LXiUD0) | 未知 | 待转写 | — | — |
