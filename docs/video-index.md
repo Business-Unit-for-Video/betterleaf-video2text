@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 500，待转写 84，失败待处理 3，文件不完整 0。
+共 587 条：已转写 501，待转写 83，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -511,7 +511,7 @@
 | [【好葉】你會安慰自己嗎？ ’酸葡萄,甜檸檬’效應 - 5分鐘心理學](https://www.youtube.com/watch?v=9pFD_saGWqI) | 5:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_9pFD_saGWqI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_9pFD_saGWqI.txt) |
 | [【好葉】3招教你變成快讀大師 \| 快速閲讀術 - 動畫書評](https://www.youtube.com/watch?v=spmgSzazzZk) | 4:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_spmgSzazzZk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_spmgSzazzZk.txt) |
 | [【好葉】青蛙效應 - 你滿足于現在的生活嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=4s36M3-8Blo) | 4:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4s36M3-8Blo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4s36M3-8Blo.txt) |
-| [【好葉】人生就是一場游戲 - 怎樣精彩地展開屬於你的人生游戲？！](https://www.youtube.com/watch?v=RJ6fkHhELQE) | 8:00 | 待转写 | — | — |
+| [【好葉】人生就是一場游戲 - 怎樣精彩地展開屬於你的人生游戲？！](https://www.youtube.com/watch?v=RJ6fkHhELQE) | 8:00 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RJ6fkHhELQE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RJ6fkHhELQE.txt) |
 | [【好葉】3招最大化你的時間 - THE SECRET OF PRIORITY MANAGEMENT](https://www.youtube.com/watch?v=QMBjXsOS3Qw) | 4:08 | 待转写 | — | — |
 | [【好葉】3招最小化煩惱 - The Stoics](https://www.youtube.com/watch?v=zPDUgmVIuTE) | 4:21 | 待转写 | — | — |
 | [【好葉】5個致命的坏習慣，我中了4個 ! \| 可能你也中招了](https://www.youtube.com/watch?v=dWTYRrAl8Hc) | 6:44 | 待转写 | — | — |
