@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 444，待转写 140，失败待处理 3，文件不完整 0。
+共 587 条：已转写 445，待转写 139，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -455,7 +455,7 @@
 | [【好葉】學習語言最有效的方法 \| 無界限和母語者交流 \| HiNative超實用App推薦](https://www.youtube.com/watch?v=hzcP2PEWJF4) | 8:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_hzcP2PEWJF4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_hzcP2PEWJF4.txt) |
 | [【好葉】怎樣快速達成目標清單 \| 巴菲特的二分法 \| 25:5 高效率法則](https://www.youtube.com/watch?v=HHbXCXJE8tQ) | 4:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HHbXCXJE8tQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HHbXCXJE8tQ.txt) |
 | [【好葉】5大生命必備的能力 \| 競爭社會不可或缺的能力 \| 幸福競爭力](https://www.youtube.com/watch?v=JoY-OwxrwMI) | 7:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JoY-OwxrwMI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JoY-OwxrwMI.txt) |
-| [【好葉】30萬訂閱特輯 \| 誰是好葉？](https://www.youtube.com/watch?v=bTpOqRs9164) | 4:12 | 待转写 | — | — |
+| [【好葉】30萬訂閱特輯 \| 誰是好葉？](https://www.youtube.com/watch?v=bTpOqRs9164) | 4:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_bTpOqRs9164.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_bTpOqRs9164.txt) |
 | [【好葉】總是覺得自己比活得更艱難 \| 跨欄定律 \| 5分鐘心理學](https://www.youtube.com/watch?v=TaaT2jDDSYU) | 4:10 | 待转写 | — | — |
 | [【好葉】對于‘未完成’工作的壓力 \| 齊氏效應 \| 5分鐘心理學](https://www.youtube.com/watch?v=nNXFOKEjd0U) | 5:17 | 待转写 | — | — |
 | [【好葉】別讓公司死在股權分配問題上 \| 創業公司的動態股權分配機制](https://www.youtube.com/watch?v=VXaWimLqMzE) | 5:11 | 待转写 | — | — |
