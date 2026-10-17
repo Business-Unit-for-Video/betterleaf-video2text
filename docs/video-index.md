@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 394，待转写 189，失败待处理 3，文件不完整 0。
+共 586 条：已转写 395，待转写 188，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -405,7 +405,7 @@
 | [6種常見的認知偏誤，學會讓你變得更聰明！ 精準決策 \| 動畫說書](https://www.youtube.com/watch?v=-ZJgZuK5ZH8) | 8:46 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-ZJgZuK5ZH8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-ZJgZuK5ZH8.txt) |
 | [第二集：解憂的魔法方程式 \| 卡內基《人性的優點》](https://www.youtube.com/watch?v=ZUzm2ZWiH6c) | 6:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZUzm2ZWiH6c.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZUzm2ZWiH6c.txt) |
 | [有錢人的大陰謀：8個新時代的金錢法則 \| 富人致富的秘密](https://www.youtube.com/watch?v=9JqHPbu8jag) | 11:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_9JqHPbu8jag.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_9JqHPbu8jag.txt) |
-| [明明很努力卻賺不到錢？因為你把力道用錯了地方！\| 天賦原動力 Talent Dynamics](https://www.youtube.com/watch?v=_1Ozc74mYsk) | 12:34 | 待转写 | — | — |
+| [明明很努力卻賺不到錢？因為你把力道用錯了地方！\| 天賦原動力 Talent Dynamics](https://www.youtube.com/watch?v=_1Ozc74mYsk) | 12:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf__1Ozc74mYsk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf__1Ozc74mYsk.txt) |
 | [金錢能不能買到快樂，關鍵在於你怎樣用錢 \| 金錢超思考](https://www.youtube.com/watch?v=O7klyxu4wW4) | 8:36 | 待转写 | — | — |
 | [不喜歡工作？天賦專家教你找到自己喜歡的賺錢方式 Feat Jamie](https://www.youtube.com/watch?v=OiuFcvVyxR0) | 10:29 | 待转写 | — | — |
 | [讀懂人性：10大驅動價值 \| 為什麼有些人就是合不來](https://www.youtube.com/watch?v=bShP-9NveZY) | 7:16 | 待转写 | — | — |
