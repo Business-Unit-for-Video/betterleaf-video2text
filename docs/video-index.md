@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 509，待转写 75，失败待处理 3，文件不完整 0。
+共 587 条：已转写 510，待转写 74，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -520,7 +520,7 @@
 | [【好葉】5個方法讓你變快樂 - 第三個真的很有效！](https://www.youtube.com/watch?v=Xb6jWRT5Zpk) | 6:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xb6jWRT5Zpk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xb6jWRT5Zpk.txt) |
 | [【好葉】爲什麽我們會後悔 - 5分鐘心理學](https://www.youtube.com/watch?v=y-7TpsVKgZs) | 5:11 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_y-7TpsVKgZs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_y-7TpsVKgZs.txt) |
 | [【好葉】《好奇心》 Lan leslie - 動畫書評](https://www.youtube.com/watch?v=nxIiGW3M9t4) | 5:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nxIiGW3M9t4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nxIiGW3M9t4.txt) |
-| [【好葉】你的直覺對嗎 - 5分鐘心理學](https://www.youtube.com/watch?v=ZirtFuQK28k) | 4:38 | 待转写 | — | — |
+| [【好葉】你的直覺對嗎 - 5分鐘心理學](https://www.youtube.com/watch?v=ZirtFuQK28k) | 4:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZirtFuQK28k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZirtFuQK28k.txt) |
 | [【好葉】5個實用經濟學技巧 - 解決各種難題](https://www.youtube.com/watch?v=mxHRwPzfVPk) | 5:01 | 待转写 | — | — |
 | [【好葉】高效能人士的七个习惯(上） - 動畫書評](https://www.youtube.com/watch?v=CVYAt6ZTY_Y) | 5:45 | 待转写 | — | — |
 | [【好葉】關鍵20小時 - 快速學會任何技能 - The First 20 hours( Josh Kaufman) - 動畫書評](https://www.youtube.com/watch?v=CeNTWXK7S-k) | 4:42 | 待转写 | — | — |
