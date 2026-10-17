@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 381，待转写 202，失败待处理 3，文件不完整 0。
+共 586 条：已转写 382，待转写 201，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -392,7 +392,7 @@
 | [學會這4點，人人都可以創業成功 \| 一人創業](https://www.youtube.com/watch?v=Ce11UXcADlk) | 7:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Ce11UXcADlk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Ce11UXcADlk.txt) |
 | [9道問題，深度回顧你的一整年 \| 2019精彩回顧](https://www.youtube.com/watch?v=Ksu6BBtOKbE) | 10:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Ksu6BBtOKbE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Ksu6BBtOKbE.txt) |
 | [全世界都會幫你的秘密：正確的信念 Feat. 宋姐](https://www.youtube.com/watch?v=QAW6M0roo64) | 7:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_QAW6M0roo64.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_QAW6M0roo64.txt) |
-| [7分鐘看完全球首富的傳奇故事 \| 貝索斯傳與亞馬遜](https://www.youtube.com/watch?v=jzTS6OWIr-U) | 7:47 | 待转写 | — | — |
+| [7分鐘看完全球首富的傳奇故事 \| 貝索斯傳與亞馬遜](https://www.youtube.com/watch?v=jzTS6OWIr-U) | 7:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jzTS6OWIr-U.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jzTS6OWIr-U.txt) |
 | [7個約會小技巧，秒懂她的心 \| 好葉](https://www.youtube.com/watch?v=4AqiNLNUH4c) | 7:56 | 待转写 | — | — |
 | [如何成為高手：修煉刻意練習的3個關鍵 \| 好葉原創故事](https://www.youtube.com/watch?v=SDFykGWVc9s) | 10:58 | 待转写 | — | — |
 | [10本必修財富思維：財商說書課 \| 好葉](https://www.youtube.com/watch?v=YB-uOsy7ZC0) | 5:21 | 待转写 | — | — |
