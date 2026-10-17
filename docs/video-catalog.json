@@ -3,14 +3,25 @@
   "channel_url": "https://www.youtube.com/@betterleaf",
   "repository": "Business-Unit-for-Video/betterleaf-video2text",
   "destination": "betterleaf",
-  "generated_at": "2026-10-17 11:58:53",
+  "generated_at": "2026-10-17 12:02:32",
   "counts": {
-    "completed": 431,
+    "completed": 432,
     "pending": 152,
     "failed": 3,
     "partial": 0
   },
   "items": [
+    {
+      "id": "QeNWwDAGZas",
+      "title": "下一個10年的財富分水嶺？a16z最新報告揭曉：AI真正的贏家可能不是軟體！",
+      "url": "https://www.youtube.com/watch?v=QeNWwDAGZas",
+      "duration": 1166,
+      "tab": "videos",
+      "availability": null,
+      "transcript_status": "completed",
+      "plain_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_QeNWwDAGZas.txt",
+      "timestamps_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_QeNWwDAGZas.txt"
+    },
     {
       "id": "KCNz9u0GATE",
       "title": "矽谷天王彼得 · 提爾的4條投資法則，他如何在所有人看懂以前，找到下一個贏家？",
