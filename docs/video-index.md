@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 320，待转写 264，失败待处理 2，文件不完整 0。
+共 586 条：已转写 321，待转写 263，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -330,7 +330,7 @@
 | [7個省錢的心理技巧 \| 如何每月節省更多錢 \| 好葉](https://www.youtube.com/watch?v=At3xgq6HDuA) | 11:14 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_At3xgq6HDuA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_At3xgq6HDuA.txt) |
 | [學會這三個經濟思維，你會活得更加自在 \| 經濟學的40堂公開課](https://www.youtube.com/watch?v=Gpm8rWJR_fo) | 12:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Gpm8rWJR_fo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Gpm8rWJR_fo.txt) |
 | [下班後的習慣決定你的未來 \| 如何善用下班時間 【好葉】](https://www.youtube.com/watch?v=eOhZkfjK55o) | 7:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_eOhZkfjK55o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_eOhZkfjK55o.txt) |
-| [3種方法 \| 教你如何改變你的思維【換框思考】](https://www.youtube.com/watch?v=U1dJ_29bspA) | 5:49 | 待转写 | — | — |
+| [3種方法 \| 教你如何改變你的思維【換框思考】](https://www.youtube.com/watch?v=U1dJ_29bspA) | 5:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_U1dJ_29bspA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_U1dJ_29bspA.txt) |
 | [安靜的力量：內向者如何發揮積極的力量【好葉】](https://www.youtube.com/watch?v=Uz2NPrgWx1E) | 5:28 | 待转写 | — | — |
 | [有錢人的陰謀論：用娛樂摧毀你的一生【好葉】](https://www.youtube.com/watch?v=7WbJ_UKnYEs) | 6:52 | 待转写 | — | — |
 | [從第一桶金跳躍成千萬富翁？\|  70萬訂閱Q&A特輯 【好葉】](https://www.youtube.com/watch?v=sE2FTDsjY_8) | 21:29 | 待转写 | — | — |
