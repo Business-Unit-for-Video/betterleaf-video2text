@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 335，待转写 249，失败待处理 2，文件不完整 0。
+共 586 条：已转写 336，待转写 248，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -345,7 +345,7 @@
 | [普通人能從天才身上學到什麼？\| 奇才: 揭開擁有非凡創造力的祕密【好葉】](https://www.youtube.com/watch?v=FqEA1FJHn7M) | 12:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_FqEA1FJHn7M.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_FqEA1FJHn7M.txt) |
 | [「一腦多用」有效率？你的大腦沒這麼厲害！ \| Multitasking的迷思](https://www.youtube.com/watch?v=l9dTprx5RXI) | 6:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_l9dTprx5RXI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_l9dTprx5RXI.txt) |
 | [好葉的YouTube免費線上課程](https://www.youtube.com/watch?v=wUu6qzsII_E) | 3:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wUu6qzsII_E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wUu6qzsII_E.txt) |
-| [如何打造一個出色的團隊 \| 我工作，我沒有不開心 \| 動畫說書](https://www.youtube.com/watch?v=iOu5DwEQaJE) | 6:05 | 待转写 | — | — |
+| [如何打造一個出色的團隊 \| 我工作，我沒有不開心 \| 動畫說書](https://www.youtube.com/watch?v=iOu5DwEQaJE) | 6:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_iOu5DwEQaJE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_iOu5DwEQaJE.txt) |
 | [3個善用正職工作的方法 \| FIRE 財務自由【好葉】](https://www.youtube.com/watch?v=lGQSWdb8RGk) | 6:28 | 待转写 | — | — |
 | [#抽書活動 學會這4點，用寫作收服人心 \| OREO寫作法【好葉】](https://www.youtube.com/watch?v=whCU3uGp57I) | 11:07 | 待转写 | — | — |
 | [放空的3大好處 \| 極度專注力 【好葉】](https://www.youtube.com/watch?v=6Q_rpU2ZGRs) | 7:47 | 待转写 | — | — |
