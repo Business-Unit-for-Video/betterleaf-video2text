@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 326，待转写 258，失败待处理 2，文件不完整 0。
+共 586 条：已转写 327，待转写 257，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -336,7 +336,7 @@
 | [從第一桶金跳躍成千萬富翁？\|  70萬訂閱Q&A特輯 【好葉】](https://www.youtube.com/watch?v=sE2FTDsjY_8) | 21:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_sE2FTDsjY_8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_sE2FTDsjY_8.txt) |
 | [人生不是一場馬拉松，而是一場迷宮 \| 如何過好這一生？【好葉】](https://www.youtube.com/watch?v=64rDat1nz1Y) | 7:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_64rDat1nz1Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_64rDat1nz1Y.txt) |
 | [只要相信就一定會成真？如何在生活中善用「安慰劑效應」【好葉】](https://www.youtube.com/watch?v=LfPkD9H18RI) | 6:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LfPkD9H18RI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LfPkD9H18RI.txt) |
-| [投資除了賺錢還能賺知識？投資股票讓我學會的5件事【好葉】](https://www.youtube.com/watch?v=ZZ-mkz0txHo) | 8:41 | 待转写 | — | — |
+| [投資除了賺錢還能賺知識？投資股票讓我學會的5件事【好葉】](https://www.youtube.com/watch?v=ZZ-mkz0txHo) | 8:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZZ-mkz0txHo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZZ-mkz0txHo.txt) |
 | [7個高效學習的祕訣 \| 一年學會四種語言，一個月學會素描 \| 超速學習](https://www.youtube.com/watch?v=9kK2B7YyBvM) | 11:24 | 待转写 | — | — |
 | [為什麼我的人生總是不順？2招教你擺脫負面思考！【好葉】](https://www.youtube.com/watch?v=QKc5rn6Oxlg) | 7:07 | 待转写 | — | — |
 | [3个克服“凡事总往坏处想”的思维 \| 俄羅斯方塊效應](https://www.youtube.com/watch?v=kdsW0furpcs) | 6:59 | 待转写 | — | — |
