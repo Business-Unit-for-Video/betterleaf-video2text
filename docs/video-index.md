@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 422，待转写 161，失败待处理 3，文件不完整 0。
+共 586 条：已转写 423，待转写 160，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -433,7 +433,7 @@
 | [一場大火燒掉了我的自尊心，這個想法改變了我的一生...](https://www.youtube.com/watch?v=quQJYdSHXd0) | 5:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_quQJYdSHXd0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_quQJYdSHXd0.txt) |
 | [怎樣練習英文工作面試？ Cambly的專業外教](https://www.youtube.com/watch?v=JKXfx9YqOAM) | 7:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JKXfx9YqOAM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JKXfx9YqOAM.txt) |
 | [這一生，你想留下什麼？：史丹佛的10堂領導課 \| 動畫書評](https://www.youtube.com/watch?v=dQtNTZ80nEM) | 7:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dQtNTZ80nEM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dQtNTZ80nEM.txt) |
-| [投資之父的3個投資原則 \| The Intellegent Investor](https://www.youtube.com/watch?v=--Czx3w6aWE) | 7:48 | 待转写 | — | — |
+| [投資之父的3個投資原則 \| The Intellegent Investor](https://www.youtube.com/watch?v=--Czx3w6aWE) | 7:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_--Czx3w6aWE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_--Czx3w6aWE.txt) |
 | [怎樣制定行动计划：8個讓你達成目標的關鍵](https://www.youtube.com/watch?v=2dfJaKip1lw) | 8:05 | 待转写 | — | — |
 | [5個戒掉拖延症的方法 \| 高效人生 \| 實用冷技巧](https://www.youtube.com/watch?v=QB_o4Z6Vp7Y) | 7:00 | 待转写 | — | — |
 | [專家權威都在欺騙你？！\| 權威偏誤 Authority Fallacy \| 5分鐘心理學](https://www.youtube.com/watch?v=wUPT4jvlIVA) | 6:12 | 待转写 | — | — |
