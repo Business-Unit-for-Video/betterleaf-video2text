@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 384，待转写 199，失败待处理 3，文件不完整 0。
+共 586 条：已转写 385，待转写 198，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -395,7 +395,7 @@
 | [7分鐘看完全球首富的傳奇故事 \| 貝索斯傳與亞馬遜](https://www.youtube.com/watch?v=jzTS6OWIr-U) | 7:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jzTS6OWIr-U.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jzTS6OWIr-U.txt) |
 | [7個約會小技巧，秒懂她的心 \| 好葉](https://www.youtube.com/watch?v=4AqiNLNUH4c) | 7:56 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4AqiNLNUH4c.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4AqiNLNUH4c.txt) |
 | [如何成為高手：修煉刻意練習的3個關鍵 \| 好葉原創故事](https://www.youtube.com/watch?v=SDFykGWVc9s) | 10:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_SDFykGWVc9s.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_SDFykGWVc9s.txt) |
-| [10本必修財富思維：財商說書課 \| 好葉](https://www.youtube.com/watch?v=YB-uOsy7ZC0) | 5:21 | 待转写 | — | — |
+| [10本必修財富思維：財商說書課 \| 好葉](https://www.youtube.com/watch?v=YB-uOsy7ZC0) | 5:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YB-uOsy7ZC0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YB-uOsy7ZC0.txt) |
 | [如何拉近人際間的心理距離 \| 好葉](https://www.youtube.com/watch?v=BTmZJK8MkZE) | 6:49 | 待转写 | — | — |
 | [中國經濟的晴雨表：雙11的由來 （內有阿里巴巴股票分析）](https://www.youtube.com/watch?v=qcAoLPg4ytw) | 7:05 | 待转写 | — | — |
 | [6個讓女生喜歡你的心理學技巧 \| 好葉](https://www.youtube.com/watch?v=K2KLATgydpk) | 7:33 | 待转写 | — | — |
