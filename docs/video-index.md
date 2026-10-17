@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 367，待转写 216，失败待处理 3，文件不完整 0。
+共 586 条：已转写 368，待转写 215，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -378,7 +378,7 @@
 | [5G时代，你是否还在用着2G的赚钱方式？feat 保罗老师](https://www.youtube.com/watch?v=6xpaWFoGxDo) | 9:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6xpaWFoGxDo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6xpaWFoGxDo.txt) |
 | [晚上睡不著，你失眠了嗎？3招擺脫失眠症](https://www.youtube.com/watch?v=xnWB9jolxhk) | 8:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xnWB9jolxhk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xnWB9jolxhk.txt) |
 | [最強eToro操作教學：交易、複製跟單、股息、槓桿、手續費](https://www.youtube.com/watch?v=Z2G1RgHY5dc) | 13:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Z2G1RgHY5dc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Z2G1RgHY5dc.txt) |
-| [3個讓你變得越來越迷信的原因 \| 其實你一直很迷信](https://www.youtube.com/watch?v=FJAwnBM1Kgc) | 8:23 | 待转写 | — | — |
+| [3個讓你變得越來越迷信的原因 \| 其實你一直很迷信](https://www.youtube.com/watch?v=FJAwnBM1Kgc) | 8:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_FJAwnBM1Kgc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_FJAwnBM1Kgc.txt) |
 | [4個步驟建立高效人脈：招財進寶 feat 保羅老師](https://www.youtube.com/watch?v=hLcwNcbY_ZA) | 13:06 | 待转写 | — | — |
 | [心流：高手都在研究的最優體驗心理學 \| 說書動畫](https://www.youtube.com/watch?v=JG6QylYHuXo) | 6:28 | 待转写 | — | — |
 | [5個小資常犯的理財誤區 \| 不要再上大師課了！ feat Jamie](https://www.youtube.com/watch?v=Gl2EAWXO1hA) | 12:00 | 待转写 | — | — |
@@ -547,7 +547,7 @@
 | [現代價值實戰班 - 年終優惠招生！ #好葉 #投資理財 #被動收入](https://www.youtube.com/watch?v=u8Jfi7D2_8U) | 未知 | 待转写 | — | — |
 | [🇫🇷A song + a France travel vlog. I even used AI to create a song for the video. What do you all t...](https://www.youtube.com/watch?v=oWVvKL8u04M) | 未知 | 待转写 | — | — |
 | [A 31-year-old online entrepreneur, currently traveling in Belgium 🇧🇪, left a message saying "onli...](https://www.youtube.com/watch?v=aSoIyJ-0Xi0) | 未知 | 待转写 | — | — |
-| [31-year-old online entrepreneur, traveling in the Netherlands 🇳🇱 #money #investment #onlineentrep...](https://www.youtube.com/watch?v=D0zZM6KsuI0) | 未知 | 待转写 | — | — |
+| [31歲網絡創業者，荷蘭旅遊🇳🇱 #money #投資理財 #網絡創業](https://www.youtube.com/watch?v=D0zZM6KsuI0) | 未知 | 待转写 | — | — |
 | [如何把粉絲，真正轉化成收入？](https://www.youtube.com/watch?v=euEDowjh_gE) | 未知 | 待转写 | — | — |
 | [我虧了幾百萬，換來了這個教訓...](https://www.youtube.com/watch?v=rBhOLFL8MOs) | 未知 | 待转写 | — | — |
 | [我如何從被平台綁架，到建立百萬美金的事業](https://www.youtube.com/watch?v=XkvASkV2y5Y) | 未知 | 待转写 | — | — |
