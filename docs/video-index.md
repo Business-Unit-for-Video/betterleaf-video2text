@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 366，待转写 217，失败待处理 3，文件不完整 0。
+共 586 条：已转写 367，待转写 216，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -377,7 +377,7 @@
 | [七个导致你容易感染病毒的原因 feat 新冠病毒](https://www.youtube.com/watch?v=6oS7V3OAB3o) | 10:13 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6oS7V3OAB3o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6oS7V3OAB3o.txt) |
 | [5G时代，你是否还在用着2G的赚钱方式？feat 保罗老师](https://www.youtube.com/watch?v=6xpaWFoGxDo) | 9:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6xpaWFoGxDo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6xpaWFoGxDo.txt) |
 | [晚上睡不著，你失眠了嗎？3招擺脫失眠症](https://www.youtube.com/watch?v=xnWB9jolxhk) | 8:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xnWB9jolxhk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xnWB9jolxhk.txt) |
-| [最強eToro操作教學：交易、複製跟單、股息、槓桿、手續費](https://www.youtube.com/watch?v=Z2G1RgHY5dc) | 13:23 | 待转写 | — | — |
+| [最強eToro操作教學：交易、複製跟單、股息、槓桿、手續費](https://www.youtube.com/watch?v=Z2G1RgHY5dc) | 13:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Z2G1RgHY5dc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Z2G1RgHY5dc.txt) |
 | [3個讓你變得越來越迷信的原因 \| 其實你一直很迷信](https://www.youtube.com/watch?v=FJAwnBM1Kgc) | 8:23 | 待转写 | — | — |
 | [4個步驟建立高效人脈：招財進寶 feat 保羅老師](https://www.youtube.com/watch?v=hLcwNcbY_ZA) | 13:06 | 待转写 | — | — |
 | [心流：高手都在研究的最優體驗心理學 \| 說書動畫](https://www.youtube.com/watch?v=JG6QylYHuXo) | 6:28 | 待转写 | — | — |
