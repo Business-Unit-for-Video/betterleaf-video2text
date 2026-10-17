@@ -3,10 +3,10 @@
   "channel_url": "https://www.youtube.com/@betterleaf",
   "repository": "Business-Unit-for-Video/betterleaf-video2text",
   "destination": "betterleaf",
-  "generated_at": "2026-10-17 17:15:17",
+  "generated_at": "2026-10-17 17:19:21",
   "counts": {
-    "completed": 507,
-    "pending": 77,
+    "completed": 508,
+    "pending": 76,
     "failed": 3,
     "partial": 0
   },
@@ -398,7 +398,7 @@
     },
     {
       "id": "Xsn9IiGsKXs",
-      "title": "Why is saving $20,000 a real turning point in your life?",
+      "title": "為什麼存到2萬美元，是你人生真正的分水嶺？",
       "url": "https://www.youtube.com/watch?v=Xsn9IiGsKXs",
       "duration": 847,
       "tab": "videos",
@@ -5628,9 +5628,9 @@
       "duration": 311,
       "tab": "videos",
       "availability": null,
-      "transcript_status": "pending",
-      "plain_url": null,
-      "timestamps_url": null
+      "transcript_status": "completed",
+      "plain_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_y-7TpsVKgZs.txt",
+      "timestamps_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_y-7TpsVKgZs.txt"
     },
     {
       "id": "nxIiGW3M9t4",
