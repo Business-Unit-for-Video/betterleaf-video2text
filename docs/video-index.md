@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 407，待转写 176，失败待处理 3，文件不完整 0。
+共 586 条：已转写 408，待转写 175，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -418,7 +418,7 @@
 | [做到這3點，你也可以成為百萬富翁 \| 征服金錢 Money Master The Game](https://www.youtube.com/watch?v=P1-ogY6MWDU) | 9:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_P1-ogY6MWDU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_P1-ogY6MWDU.txt) |
 | [这一個關鍵，将給你帶來財富和成功：普通人怎樣鹹魚翻身。](https://www.youtube.com/watch?v=8xLmYalaJoY) | 11:22 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8xLmYalaJoY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8xLmYalaJoY.txt) |
 | [99%有效的故事行銷，創造品牌力 \| 好葉](https://www.youtube.com/watch?v=fhPPmdI44Ck) | 7:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_fhPPmdI44Ck.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_fhPPmdI44Ck.txt) |
-| [3招教你說出好故事 \| 故事課1：3分鐘說18萬個故事，打造影響力](https://www.youtube.com/watch?v=Wc4SxBkfT54) | 11:02 | 待转写 | — | — |
+| [3招教你說出好故事 \| 故事課1：3分鐘說18萬個故事，打造影響力](https://www.youtube.com/watch?v=Wc4SxBkfT54) | 11:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Wc4SxBkfT54.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Wc4SxBkfT54.txt) |
 | [滚雪球：巴菲特和他的财富人生 \| 他是如何賺取800億美元的 ？！](https://www.youtube.com/watch?v=l5eX4rZyByk) | 10:34 | 待转写 | — | — |
 | [成長YouTube頻道的5大策略：一年累計10萬訂閱，兩年突破40萬粉絲量的秘訣。](https://www.youtube.com/watch?v=83WQSAcswAo) | 10:16 | 待转写 | — | — |
 | [情緒重建：3個層面讀懂情緒困擾，學會與情緒做朋友](https://www.youtube.com/watch?v=NuVm_pt1AXI) | 8:39 | 待转写 | — | — |
