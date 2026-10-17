@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 412，待转写 171，失败待处理 3，文件不完整 0。
+共 586 条：已转写 413，待转写 170，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -423,7 +423,7 @@
 | [成長YouTube頻道的5大策略：一年累計10萬訂閱，兩年突破40萬粉絲量的秘訣。](https://www.youtube.com/watch?v=83WQSAcswAo) | 10:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_83WQSAcswAo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_83WQSAcswAo.txt) |
 | [情緒重建：3個層面讀懂情緒困擾，學會與情緒做朋友](https://www.youtube.com/watch?v=NuVm_pt1AXI) | 8:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_NuVm_pt1AXI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_NuVm_pt1AXI.txt) |
 | [從三分鐘熱度畢業：日本微軟HR的最高「借力術」，不必拚意志力，你也能完成想要的目標和學習！](https://www.youtube.com/watch?v=ISMZB8Oea34) | 5:32 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ISMZB8Oea34.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ISMZB8Oea34.txt) |
-| [5個讓你無法致富的原因 - 研究證明](https://www.youtube.com/watch?v=k2QQuUF-B08) | 7:04 | 待转写 | — | — |
+| [5個讓你無法致富的原因 - 研究證明](https://www.youtube.com/watch?v=k2QQuUF-B08) | 7:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_k2QQuUF-B08.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_k2QQuUF-B08.txt) |
 | [用聰明的方法達到成功：21堂課邁向積極人生](https://www.youtube.com/watch?v=pEE1ReKtzYw) | 2:44 | 待转写 | — | — |
 | [5個步驟，從投資新手邁向投資高手 \| 怎樣購買你的第一支股票](https://www.youtube.com/watch?v=lVe9DyCTsgE) | 8:47 | 待转写 | — | — |
 | [7個方法，教你快速打造新習慣 \| 邁向積極人生](https://www.youtube.com/watch?v=WrGenJYgou4) | 7:53 | 待转写 | — | — |
