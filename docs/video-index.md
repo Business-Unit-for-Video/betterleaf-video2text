@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 439，待转写 145，失败待处理 3，文件不完整 0。
+共 587 条：已转写 440，待转写 144，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -450,7 +450,7 @@
 | [【好葉】跟老外講英語就用這5招 \| Cambly英文外教 \| 好葉有好康](https://www.youtube.com/watch?v=FEIc_sbDtjc) | 10:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_FEIc_sbDtjc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_FEIc_sbDtjc.txt) |
 | [【好葉】3個步驟，為2019設定最強年度目標！\| 實用冷技巧](https://www.youtube.com/watch?v=jnVRnjnYgs8) | 7:58 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jnVRnjnYgs8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jnVRnjnYgs8.txt) |
 | [【好葉】90%的工作都不需要文憑！？ \| 學歷到底重不重要](https://www.youtube.com/watch?v=M3VTxg_sju4) | 6:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_M3VTxg_sju4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_M3VTxg_sju4.txt) |
-| [【好葉】曾經窮到只有一千元過年，到坐擁九位數資產 \| 即使從天空墜落，也不能癱瘓我的人生 \| 動畫書評](https://www.youtube.com/watch?v=1-aWcwEhiss) | 7:37 | 待转写 | — | — |
+| [【好葉】曾經窮到只有一千元過年，到坐擁九位數資產 \| 即使從天空墜落，也不能癱瘓我的人生 \| 動畫書評](https://www.youtube.com/watch?v=1-aWcwEhiss) | 7:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1-aWcwEhiss.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1-aWcwEhiss.txt) |
 | [【好葉】3個步驟輕鬆增長財富 \| 打工族怎樣實現財富自由](https://www.youtube.com/watch?v=-QIKzyeP3ec) | 6:46 | 待转写 | — | — |
 | [【好葉】學習語言最有效的方法 \| 無界限和母語者交流 \| HiNative超實用App推薦](https://www.youtube.com/watch?v=hzcP2PEWJF4) | 8:09 | 待转写 | — | — |
 | [【好葉】怎樣快速達成目標清單 \| 巴菲特的二分法 \| 25:5 高效率法則](https://www.youtube.com/watch?v=HHbXCXJE8tQ) | 4:41 | 待转写 | — | — |
