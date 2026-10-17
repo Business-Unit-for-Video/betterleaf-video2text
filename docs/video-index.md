@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 399，待转写 184，失败待处理 3，文件不完整 0。
+共 586 条：已转写 400，待转写 183，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -410,7 +410,7 @@
 | [不喜歡工作？天賦專家教你找到自己喜歡的賺錢方式 Feat Jamie](https://www.youtube.com/watch?v=OiuFcvVyxR0) | 10:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OiuFcvVyxR0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OiuFcvVyxR0.txt) |
 | [讀懂人性：10大驅動價值 \| 為什麼有些人就是合不來](https://www.youtube.com/watch?v=bShP-9NveZY) | 7:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_bShP-9NveZY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_bShP-9NveZY.txt) |
 | [6種被動收入解密，網紅美女教你打造被動收入 Feat Ms. Selena \| 好葉](https://www.youtube.com/watch?v=AMJ1pSWbZyc) | 8:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_AMJ1pSWbZyc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_AMJ1pSWbZyc.txt) |
-| [第一集：活在只有今天的密封艙里 \| 卡內基《人性的優點》](https://www.youtube.com/watch?v=Oa7zetFJmls) | 6:26 | 待转写 | — | — |
+| [第一集：活在只有今天的密封艙里 \| 卡內基《人性的優點》](https://www.youtube.com/watch?v=Oa7zetFJmls) | 6:26 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Oa7zetFJmls.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Oa7zetFJmls.txt) |
 | [1000美元要怎麼投資：5種高效投資方式 \| 好葉](https://www.youtube.com/watch?v=5-gN3nrli1Q) | 8:03 | 待转写 | — | — |
 | [4種最難搞的人，該如何應對？ \| 好葉](https://www.youtube.com/watch?v=xAgtZvoOWnk) | 7:37 | 待转写 | — | — |
 | [5個提高自身魅力的實用技巧 \| 讓每個人都喜歡和你聊](https://www.youtube.com/watch?v=HCiqj0qGjpA) | 7:43 | 待转写 | — | — |
