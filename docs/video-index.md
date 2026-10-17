@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 485，待转写 99，失败待处理 3，文件不完整 0。
+共 587 条：已转写 486，待转写 98，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -496,7 +496,7 @@
 | [【好葉】7個沖冷澡的的好處 - 你還沖熱水澡嗎？](https://www.youtube.com/watch?v=YNVdZoJXUWQ) | 6:20 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YNVdZoJXUWQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YNVdZoJXUWQ.txt) |
 | [【好葉】杜根定律：你是個有信心的人嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=OtOpAGFBK2A) | 5:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OtOpAGFBK2A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OtOpAGFBK2A.txt) |
 | [【好葉】5個實用聊天技巧 - 話題永遠聊不完 ！ - 實用冷技巧](https://www.youtube.com/watch?v=4qhq2kWfBnI) | 6:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4qhq2kWfBnI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4qhq2kWfBnI.txt) |
-| [【好葉】算命師效應：星座真的準嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=kbjwchLHYTE) | 6:03 | 待转写 | — | — |
+| [【好葉】算命師效應：星座真的準嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=kbjwchLHYTE) | 6:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_kbjwchLHYTE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_kbjwchLHYTE.txt) |
 | [【好葉】費曼學習法：快速掌握新知識 - Feynman Technique](https://www.youtube.com/watch?v=gcbCXqjicu0) | 4:47 | 待转写 | — | — |
 | [【好葉】投射效應：為什麼你會討厭別人 - 5分鐘心理學](https://www.youtube.com/watch?v=348KltVP9UE) | 5:34 | 待转写 | — | — |
 | [【好葉】7個高效人士的習慣（下） 動畫書評](https://www.youtube.com/watch?v=3rNlTgioMu8) | 5:34 | 待转写 | — | — |
