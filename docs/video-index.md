@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 338，待转写 246，失败待处理 2，文件不完整 0。
+共 586 条：已转写 339，待转写 245，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -348,7 +348,7 @@
 | [如何打造一個出色的團隊 \| 我工作，我沒有不開心 \| 動畫說書](https://www.youtube.com/watch?v=iOu5DwEQaJE) | 6:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_iOu5DwEQaJE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_iOu5DwEQaJE.txt) |
 | [3個善用正職工作的方法 \| FIRE 財務自由【好葉】](https://www.youtube.com/watch?v=lGQSWdb8RGk) | 6:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_lGQSWdb8RGk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_lGQSWdb8RGk.txt) |
 | [#抽書活動 學會這4點，用寫作收服人心 \| OREO寫作法【好葉】](https://www.youtube.com/watch?v=whCU3uGp57I) | 11:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_whCU3uGp57I.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_whCU3uGp57I.txt) |
-| [放空的3大好處 \| 極度專注力 【好葉】](https://www.youtube.com/watch?v=6Q_rpU2ZGRs) | 7:47 | 待转写 | — | — |
+| [放空的3大好處 \| 極度專注力 【好葉】](https://www.youtube.com/watch?v=6Q_rpU2ZGRs) | 7:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6Q_rpU2ZGRs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6Q_rpU2ZGRs.txt) |
 | [9個結帳前 我们需要思考的金钱問題 \| FIRE 財務自由【好葉】](https://www.youtube.com/watch?v=uZUmJlD7-HM) | 11:43 | 待转写 | — | — |
 | [如何找回自己的自尊，提升自信心和自我價值 \| 好葉原创故事](https://www.youtube.com/watch?v=3aJ1zDzPZ4k) | 12:42 | 待转写 | — | — |
 | [PART 1：4個步驟教你把無人問津的產品變成爆款 \| 圈對粉，小生意也能賺大錢 \| 動畫說書](https://www.youtube.com/watch?v=QmjGmVVxZCY) | 13:56 | 待转写 | — | — |
