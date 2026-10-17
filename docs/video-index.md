@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 476，待转写 108，失败待处理 3，文件不完整 0。
+共 587 条：已转写 477，待转写 107，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -487,7 +487,7 @@
 | [【好葉】你有選擇困難症嗎？ - 布里丹效應 - 5分鐘心理學](https://www.youtube.com/watch?v=nengHUMdluY) | 5:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nengHUMdluY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nengHUMdluY.txt) |
 | [【好葉】怎樣設定令人振奮的年度目標 - 2021年最強目標！ - 《葬禮遊戲》](https://www.youtube.com/watch?v=YoGHwlDz6Ow) | 8:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YoGHwlDz6Ow.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YoGHwlDz6Ow.txt) |
 | [【好葉】到底要賣什麼才好賺？牛奶可樂經濟學 - 動畫書評](https://www.youtube.com/watch?v=MUtZScLOsGo) | 6:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_MUtZScLOsGo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_MUtZScLOsGo.txt) |
-| [【好葉】10個你必須去除的攔路石（下）- 為了一個美好的2022年](https://www.youtube.com/watch?v=qIQkhD2tNPU) | 8:39 | 待转写 | — | — |
+| [【好葉】10個你必須去除的攔路石（下）- 為了一個美好的2022年](https://www.youtube.com/watch?v=qIQkhD2tNPU) | 8:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_qIQkhD2tNPU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_qIQkhD2tNPU.txt) |
 | [【好葉】進入2020年：10個你必須去除的攔路石 （上）](https://www.youtube.com/watch?v=mlIVteVffzA) | 8:36 | 待转写 | — | — |
 | [【好葉】最有影響力的工具 - The Story Factor 動畫書評](https://www.youtube.com/watch?v=Dwow0q2U7fU) | 6:25 | 待转写 | — | — |
 | [【好葉】每個人都是高智能 - 瓦拉赫效應](https://www.youtube.com/watch?v=yHPoNfV_MB8) | 6:01 | 待转写 | — | — |
