@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 458，待转写 126，失败待处理 3，文件不完整 0。
+共 587 条：已转写 459，待转写 125，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -469,7 +469,7 @@
 | [【好葉】6堂價值數億元贏家智慧學 \| 跌倒的贏家：不只成功，更要卓越！](https://www.youtube.com/watch?v=mj7h4ZD32GQ) | 7:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mj7h4ZD32GQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mj7h4ZD32GQ.txt) |
 | [【好葉】是自己太敏感，還是大家總是針對我？ \| 高敏感卻不受傷的七日練習](https://www.youtube.com/watch?v=Z3ncb7XJPfQ) | 6:57 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Z3ncb7XJPfQ.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Z3ncb7XJPfQ.txt) |
 | [【好葉】99%的人都沒能真正做到聰明工作 \| 全新聰明工作學 \| 高績效心智](https://www.youtube.com/watch?v=b9Ib9UgIJJ8) | 10:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_b9Ib9UgIJJ8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_b9Ib9UgIJJ8.txt) |
-| [【好葉】90%的投資者都在輸錢 \| 5個讓你輸錢的原因](https://www.youtube.com/watch?v=JdahZP0ZziY) | 6:53 | 待转写 | — | — |
+| [【好葉】90%的投資者都在輸錢 \| 5個讓你輸錢的原因](https://www.youtube.com/watch?v=JdahZP0ZziY) | 6:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JdahZP0ZziY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JdahZP0ZziY.txt) |
 | [【好葉】思維決定命運 - 別讓思維害死了你一生 \| 《終生成長》](https://www.youtube.com/watch?v=jbUJGkM4Ksk) | 8:15 | 待转写 | — | — |
 | [【好葉】善良的你，是不是一直做壞事？ \| 破窗效應](https://www.youtube.com/watch?v=EEwCxZfcqHg) | 5:37 | 待转写 | — | — |
 | [【好葉】5個高效抗壓法 - 第四個真的很有效！](https://www.youtube.com/watch?v=ZnPTxbvnAZ0) | 6:36 | 待转写 | — | — |
