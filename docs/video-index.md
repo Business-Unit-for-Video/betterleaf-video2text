@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 428，待转写 155，失败待处理 3，文件不完整 0。
+共 586 条：已转写 429，待转写 154，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -439,7 +439,7 @@
 | [專家權威都在欺騙你？！\| 權威偏誤 Authority Fallacy \| 5分鐘心理學](https://www.youtube.com/watch?v=wUPT4jvlIVA) | 6:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wUPT4jvlIVA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wUPT4jvlIVA.txt) |
 | [想成為百萬富翁，就靠這一招！ \| 不是金錢遊戲](https://www.youtube.com/watch?v=OIdSBvZfYmI) | 6:50 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OIdSBvZfYmI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OIdSBvZfYmI.txt) |
 | [活出快樂人生的4個關鍵 \| 獻給找不到方向的你 \| ikigai法則](https://www.youtube.com/watch?v=h2SD_6K_cCc) | 8:39 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_h2SD_6K_cCc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_h2SD_6K_cCc.txt) |
-| [4個提高運氣的方法，幸運的人不告訴你的秘密！\| 幸運，你可以學會的能力](https://www.youtube.com/watch?v=uGuMNT3zgTE) | 8:24 | 待转写 | — | — |
+| [4個提高運氣的方法，幸運的人不告訴你的秘密！\| 幸運，你可以學會的能力](https://www.youtube.com/watch?v=uGuMNT3zgTE) | 8:24 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_uGuMNT3zgTE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_uGuMNT3zgTE.txt) |
 | [沉沒成本：為什麼你明明知道會虧錢，還是會一頭栽下去？ \| 五分鐘心理學](https://www.youtube.com/watch?v=WpEyAO3_bFA) | 5:31 | 待转写 | — | — |
 | [為什麼學馬雲的都變成了浮雲？死人不會說話 \| 倖存者偏差](https://www.youtube.com/watch?v=Qrc16Ha5Cgg) | 5:13 | 待转写 | — | — |
 | [怎樣用50美元買到谷歌的股票 \| eToro使用教學：註冊、入金、投資、出金](https://www.youtube.com/watch?v=xnASOFQItMA) | 4:18 | 待转写 | — | — |
