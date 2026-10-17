@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 390，待转写 193，失败待处理 3，文件不完整 0。
+共 586 条：已转写 391，待转写 192，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -401,7 +401,7 @@
 | [6個讓女生喜歡你的心理學技巧 \| 好葉](https://www.youtube.com/watch?v=K2KLATgydpk) | 7:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_K2KLATgydpk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_K2KLATgydpk.txt) |
 | [3招讓你瞬間催眠對方 \| 增強溝通影響力](https://www.youtube.com/watch?v=1hDCEUhvB1E) | 8:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1hDCEUhvB1E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1hDCEUhvB1E.txt) |
 | [這一個心態，讓很多人失去了致富的機會 \| 好葉原創故事](https://www.youtube.com/watch?v=ahjIFf_hny0) | 10:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ahjIFf_hny0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ahjIFf_hny0.txt) |
-| [我從校園霸凌變成了億萬富翁...  真人版鋼鐵俠的傳奇人生 \| Bonus 特斯拉 股票分析](https://www.youtube.com/watch?v=HV_TeVWGOJ0) | 11:04 | 待转写 | — | — |
+| [我從校園霸凌變成了億萬富翁...  真人版鋼鐵俠的傳奇人生 \| Bonus 特斯拉 股票分析](https://www.youtube.com/watch?v=HV_TeVWGOJ0) | 11:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HV_TeVWGOJ0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HV_TeVWGOJ0.txt) |
 | [6種常見的認知偏誤，學會讓你變得更聰明！ 精準決策 \| 動畫說書](https://www.youtube.com/watch?v=-ZJgZuK5ZH8) | 8:46 | 待转写 | — | — |
 | [第二集：解憂的魔法方程式 \| 卡內基《人性的優點》](https://www.youtube.com/watch?v=ZUzm2ZWiH6c) | 6:32 | 待转写 | — | — |
 | [有錢人的大陰謀：8個新時代的金錢法則 \| 富人致富的秘密](https://www.youtube.com/watch?v=9JqHPbu8jag) | 11:13 | 待转写 | — | — |

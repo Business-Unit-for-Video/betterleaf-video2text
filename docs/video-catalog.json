@@ -3,10 +3,10 @@
   "channel_url": "https://www.youtube.com/@betterleaf",
   "repository": "Business-Unit-for-Video/betterleaf-video2text",
   "destination": "betterleaf",
-  "generated_at": "2026-10-17 07:55:01",
+  "generated_at": "2026-10-17 07:58:49",
   "counts": {
-    "completed": 390,
-    "pending": 193,
+    "completed": 391,
+    "pending": 192,
     "failed": 3,
     "partial": 0
   },
@@ -4341,9 +4341,9 @@
       "duration": 664,
       "tab": "videos",
       "availability": null,
-      "transcript_status": "pending",
-      "plain_url": null,
-      "timestamps_url": null
+      "transcript_status": "completed",
+      "plain_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HV_TeVWGOJ0.txt",
+      "timestamps_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HV_TeVWGOJ0.txt"
     },
     {
       "id": "-ZJgZuK5ZH8",
