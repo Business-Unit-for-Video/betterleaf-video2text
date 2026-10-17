@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 505，待转写 79，失败待处理 3，文件不完整 0。
+共 587 条：已转写 506，待转写 78，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -516,7 +516,7 @@
 | [【好葉】3招最小化煩惱 - The Stoics](https://www.youtube.com/watch?v=zPDUgmVIuTE) | 4:21 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_zPDUgmVIuTE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_zPDUgmVIuTE.txt) |
 | [【好葉】5個致命的坏習慣，我中了4個 ! \| 可能你也中招了](https://www.youtube.com/watch?v=dWTYRrAl8Hc) | 6:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_dWTYRrAl8Hc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_dWTYRrAl8Hc.txt) |
 | [【好葉】怎樣練習冥想【完整教學】- 動畫講解](https://www.youtube.com/watch?v=NLJcwbpkiJ0) | 6:20 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_NLJcwbpkiJ0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_NLJcwbpkiJ0.txt) |
-| [【好葉】冥想的5大好處！（科學證實）- 現在就開始練習冥想](https://www.youtube.com/watch?v=w1Dqx3FF8W4) | 7:05 | 待转写 | — | — |
+| [【好葉】冥想的5大好處！（科學證實）- 現在就開始練習冥想](https://www.youtube.com/watch?v=w1Dqx3FF8W4) | 7:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_w1Dqx3FF8W4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_w1Dqx3FF8W4.txt) |
 | [【好葉】5個方法讓你變快樂 - 第三個真的很有效！](https://www.youtube.com/watch?v=Xb6jWRT5Zpk) | 6:31 | 待转写 | — | — |
 | [【好葉】爲什麽我們會後悔 - 5分鐘心理學](https://www.youtube.com/watch?v=y-7TpsVKgZs) | 5:11 | 待转写 | — | — |
 | [【好葉】《好奇心》 Lan leslie - 動畫書評](https://www.youtube.com/watch?v=nxIiGW3M9t4) | 5:40 | 待转写 | — | — |
