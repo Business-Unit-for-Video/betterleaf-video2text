@@ -1,0 +1,6 @@
+video_id: cE_sgMPVsu4
+title: 2025美股開局。。哪裡的公園WiFi？ #娛樂一下 #股市崩盤 #美股
+url: https://www.youtube.com/watch?v=cE_sgMPVsu4
+tab: shorts
+time: 2026-10-17 21:22:42
+error: RuntimeError('transcription produced no text')

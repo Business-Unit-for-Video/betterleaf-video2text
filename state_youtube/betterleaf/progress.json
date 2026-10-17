@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "finished_with_errors",
+  "note": "RuntimeError('transcription produced no text')",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 587,
-  "queue_index": 556,
-  "updated_at": 1792272080,
-  "updated_at_readable": "2026-10-17 21:21:20",
-  "current_video_id": "jrXIycDLoI8",
-  "current_title": "不幸就是最大的幸運",
-  "current_url": "https://www.youtube.com/watch?v=jrXIycDLoI8",
+  "queue_index": 557,
+  "updated_at": 1792272162,
+  "updated_at_readable": "2026-10-17 21:22:42",
+  "current_video_id": "cE_sgMPVsu4",
+  "current_title": "2025美股開局。。哪裡的公園WiFi？ #娛樂一下 #股市崩盤 #美股",
+  "current_url": "https://www.youtube.com/watch?v=cE_sgMPVsu4",
   "current_tab": "shorts"
 }
