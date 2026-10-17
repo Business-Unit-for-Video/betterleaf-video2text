@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 354，待转写 229，失败待处理 3，文件不完整 0。
+共 586 条：已转写 355，待转写 228，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -365,7 +365,7 @@
 | [7種現象，看出女生對你有無意思 \| 好葉](https://www.youtube.com/watch?v=j58SGrEVl24) | 7:02 | 失败待处理 | — | — |
 | [【好葉】7個生出更多時間的方法 \| 生時間 高績效時間管理術](https://www.youtube.com/watch?v=lmqaxj0qv4c) | 8:54 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_lmqaxj0qv4c.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_lmqaxj0qv4c.txt) |
 | [我是如何積累到第一桶金的 \| 從0到500萬元財富積累經歷分享](https://www.youtube.com/watch?v=ZsD25FF3uaM) | 15:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZsD25FF3uaM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZsD25FF3uaM.txt) |
-| [5大指標看准入場股市時機 ，美國正陷入經濟蕭條當中？](https://www.youtube.com/watch?v=Xpb7_a1WYgA) | 8:29 | 待转写 | — | — |
+| [5大指標看准入場股市時機 ，美國正陷入經濟蕭條當中？](https://www.youtube.com/watch?v=Xpb7_a1WYgA) | 8:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xpb7_a1WYgA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xpb7_a1WYgA.txt) |
 | [【好葉】三招學會正念領導力 \| 靜下來工作](https://www.youtube.com/watch?v=7Opcp_ghfrY) | 9:15 | 待转写 | — | — |
 | [成功，從聚焦一件事開始 : 5個擋在你和成功之間的迷思 \| 動畫書評](https://www.youtube.com/watch?v=rXRQtadzqm8) | 7:42 | 待转写 | — | — |
 | [好好說話 : 如何讓人心服口服（3個技巧）](https://www.youtube.com/watch?v=Z_RZNN-TEJo) | 7:52 | 待转写 | — | — |
