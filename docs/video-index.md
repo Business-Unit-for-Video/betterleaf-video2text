@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 388，待转写 195，失败待处理 3，文件不完整 0。
+共 586 条：已转写 389，待转写 194，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -399,7 +399,7 @@
 | [如何拉近人際間的心理距離 \| 好葉](https://www.youtube.com/watch?v=BTmZJK8MkZE) | 6:49 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_BTmZJK8MkZE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_BTmZJK8MkZE.txt) |
 | [中國經濟的晴雨表：雙11的由來 （內有阿里巴巴股票分析）](https://www.youtube.com/watch?v=qcAoLPg4ytw) | 7:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_qcAoLPg4ytw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_qcAoLPg4ytw.txt) |
 | [6個讓女生喜歡你的心理學技巧 \| 好葉](https://www.youtube.com/watch?v=K2KLATgydpk) | 7:33 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_K2KLATgydpk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_K2KLATgydpk.txt) |
-| [3招讓你瞬間催眠對方 \| 增強溝通影響力](https://www.youtube.com/watch?v=1hDCEUhvB1E) | 8:47 | 待转写 | — | — |
+| [3招讓你瞬間催眠對方 \| 增強溝通影響力](https://www.youtube.com/watch?v=1hDCEUhvB1E) | 8:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1hDCEUhvB1E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1hDCEUhvB1E.txt) |
 | [這一個心態，讓很多人失去了致富的機會 \| 好葉原創故事](https://www.youtube.com/watch?v=ahjIFf_hny0) | 10:27 | 待转写 | — | — |
 | [我從校園霸凌變成了億萬富翁...  真人版鋼鐵俠的傳奇人生 \| Bonus 特斯拉 股票分析](https://www.youtube.com/watch?v=HV_TeVWGOJ0) | 11:04 | 待转写 | — | — |
 | [6種常見的認知偏誤，學會讓你變得更聰明！ 精準決策 \| 動畫說書](https://www.youtube.com/watch?v=-ZJgZuK5ZH8) | 8:46 | 待转写 | — | — |
