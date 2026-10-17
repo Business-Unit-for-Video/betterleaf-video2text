@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 425，待转写 158，失败待处理 3，文件不完整 0。
+共 586 条：已转写 426，待转写 157，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -436,7 +436,7 @@
 | [投資之父的3個投資原則 \| The Intellegent Investor](https://www.youtube.com/watch?v=--Czx3w6aWE) | 7:48 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_--Czx3w6aWE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_--Czx3w6aWE.txt) |
 | [怎樣制定行动计划：8個讓你達成目標的關鍵](https://www.youtube.com/watch?v=2dfJaKip1lw) | 8:05 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_2dfJaKip1lw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_2dfJaKip1lw.txt) |
 | [5個戒掉拖延症的方法 \| 高效人生 \| 實用冷技巧](https://www.youtube.com/watch?v=QB_o4Z6Vp7Y) | 7:00 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_QB_o4Z6Vp7Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_QB_o4Z6Vp7Y.txt) |
-| [專家權威都在欺騙你？！\| 權威偏誤 Authority Fallacy \| 5分鐘心理學](https://www.youtube.com/watch?v=wUPT4jvlIVA) | 6:12 | 待转写 | — | — |
+| [專家權威都在欺騙你？！\| 權威偏誤 Authority Fallacy \| 5分鐘心理學](https://www.youtube.com/watch?v=wUPT4jvlIVA) | 6:12 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wUPT4jvlIVA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wUPT4jvlIVA.txt) |
 | [想成為百萬富翁，就靠這一招！ \| 不是金錢遊戲](https://www.youtube.com/watch?v=OIdSBvZfYmI) | 6:50 | 待转写 | — | — |
 | [活出快樂人生的4個關鍵 \| 獻給找不到方向的你 \| ikigai法則](https://www.youtube.com/watch?v=h2SD_6K_cCc) | 8:39 | 待转写 | — | — |
 | [4個提高運氣的方法，幸運的人不告訴你的秘密！\| 幸運，你可以學會的能力](https://www.youtube.com/watch?v=uGuMNT3zgTE) | 8:24 | 待转写 | — | — |
