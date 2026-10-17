@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 548，待转写 36，失败待处理 3，文件不完整 0。
+共 587 条：已转写 549，待转写 35，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -559,7 +559,7 @@
 | [第二篇：股市大漲、經濟悲觀美國冰火兩重天](https://www.youtube.com/watch?v=wgOlM7qX-jc) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wgOlM7qX-jc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wgOlM7qX-jc.txt) |
 | [第一篇：美債降級？別慌！這不是第一次](https://www.youtube.com/watch?v=zMvA_EBBVeM) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_zMvA_EBBVeM.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_zMvA_EBBVeM.txt) |
 | [現金流象限：你的財富轉折點](https://www.youtube.com/watch?v=HGGt-LXiUD0) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HGGt-LXiUD0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HGGt-LXiUD0.txt) |
-| [為什麼別人的運氣比你好？](https://www.youtube.com/watch?v=6ET5Ib-8dwA) | 未知 | 待转写 | — | — |
+| [為什麼別人的運氣比你好？](https://www.youtube.com/watch?v=6ET5Ib-8dwA) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6ET5Ib-8dwA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6ET5Ib-8dwA.txt) |
 | [吸引力法則的迷思：科學告訴我們的真相](https://www.youtube.com/watch?v=8XPfLjfgTQ0) | 未知 | 待转写 | — | — |
 | [正確的消費方式：如何把錢花在重要的地方](https://www.youtube.com/watch?v=rlkaATZna0A) | 未知 | 待转写 | — | — |
 | [財富槓桿：普通人如何從零到財富自由](https://www.youtube.com/watch?v=gnPiXErunYk) | 未知 | 待转写 | — | — |
