@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 492，待转写 92，失败待处理 3，文件不完整 0。
+共 587 条：已转写 493，待转写 91，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -503,7 +503,7 @@
 | [【好葉】羅森塔爾效應 - 說你行你就行 - 5分鐘心理學](https://www.youtube.com/watch?v=M0bRF-_CezU) | 5:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_M0bRF-_CezU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_M0bRF-_CezU.txt) |
 | [【好葉】習慣2之改造習慣3步曲 - The Power of Habit](https://www.youtube.com/watch?v=wXaxRqGGxHc) | 5:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wXaxRqGGxHc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wXaxRqGGxHc.txt) |
 | [【好葉】刺猬效應：你會保持距離嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=7YyXH2ot_zk) | 5:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7YyXH2ot_zk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7YyXH2ot_zk.txt) |
-| [【好葉】習慣之為什麼很重要 - The Power of Habit](https://www.youtube.com/watch?v=-1pfoiSsyF0) | 5:08 | 待转写 | — | — |
+| [【好葉】習慣之為什麼很重要 - The Power of Habit](https://www.youtube.com/watch?v=-1pfoiSsyF0) | 5:08 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_-1pfoiSsyF0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_-1pfoiSsyF0.txt) |
 | [【好葉】你是個跟風者嗎？從眾心理 - 5分鐘心理學](https://www.youtube.com/watch?v=v7COGQwDdiY) | 5:21 | 待转写 | — | — |
 | [【好葉】5種愛的語言 - 怎樣讓愛情永久保溫 - 動畫書評](https://www.youtube.com/watch?v=GauOG4aHSwQ) | 4:59 | 待转写 | — | — |
 | [【好葉】印象：在別人眼中的你 - 5分鐘心理學](https://www.youtube.com/watch?v=mdtT5JEzyI0) | 5:05 | 待转写 | — | — |
