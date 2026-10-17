@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 474，待转写 110，失败待处理 3，文件不完整 0。
+共 587 条：已转写 475，待转写 109，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -485,7 +485,7 @@
 | [【好葉】你會經常感到孤單嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=iYOT05KWFPE) | 5:23 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_iYOT05KWFPE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_iYOT05KWFPE.txt) |
 | [\[Better Leaf\] Hedgehog strategy for successful people - stimulating potential](https://www.youtube.com/watch?v=QdpDggn__zA) | 7:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_QdpDggn__zA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_QdpDggn__zA.txt) |
 | [【好葉】你有選擇困難症嗎？ - 布里丹效應 - 5分鐘心理學](https://www.youtube.com/watch?v=nengHUMdluY) | 5:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_nengHUMdluY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_nengHUMdluY.txt) |
-| [【好葉】怎樣設定令人振奮的年度目標 - 2021年最強目標！ - 《葬禮遊戲》](https://www.youtube.com/watch?v=YoGHwlDz6Ow) | 8:45 | 待转写 | — | — |
+| [【好葉】怎樣設定令人振奮的年度目標 - 2021年最強目標！ - 《葬禮遊戲》](https://www.youtube.com/watch?v=YoGHwlDz6Ow) | 8:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YoGHwlDz6Ow.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YoGHwlDz6Ow.txt) |
 | [【好葉】到底要賣什麼才好賺？牛奶可樂經濟學 - 動畫書評](https://www.youtube.com/watch?v=MUtZScLOsGo) | 6:37 | 待转写 | — | — |
 | [【好葉】10個你必須去除的攔路石（下）- 為了一個美好的2022年](https://www.youtube.com/watch?v=qIQkhD2tNPU) | 8:39 | 待转写 | — | — |
 | [【好葉】進入2020年：10個你必須去除的攔路石 （上）](https://www.youtube.com/watch?v=mlIVteVffzA) | 8:36 | 待转写 | — | — |
