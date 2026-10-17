@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 550，待转写 34，失败待处理 3，文件不完整 0。
+共 587 条：已转写 551，待转写 33，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -561,7 +561,7 @@
 | [現金流象限：你的財富轉折點](https://www.youtube.com/watch?v=HGGt-LXiUD0) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_HGGt-LXiUD0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_HGGt-LXiUD0.txt) |
 | [為什麼別人的運氣比你好？](https://www.youtube.com/watch?v=6ET5Ib-8dwA) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_6ET5Ib-8dwA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_6ET5Ib-8dwA.txt) |
 | [吸引力法則的迷思：科學告訴我們的真相](https://www.youtube.com/watch?v=8XPfLjfgTQ0) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8XPfLjfgTQ0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8XPfLjfgTQ0.txt) |
-| [正確的消費方式：如何把錢花在重要的地方](https://www.youtube.com/watch?v=rlkaATZna0A) | 未知 | 待转写 | — | — |
+| [正確的消費方式：如何把錢花在重要的地方](https://www.youtube.com/watch?v=rlkaATZna0A) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_rlkaATZna0A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_rlkaATZna0A.txt) |
 | [財富槓桿：普通人如何從零到財富自由](https://www.youtube.com/watch?v=gnPiXErunYk) | 未知 | 待转写 | — | — |
 | [不幸就是最大的幸運](https://www.youtube.com/watch?v=jrXIycDLoI8) | 未知 | 待转写 | — | — |
 | [2025美股開局。。哪裡的公園WiFi？ #娛樂一下 #股市崩盤 #美股](https://www.youtube.com/watch?v=cE_sgMPVsu4) | 未知 | 待转写 | — | — |
