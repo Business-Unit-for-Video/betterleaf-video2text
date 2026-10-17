@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 464，待转写 120，失败待处理 3，文件不完整 0。
+共 587 条：已转写 465，待转写 119，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -475,7 +475,7 @@
 | [【好葉】5個高效抗壓法 - 第四個真的很有效！](https://www.youtube.com/watch?v=ZnPTxbvnAZ0) | 6:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZnPTxbvnAZ0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZnPTxbvnAZ0.txt) |
 | [【好葉】你可以不只是上班族 \| 斜槓創業 \| 動畫書評](https://www.youtube.com/watch?v=be1DtgdkcXI) | 6:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_be1DtgdkcXI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_be1DtgdkcXI.txt) |
 | [【好葉】英雄是怎樣塑造而成的 \| 英雄之旅](https://www.youtube.com/watch?v=Lk9GeOfNxMA) | 5:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Lk9GeOfNxMA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Lk9GeOfNxMA.txt) |
-| [【好葉】你是不是會一直窮下去 \| 馬太效應](https://www.youtube.com/watch?v=OvMQnLLykOE) | 6:16 | 待转写 | — | — |
+| [【好葉】你是不是會一直窮下去 \| 馬太效應](https://www.youtube.com/watch?v=OvMQnLLykOE) | 6:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OvMQnLLykOE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OvMQnLLykOE.txt) |
 | [【好葉】5個你必學英語的原因 \| 實用冷技巧 \| 好葉有好康](https://www.youtube.com/watch?v=iPGG1mnboQE) | 7:20 | 待转写 | — | — |
 | [【好葉】一切都是幻覺！大腦對我們設下了騙局 \| 天天都好用的實效心理學 \| 動畫書評](https://www.youtube.com/watch?v=lHCp0W1KUL8) | 6:51 | 待转写 | — | — |
 | [【好葉】3招擺脫拖延症：意志力的迷思 \| 自控力](https://www.youtube.com/watch?v=LLQMB2PpK_A) | 7:55 | 待转写 | — | — |
