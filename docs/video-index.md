@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 462，待转写 122，失败待处理 3，文件不完整 0。
+共 587 条：已转写 463，待转写 121，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -473,7 +473,7 @@
 | [【好葉】思維決定命運 - 別讓思維害死了你一生 \| 《終生成長》](https://www.youtube.com/watch?v=jbUJGkM4Ksk) | 8:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jbUJGkM4Ksk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jbUJGkM4Ksk.txt) |
 | [【好葉】善良的你，是不是一直做壞事？ \| 破窗效應](https://www.youtube.com/watch?v=EEwCxZfcqHg) | 5:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EEwCxZfcqHg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EEwCxZfcqHg.txt) |
 | [【好葉】5個高效抗壓法 - 第四個真的很有效！](https://www.youtube.com/watch?v=ZnPTxbvnAZ0) | 6:36 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZnPTxbvnAZ0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZnPTxbvnAZ0.txt) |
-| [【好葉】你可以不只是上班族 \| 斜槓創業 \| 動畫書評](https://www.youtube.com/watch?v=be1DtgdkcXI) | 6:37 | 待转写 | — | — |
+| [【好葉】你可以不只是上班族 \| 斜槓創業 \| 動畫書評](https://www.youtube.com/watch?v=be1DtgdkcXI) | 6:37 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_be1DtgdkcXI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_be1DtgdkcXI.txt) |
 | [【好葉】英雄是怎樣塑造而成的 \| 英雄之旅](https://www.youtube.com/watch?v=Lk9GeOfNxMA) | 5:38 | 待转写 | — | — |
 | [【好葉】你是不是會一直窮下去 \| 馬太效應](https://www.youtube.com/watch?v=OvMQnLLykOE) | 6:16 | 待转写 | — | — |
 | [【好葉】5個你必學英語的原因 \| 實用冷技巧 \| 好葉有好康](https://www.youtube.com/watch?v=iPGG1mnboQE) | 7:20 | 待转写 | — | — |
