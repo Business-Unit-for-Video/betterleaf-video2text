@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 357，待转写 226，失败待处理 3，文件不完整 0。
+共 586 条：已转写 358，待转写 225，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -368,7 +368,7 @@
 | [5大指標看准入場股市時機 ，美國正陷入經濟蕭條當中？](https://www.youtube.com/watch?v=Xpb7_a1WYgA) | 8:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Xpb7_a1WYgA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Xpb7_a1WYgA.txt) |
 | [【好葉】三招學會正念領導力 \| 靜下來工作](https://www.youtube.com/watch?v=7Opcp_ghfrY) | 9:15 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7Opcp_ghfrY.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7Opcp_ghfrY.txt) |
 | [成功，從聚焦一件事開始 : 5個擋在你和成功之間的迷思 \| 動畫書評](https://www.youtube.com/watch?v=rXRQtadzqm8) | 7:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_rXRQtadzqm8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_rXRQtadzqm8.txt) |
-| [好好說話 : 如何讓人心服口服（3個技巧）](https://www.youtube.com/watch?v=Z_RZNN-TEJo) | 7:52 | 待转写 | — | — |
+| [好好說話 : 如何讓人心服口服（3個技巧）](https://www.youtube.com/watch?v=Z_RZNN-TEJo) | 7:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Z_RZNN-TEJo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Z_RZNN-TEJo.txt) |
 | [30堂課搞定價值投資，從投資新手邁向投資高手 \|  股票投資線上課](https://www.youtube.com/watch?v=cEuux52W12k) | 6:16 | 待转写 | — | — |
 | [知識變能力的秘密 : 读懂一本书 \| 動畫書評](https://www.youtube.com/watch?v=XvsGArAzjoQ) | 7:08 | 待转写 | — | — |
 | [5件行動管制你要做的事 \| 如何彎道超車](https://www.youtube.com/watch?v=SrfPHpAjlcU) | 8:06 | 待转写 | — | — |
