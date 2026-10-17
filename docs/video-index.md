@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 333，待转写 251，失败待处理 2，文件不完整 0。
+共 586 条：已转写 334，待转写 250，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -343,7 +343,7 @@
 | [有錢人的習慣，和你不一樣 \| 習慣致富2](https://www.youtube.com/watch?v=k_PqbVGR3T8) | 10:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_k_PqbVGR3T8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_k_PqbVGR3T8.txt) |
 | [獲利高達700%，我賣掉了特斯拉的股票！【好葉】](https://www.youtube.com/watch?v=mQ8MOe246P0) | 8:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mQ8MOe246P0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mQ8MOe246P0.txt) |
 | [普通人能從天才身上學到什麼？\| 奇才: 揭開擁有非凡創造力的祕密【好葉】](https://www.youtube.com/watch?v=FqEA1FJHn7M) | 12:18 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_FqEA1FJHn7M.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_FqEA1FJHn7M.txt) |
-| [「一腦多用」有效率？你的大腦沒這麼厲害！ \| Multitasking的迷思](https://www.youtube.com/watch?v=l9dTprx5RXI) | 6:07 | 待转写 | — | — |
+| [「一腦多用」有效率？你的大腦沒這麼厲害！ \| Multitasking的迷思](https://www.youtube.com/watch?v=l9dTprx5RXI) | 6:07 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_l9dTprx5RXI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_l9dTprx5RXI.txt) |
 | [好葉的YouTube免費線上課程](https://www.youtube.com/watch?v=wUu6qzsII_E) | 3:02 | 待转写 | — | — |
 | [如何打造一個出色的團隊 \| 我工作，我沒有不開心 \| 動畫說書](https://www.youtube.com/watch?v=iOu5DwEQaJE) | 6:05 | 待转写 | — | — |
 | [3個善用正職工作的方法 \| FIRE 財務自由【好葉】](https://www.youtube.com/watch?v=lGQSWdb8RGk) | 6:28 | 待转写 | — | — |
