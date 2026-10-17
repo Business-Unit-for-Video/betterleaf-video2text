@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 512，待转写 72，失败待处理 3，文件不完整 0。
+共 587 条：已转写 513，待转写 71，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -523,7 +523,7 @@
 | [【好葉】你的直覺對嗎 - 5分鐘心理學](https://www.youtube.com/watch?v=ZirtFuQK28k) | 4:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ZirtFuQK28k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ZirtFuQK28k.txt) |
 | [【好葉】5個實用經濟學技巧 - 解決各種難題](https://www.youtube.com/watch?v=mxHRwPzfVPk) | 5:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mxHRwPzfVPk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mxHRwPzfVPk.txt) |
 | [【好葉】高效能人士的七个习惯(上） - 動畫書評](https://www.youtube.com/watch?v=CVYAt6ZTY_Y) | 5:45 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_CVYAt6ZTY_Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_CVYAt6ZTY_Y.txt) |
-| [【好葉】關鍵20小時 - 快速學會任何技能 - The First 20 hours( Josh Kaufman) - 動畫書評](https://www.youtube.com/watch?v=CeNTWXK7S-k) | 4:42 | 待转写 | — | — |
+| [【好葉】關鍵20小時 - 快速學會任何技能 - The First 20 hours( Josh Kaufman) - 動畫書評](https://www.youtube.com/watch?v=CeNTWXK7S-k) | 4:42 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_CeNTWXK7S-k.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_CeNTWXK7S-k.txt) |
 | [【好葉】你要如何衡量你的人生 - Clayton M. Christensen - 動畫書評](https://www.youtube.com/watch?v=iRPmoY_SSJw) | 5:38 | 待转写 | — | — |
 | [【好葉】9個讓你變窮的原因 - 5分鐘動畫](https://www.youtube.com/watch?v=cJ-IzMnp_9A) | 6:02 | 待转写 | — | — |
 | [【好葉】8招讓你變得更風趣幽默 （簡單！）](https://www.youtube.com/watch?v=5XJoIYKqzbk) | 5:35 | 待转写 | — | — |
