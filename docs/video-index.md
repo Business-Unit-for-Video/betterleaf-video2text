@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 324，待转写 260，失败待处理 2，文件不完整 0。
+共 586 条：已转写 325，待转写 259，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -334,7 +334,7 @@
 | [安靜的力量：內向者如何發揮積極的力量【好葉】](https://www.youtube.com/watch?v=Uz2NPrgWx1E) | 5:28 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Uz2NPrgWx1E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Uz2NPrgWx1E.txt) |
 | [有錢人的陰謀論：用娛樂摧毀你的一生【好葉】](https://www.youtube.com/watch?v=7WbJ_UKnYEs) | 6:52 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_7WbJ_UKnYEs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_7WbJ_UKnYEs.txt) |
 | [從第一桶金跳躍成千萬富翁？\|  70萬訂閱Q&A特輯 【好葉】](https://www.youtube.com/watch?v=sE2FTDsjY_8) | 21:29 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_sE2FTDsjY_8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_sE2FTDsjY_8.txt) |
-| [人生不是一場馬拉松，而是一場迷宮 \| 如何過好這一生？【好葉】](https://www.youtube.com/watch?v=64rDat1nz1Y) | 7:27 | 待转写 | — | — |
+| [人生不是一場馬拉松，而是一場迷宮 \| 如何過好這一生？【好葉】](https://www.youtube.com/watch?v=64rDat1nz1Y) | 7:27 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_64rDat1nz1Y.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_64rDat1nz1Y.txt) |
 | [只要相信就一定會成真？如何在生活中善用「安慰劑效應」【好葉】](https://www.youtube.com/watch?v=LfPkD9H18RI) | 6:07 | 待转写 | — | — |
 | [投資除了賺錢還能賺知識？投資股票讓我學會的5件事【好葉】](https://www.youtube.com/watch?v=ZZ-mkz0txHo) | 8:41 | 待转写 | — | — |
 | [7個高效學習的祕訣 \| 一年學會四種語言，一個月學會素描 \| 超速學習](https://www.youtube.com/watch?v=9kK2B7YyBvM) | 11:24 | 待转写 | — | — |
