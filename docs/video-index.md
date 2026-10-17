@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 552，待转写 32，失败待处理 3，文件不完整 0。
+共 587 条：已转写 553，待转写 31，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -563,7 +563,7 @@
 | [吸引力法則的迷思：科學告訴我們的真相](https://www.youtube.com/watch?v=8XPfLjfgTQ0) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_8XPfLjfgTQ0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_8XPfLjfgTQ0.txt) |
 | [正確的消費方式：如何把錢花在重要的地方](https://www.youtube.com/watch?v=rlkaATZna0A) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_rlkaATZna0A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_rlkaATZna0A.txt) |
 | [財富槓桿：普通人如何從零到財富自由](https://www.youtube.com/watch?v=gnPiXErunYk) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_gnPiXErunYk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_gnPiXErunYk.txt) |
-| [不幸就是最大的幸運](https://www.youtube.com/watch?v=jrXIycDLoI8) | 未知 | 待转写 | — | — |
+| [不幸就是最大的幸運](https://www.youtube.com/watch?v=jrXIycDLoI8) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jrXIycDLoI8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jrXIycDLoI8.txt) |
 | [2025美股開局。。哪裡的公園WiFi？ #娛樂一下 #股市崩盤 #美股](https://www.youtube.com/watch?v=cE_sgMPVsu4) | 未知 | 待转写 | — | — |
 | [【財富密碼】政府改革引爆股市！投資者該如何應對？](https://www.youtube.com/watch?v=JCkHifKGppI) | 未知 | 待转写 | — | — |
 | [【內幕】一夜之間！馬斯克如何摧毀60年老機構？](https://www.youtube.com/watch?v=YH3jppdLhuU) | 未知 | 待转写 | — | — |
