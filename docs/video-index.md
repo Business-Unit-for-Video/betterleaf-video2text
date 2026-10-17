@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 516，待转写 68，失败待处理 3，文件不完整 0。
+共 587 条：已转写 517，待转写 67，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -527,7 +527,7 @@
 | [【好葉】你要如何衡量你的人生 - Clayton M. Christensen - 動畫書評](https://www.youtube.com/watch?v=iRPmoY_SSJw) | 5:38 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_iRPmoY_SSJw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_iRPmoY_SSJw.txt) |
 | [【好葉】9個讓你變窮的原因 - 5分鐘動畫](https://www.youtube.com/watch?v=cJ-IzMnp_9A) | 6:02 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_cJ-IzMnp_9A.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_cJ-IzMnp_9A.txt) |
 | [【好葉】8招讓你變得更風趣幽默 （簡單！）](https://www.youtube.com/watch?v=5XJoIYKqzbk) | 5:35 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5XJoIYKqzbk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5XJoIYKqzbk.txt) |
-| [【好葉】5個有趣笑話，解讀男女本色- 5分鐘動畫解讀！](https://www.youtube.com/watch?v=PH1fgKXNhfk) | 7:41 | 待转写 | — | — |
+| [【好葉】5個有趣笑話，解讀男女本色- 5分鐘動畫解讀！](https://www.youtube.com/watch?v=PH1fgKXNhfk) | 7:41 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_PH1fgKXNhfk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_PH1fgKXNhfk.txt) |
 | [【好葉】思考致富 - 拿破侖 希爾 （5分鐘動畫書評）](https://www.youtube.com/watch?v=Lq-DBiSprZk) | 5:43 | 待转写 | — | — |
 | [【好葉】9個趣味故事 - 教你看懂人情世故！！！](https://www.youtube.com/watch?v=OMiZTqKb9sY) | 5:40 | 待转写 | — | — |
 | [【好葉】8個酒後顯露的性格 - 太準了！！！（酒後看性格）](https://www.youtube.com/watch?v=Em7whRvF4XE) | 5:12 | 待转写 | — | — |
