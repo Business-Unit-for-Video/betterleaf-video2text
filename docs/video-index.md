@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 490，待转写 94，失败待处理 3，文件不完整 0。
+共 587 条：已转写 491，待转写 93，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -501,7 +501,7 @@
 | [【好葉】投射效應：為什麼你會討厭別人 - 5分鐘心理學](https://www.youtube.com/watch?v=348KltVP9UE) | 5:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_348KltVP9UE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_348KltVP9UE.txt) |
 | [【好葉】7個高效人士的習慣（下） 動畫書評](https://www.youtube.com/watch?v=3rNlTgioMu8) | 5:34 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_3rNlTgioMu8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_3rNlTgioMu8.txt) |
 | [【好葉】羅森塔爾效應 - 說你行你就行 - 5分鐘心理學](https://www.youtube.com/watch?v=M0bRF-_CezU) | 5:16 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_M0bRF-_CezU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_M0bRF-_CezU.txt) |
-| [【好葉】習慣2之改造習慣3步曲 - The Power of Habit](https://www.youtube.com/watch?v=wXaxRqGGxHc) | 5:40 | 待转写 | — | — |
+| [【好葉】習慣2之改造習慣3步曲 - The Power of Habit](https://www.youtube.com/watch?v=wXaxRqGGxHc) | 5:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_wXaxRqGGxHc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_wXaxRqGGxHc.txt) |
 | [【好葉】刺猬效應：你會保持距離嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=7YyXH2ot_zk) | 5:40 | 待转写 | — | — |
 | [【好葉】習慣之為什麼很重要 - The Power of Habit](https://www.youtube.com/watch?v=-1pfoiSsyF0) | 5:08 | 待转写 | — | — |
 | [【好葉】你是個跟風者嗎？從眾心理 - 5分鐘心理學](https://www.youtube.com/watch?v=v7COGQwDdiY) | 5:21 | 待转写 | — | — |
