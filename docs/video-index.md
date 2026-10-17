@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 481，待转写 103，失败待处理 3，文件不完整 0。
+共 587 条：已转写 482，待转写 102，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -492,7 +492,7 @@
 | [【好葉】最有影響力的工具 - The Story Factor 動畫書評](https://www.youtube.com/watch?v=Dwow0q2U7fU) | 6:25 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Dwow0q2U7fU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Dwow0q2U7fU.txt) |
 | [【好葉】每個人都是高智能 - 瓦拉赫效應](https://www.youtube.com/watch?v=yHPoNfV_MB8) | 6:01 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_yHPoNfV_MB8.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_yHPoNfV_MB8.txt) |
 | [【好葉】自信第一課：怎樣塑造自信心 - 深度經驗](https://www.youtube.com/watch?v=hci5Diipm44) | 5:59 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_hci5Diipm44.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_hci5Diipm44.txt) |
-| [【好葉】詹森效應：你會經常失水準嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=P9fwBgtknF0) | 5:17 | 待转写 | — | — |
+| [【好葉】詹森效應：你會經常失水準嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=P9fwBgtknF0) | 5:17 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_P9fwBgtknF0.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_P9fwBgtknF0.txt) |
 | [【好葉】7個沖冷澡的的好處 - 你還沖熱水澡嗎？](https://www.youtube.com/watch?v=YNVdZoJXUWQ) | 6:20 | 待转写 | — | — |
 | [【好葉】杜根定律：你是個有信心的人嗎？ - 5分鐘心理學](https://www.youtube.com/watch?v=OtOpAGFBK2A) | 5:34 | 待转写 | — | — |
 | [【好葉】5個實用聊天技巧 - 話題永遠聊不完 ！ - 實用冷技巧](https://www.youtube.com/watch?v=4qhq2kWfBnI) | 6:33 | 待转写 | — | — |
