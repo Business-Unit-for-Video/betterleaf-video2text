@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 348，待转写 236，失败待处理 2，文件不完整 0。
+共 586 条：已转写 349，待转写 235，失败待处理 2，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -358,7 +358,7 @@
 | [4個步驟有效建立習慣 \| 細微改變帶來巨大成就的實證法則 \| 原子習慣](https://www.youtube.com/watch?v=xY1k3Dd4wgs) | 10:40 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_xY1k3Dd4wgs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_xY1k3Dd4wgs.txt) |
 | [9大指標，教你選到一家好公司（附有資源） \| 好葉](https://www.youtube.com/watch?v=mI3YMmYGBek) | 10:31 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mI3YMmYGBek.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mI3YMmYGBek.txt) |
 | [人脈變現：建立共好網絡，讓別人看見你，也讓機會找上你 \| 動畫說書](https://www.youtube.com/watch?v=OWACVzddiYg) | 14:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_OWACVzddiYg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_OWACVzddiYg.txt) |
-| [4個方法帮助你克服在網絡世界裡的孤單感  \| 好葉](https://www.youtube.com/watch?v=EdnfVyD7sk4) | 10:09 | 待转写 | — | — |
+| [4個方法帮助你克服在網絡世界裡的孤單感  \| 好葉](https://www.youtube.com/watch?v=EdnfVyD7sk4) | 10:09 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_EdnfVyD7sk4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_EdnfVyD7sk4.txt) |
 | [五个面試實用小技巧，让你在面试的時候得心应手 \| 好葉](https://www.youtube.com/watch?v=d9l8IhH1_Eg) | 9:11 | 待转写 | — | — |
 | [【好葉】集體大規模的暴亂是如何引發的 \| 烏合之眾](https://www.youtube.com/watch?v=s4K4lTT0OjU) | 11:37 | 待转写 | — | — |
 | [10分鐘帶你了解金錢史：為什麼我們要投資 \| 金錢的本質](https://www.youtube.com/watch?v=fjoDrWvjpno) | 14:43 | 待转写 | — | — |
