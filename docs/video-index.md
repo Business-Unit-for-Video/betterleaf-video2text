@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 586 条：已转写 415，待转写 168，失败待处理 3，文件不完整 0。
+共 586 条：已转写 416，待转写 167，失败待处理 3，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -426,7 +426,7 @@
 | [5個讓你無法致富的原因 - 研究證明](https://www.youtube.com/watch?v=k2QQuUF-B08) | 7:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_k2QQuUF-B08.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_k2QQuUF-B08.txt) |
 | [用聰明的方法達到成功：21堂課邁向積極人生](https://www.youtube.com/watch?v=pEE1ReKtzYw) | 2:44 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_pEE1ReKtzYw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_pEE1ReKtzYw.txt) |
 | [5個步驟，從投資新手邁向投資高手 \| 怎樣購買你的第一支股票](https://www.youtube.com/watch?v=lVe9DyCTsgE) | 8:47 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_lVe9DyCTsgE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_lVe9DyCTsgE.txt) |
-| [7個方法，教你快速打造新習慣 \| 邁向積極人生](https://www.youtube.com/watch?v=WrGenJYgou4) | 7:53 | 待转写 | — | — |
+| [7個方法，教你快速打造新習慣 \| 邁向積極人生](https://www.youtube.com/watch?v=WrGenJYgou4) | 7:53 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_WrGenJYgou4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_WrGenJYgou4.txt) |
 | [怎樣才能越有錢越幸福：《花掉的錢都會自己流回來》 說書動畫](https://www.youtube.com/watch?v=1YpLElX4HJY) | 6:38 | 待转写 | — | — |
 | [成功銳變的人，都因為這3個關鍵！ 一個故事教你實現自我改變](https://www.youtube.com/watch?v=bH7vuvcFqvY) | 7:28 | 待转写 | — | — |
 | [5條财富法則，拉開窮人與富人的秘密 \| 巴比倫最富有的人](https://www.youtube.com/watch?v=McqF_6lFT28) | 9:12 | 待转写 | — | — |
