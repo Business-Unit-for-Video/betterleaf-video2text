@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 577，待转写 6，失败待处理 4，文件不完整 0。
+共 587 条：已转写 578，待转写 5，失败待处理 4，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -589,7 +589,7 @@
 | [一生很長，你可以再創奇跡 \| 短視頻](https://www.youtube.com/watch?v=bl9iFn0c0do) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_bl9iFn0c0do.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_bl9iFn0c0do.txt) |
 | [3個方法打破負面循環 \| 短視頻](https://www.youtube.com/watch?v=GpMGZuEMZ6E) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_GpMGZuEMZ6E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_GpMGZuEMZ6E.txt) |
 | [做激烈運動釋放快樂賀爾蒙：安多芬 \| 短視頻](https://www.youtube.com/watch?v=5JvQ39WCAqw) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_5JvQ39WCAqw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_5JvQ39WCAqw.txt) |
-| [方塊呼吸法 ：2分鐘冥想 \| 保證你的人生會變得更好 \| 短視頻](https://www.youtube.com/watch?v=UNORRYJw5go) | 未知 | 待转写 | — | — |
+| [方塊呼吸法 ：2分鐘冥想 \| 保證你的人生會變得更好 \| 短視頻](https://www.youtube.com/watch?v=UNORRYJw5go) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_UNORRYJw5go.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_UNORRYJw5go.txt) |
 | [只需10秒！科學認證「瞬間變快樂」的方法 \| 短視頻](https://www.youtube.com/watch?v=TuKBdTf_SRw) | 未知 | 待转写 | — | — |
 | [3種讓你瞬間變快樂的方法！必學超有效 \| 短视频](https://www.youtube.com/watch?v=4BhW9ak2Q6g) | 未知 | 待转写 | — | — |
 | [拆解一切问题：如何成为解决难题的高手 \| 短視頻](https://www.youtube.com/watch?v=mdxCOoMAJRU) | 未知 | 待转写 | — | — |
