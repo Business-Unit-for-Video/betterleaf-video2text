@@ -1,15 +1,11 @@
 {
   "status": "finished",
-  "note": "one video processed, no more pending",
+  "note": "all items completed",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 587,
   "queue_index": 587,
-  "updated_at": 1792303515,
-  "updated_at_readable": "2026-10-18 06:05:15",
-  "current_video_id": "zTXIaSUZ0Ig",
-  "current_title": "3 2 1法則：最有效的拖延症解藥 | 短视频",
-  "current_url": "https://www.youtube.com/watch?v=zTXIaSUZ0Ig",
-  "current_tab": "shorts"
+  "updated_at": 1792323855,
+  "updated_at_readable": "2026-10-18 11:44:15"
 }
