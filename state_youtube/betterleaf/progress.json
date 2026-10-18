@@ -1,15 +1,15 @@
 {
-  "status": "finished_with_errors",
-  "note": "RuntimeError('transcription produced no text')",
+  "status": "done_one",
+  "note": "one video processed, more pending",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 587,
-  "queue_index": 557,
-  "updated_at": 1792272162,
-  "updated_at_readable": "2026-10-17 21:22:42",
-  "current_video_id": "cE_sgMPVsu4",
-  "current_title": "2025美股開局。。哪裡的公園WiFi？ #娛樂一下 #股市崩盤 #美股",
-  "current_url": "https://www.youtube.com/watch?v=cE_sgMPVsu4",
+  "queue_index": 558,
+  "updated_at": 1792300195,
+  "updated_at_readable": "2026-10-18 05:09:55",
+  "current_video_id": "JCkHifKGppI",
+  "current_title": "【財富密碼】政府改革引爆股市！投資者該如何應對？",
+  "current_url": "https://www.youtube.com/watch?v=JCkHifKGppI",
   "current_tab": "shorts"
 }
