@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 560，待转写 23，失败待处理 4，文件不完整 0。
+共 587 条：已转写 561，待转写 22，失败待处理 4，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -572,7 +572,7 @@
 | [從0到500萬元財富積累經歷分享](https://www.youtube.com/watch?v=1vbl9JduwV4) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_1vbl9JduwV4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_1vbl9JduwV4.txt) |
 | [7個低門檻被動收入](https://www.youtube.com/watch?v=zAF3eJfGigE) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_zAF3eJfGigE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_zAF3eJfGigE.txt) |
 | [新家開箱: RM1,600,000 (約1千萬台幣)](https://www.youtube.com/watch?v=zMsTbZjB7E4) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_zMsTbZjB7E4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_zMsTbZjB7E4.txt) |
-| [半途而廢的我學會的5件事](https://www.youtube.com/watch?v=p0ZRNCK04cI) | 未知 | 待转写 | — | — |
+| [半途而廢的我學會的5件事](https://www.youtube.com/watch?v=p0ZRNCK04cI) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_p0ZRNCK04cI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_p0ZRNCK04cI.txt) |
 | [13個理財法則，從月光族到財富自由](https://www.youtube.com/watch?v=4ZgEGokOvRA) | 未知 | 待转写 | — | — |
 | [4大方法擺脫憂鬱症](https://www.youtube.com/watch?v=N81XszyyhYE) | 未知 | 待转写 | — | — |
 | [大學你應該做的5件事](https://www.youtube.com/watch?v=Ypr2aZwZWt4) | 未知 | 待转写 | — | — |
