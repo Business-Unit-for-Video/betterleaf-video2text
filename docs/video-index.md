@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 555，待转写 28，失败待处理 4，文件不完整 0。
+共 587 条：已转写 556，待转写 27，失败待处理 4，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -567,7 +567,7 @@
 | [2025美股開局。。哪裡的公園WiFi？ #娛樂一下 #股市崩盤 #美股](https://www.youtube.com/watch?v=cE_sgMPVsu4) | 未知 | 失败待处理 | — | — |
 | [【財富密碼】政府改革引爆股市！投資者該如何應對？](https://www.youtube.com/watch?v=JCkHifKGppI) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JCkHifKGppI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JCkHifKGppI.txt) |
 | [【內幕】一夜之間！馬斯克如何摧毀60年老機構？](https://www.youtube.com/watch?v=YH3jppdLhuU) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_YH3jppdLhuU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_YH3jppdLhuU.txt) |
-| [【震撼】19歲就管理美國政府！政府效率部的6位天才少年](https://www.youtube.com/watch?v=K15FPQDCBu4) | 未知 | 待转写 | — | — |
+| [【震撼】19歲就管理美國政府！政府效率部的6位天才少年](https://www.youtube.com/watch?v=K15FPQDCBu4) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_K15FPQDCBu4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_K15FPQDCBu4.txt) |
 | [F.I.R.E 是如何讓你越存越窮的？](https://www.youtube.com/watch?v=ZJr7XIQR8wE) | 未知 | 待转写 | — | — |
 | [從0到500萬元財富積累經歷分享](https://www.youtube.com/watch?v=1vbl9JduwV4) | 未知 | 待转写 | — | — |
 | [7個低門檻被動收入](https://www.youtube.com/watch?v=zAF3eJfGigE) | 未知 | 待转写 | — | — |
