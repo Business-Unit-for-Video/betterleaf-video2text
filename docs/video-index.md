@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 572，待转写 11，失败待处理 4，文件不完整 0。
+共 587 条：已转写 573，待转写 10，失败待处理 4，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -584,7 +584,7 @@
 | [為什麼你會被騙？ #五分之一效應 #好葉 #短視頻 #詐騙](https://www.youtube.com/watch?v=JSk4A6cX45Q) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_JSk4A6cX45Q.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_JSk4A6cX45Q.txt) |
 | [怎樣才能真正解決問題？ #上游思维 #短视频 #shorts](https://www.youtube.com/watch?v=q03-XN0KMjk) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_q03-XN0KMjk.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_q03-XN0KMjk.txt) |
 | [2,095,622美元的咖啡！ #短視頻 #商業思維 #致富思維](https://www.youtube.com/watch?v=N3YS1WK29nI) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_N3YS1WK29nI.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_N3YS1WK29nI.txt) |
-| [維克多·弗蘭克的意義療法](https://www.youtube.com/watch?v=LVRrT_sUGz4) | 未知 | 待转写 | — | — |
+| [維克多·弗蘭克的意義療法](https://www.youtube.com/watch?v=LVRrT_sUGz4) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LVRrT_sUGz4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LVRrT_sUGz4.txt) |
 | [最好的元宇宙方案！ #元宇宙 #nft #投資 #短視頻](https://www.youtube.com/watch?v=o3XwwD194Vg) | 未知 | 待转写 | — | — |
 | [一生很長，你可以再創奇跡 \| 短視頻](https://www.youtube.com/watch?v=bl9iFn0c0do) | 未知 | 待转写 | — | — |
 | [3個方法打破負面循環 \| 短視頻](https://www.youtube.com/watch?v=GpMGZuEMZ6E) | 未知 | 待转写 | — | — |
