@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 567，待转写 16，失败待处理 4，文件不完整 0。
+共 587 条：已转写 568，待转写 15，失败待处理 4，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -579,7 +579,7 @@
 | [從咖啡小偷到百億咖啡帝國](https://www.youtube.com/watch?v=PBfOmO8XREU) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_PBfOmO8XREU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_PBfOmO8XREU.txt) |
 | [為什麼經濟蕭條時，富人變得更富了 #好葉 #經濟 #富人](https://www.youtube.com/watch?v=I1AXIR_pu_o) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_I1AXIR_pu_o.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_I1AXIR_pu_o.txt) |
 | [如果你是一個產品，你會投資自己嗎？](https://www.youtube.com/watch?v=RD9EK2B8GEo) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_RD9EK2B8GEo.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_RD9EK2B8GEo.txt) |
-| [達芬奇在500多年前已經畫出衛星地圖？ #好葉 #短視頻  #達芬奇 #蒙娜麗莎](https://www.youtube.com/watch?v=jQ1Bi0txejc) | 未知 | 待转写 | — | — |
+| [達芬奇在500多年前已經畫出衛星地圖？ #好葉 #短視頻  #達芬奇 #蒙娜麗莎](https://www.youtube.com/watch?v=jQ1Bi0txejc) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_jQ1Bi0txejc.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_jQ1Bi0txejc.txt) |
 | [叫人買比特幣的人!  #好葉 #短視頻 #達文西 #比特幣](https://www.youtube.com/watch?v=umhhkyYNRdw) | 未知 | 待转写 | — | — |
 | [為什麼你會被騙？ #五分之一效應 #好葉 #短視頻 #詐騙](https://www.youtube.com/watch?v=JSk4A6cX45Q) | 未知 | 待转写 | — | — |
 | [怎樣才能真正解決問題？ #上游思维 #短视频 #shorts](https://www.youtube.com/watch?v=q03-XN0KMjk) | 未知 | 待转写 | — | — |
