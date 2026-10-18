@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 580，待转写 3，失败待处理 4，文件不完整 0。
+共 587 条：已转写 581，待转写 2，失败待处理 4，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -592,6 +592,6 @@
 | [方塊呼吸法 ：2分鐘冥想 \| 保證你的人生會變得更好 \| 短視頻](https://www.youtube.com/watch?v=UNORRYJw5go) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_UNORRYJw5go.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_UNORRYJw5go.txt) |
 | [只需10秒！科學認證「瞬間變快樂」的方法 \| 短視頻](https://www.youtube.com/watch?v=TuKBdTf_SRw) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_TuKBdTf_SRw.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_TuKBdTf_SRw.txt) |
 | [3種讓你瞬間變快樂的方法！必學超有效 \| 短视频](https://www.youtube.com/watch?v=4BhW9ak2Q6g) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_4BhW9ak2Q6g.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_4BhW9ak2Q6g.txt) |
-| [拆解一切问题：如何成为解决难题的高手 \| 短視頻](https://www.youtube.com/watch?v=mdxCOoMAJRU) | 未知 | 待转写 | — | — |
+| [拆解一切问题：如何成为解决难题的高手 \| 短視頻](https://www.youtube.com/watch?v=mdxCOoMAJRU) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_mdxCOoMAJRU.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_mdxCOoMAJRU.txt) |
 | [八二法則：改變你一生的80/20法則 \| 短视频](https://www.youtube.com/watch?v=3C8ybPQPiHg) | 未知 | 待转写 | — | — |
 | [3 2 1法則：最有效的拖延症解藥 \| 短视频](https://www.youtube.com/watch?v=zTXIaSUZ0Ig) | 未知 | 待转写 | — | — |
