@@ -1,15 +1,15 @@
 {
-  "status": "done_one",
-  "note": "one video processed, more pending",
+  "status": "finished",
+  "note": "one video processed, no more pending",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 587,
-  "queue_index": 586,
-  "updated_at": 1792303214,
-  "updated_at_readable": "2026-10-18 06:00:14",
-  "current_video_id": "3C8ybPQPiHg",
-  "current_title": "八二法則：改變你一生的80/20法則 | 短视频",
-  "current_url": "https://www.youtube.com/watch?v=3C8ybPQPiHg",
+  "queue_index": 587,
+  "updated_at": 1792303515,
+  "updated_at_readable": "2026-10-18 06:05:15",
+  "current_video_id": "zTXIaSUZ0Ig",
+  "current_title": "3 2 1法則：最有效的拖延症解藥 | 短视频",
+  "current_url": "https://www.youtube.com/watch?v=zTXIaSUZ0Ig",
   "current_tab": "shorts"
 }
