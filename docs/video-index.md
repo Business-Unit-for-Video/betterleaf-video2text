@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 575，待转写 8，失败待处理 4，文件不完整 0。
+共 587 条：已转写 576，待转写 7，失败待处理 4，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -587,7 +587,7 @@
 | [維克多·弗蘭克的意義療法](https://www.youtube.com/watch?v=LVRrT_sUGz4) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_LVRrT_sUGz4.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_LVRrT_sUGz4.txt) |
 | [最好的元宇宙方案！ #元宇宙 #nft #投資 #短視頻](https://www.youtube.com/watch?v=o3XwwD194Vg) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_o3XwwD194Vg.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_o3XwwD194Vg.txt) |
 | [一生很長，你可以再創奇跡 \| 短視頻](https://www.youtube.com/watch?v=bl9iFn0c0do) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_bl9iFn0c0do.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_bl9iFn0c0do.txt) |
-| [3個方法打破負面循環 \| 短視頻](https://www.youtube.com/watch?v=GpMGZuEMZ6E) | 未知 | 待转写 | — | — |
+| [3個方法打破負面循環 \| 短視頻](https://www.youtube.com/watch?v=GpMGZuEMZ6E) | 未知 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_GpMGZuEMZ6E.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_GpMGZuEMZ6E.txt) |
 | [做激烈運動釋放快樂賀爾蒙：安多芬 \| 短視頻](https://www.youtube.com/watch?v=5JvQ39WCAqw) | 未知 | 待转写 | — | — |
 | [方塊呼吸法 ：2分鐘冥想 \| 保證你的人生會變得更好 \| 短視頻](https://www.youtube.com/watch?v=UNORRYJw5go) | 未知 | 待转写 | — | — |
 | [只需10秒！科學認證「瞬間變快樂」的方法 \| 短視頻](https://www.youtube.com/watch?v=TuKBdTf_SRw) | 未知 | 待转写 | — | — |
