@@ -1,15 +1,11 @@
 {
   "status": "finished",
-  "note": "one video processed, no more pending",
+  "note": "all items completed",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 588,
-  "queue_index": 1,
-  "updated_at": 1793194713,
-  "updated_at_readable": "2026-10-28 13:38:33",
-  "current_video_id": "D1Alx0W8EFA",
-  "current_title": "美債突破40兆，美元霸權崩了嗎？人民幣、歐元、加密貨幣，誰能接替美元？",
-  "current_url": "https://www.youtube.com/watch?v=D1Alx0W8EFA",
-  "current_tab": "videos"
+  "queue_index": 588,
+  "updated_at": 1793227949,
+  "updated_at_readable": "2026-10-28 22:52:29"
 }
