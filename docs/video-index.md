@@ -2,12 +2,13 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@betterleaf)。
 
-共 587 条：已转写 583，待转写 0，失败待处理 4，文件不完整 0。
+共 588 条：已转写 584，待转写 0，失败待处理 4，文件不完整 0。
 
 标题取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
 | 视频 | 时长 | 状态 | 纯文本 | 时间戳文本 |
 |---|---:|---|---|---|
+| [美債突破40兆，美元霸權崩了嗎？人民幣、歐元、加密貨幣，誰能接替美元？](https://www.youtube.com/watch?v=D1Alx0W8EFA) | 20:04 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_D1Alx0W8EFA.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_D1Alx0W8EFA.txt) |
 | [下一個10年的財富分水嶺？a16z最新報告揭曉：AI真正的贏家可能不是軟體！](https://www.youtube.com/watch?v=QeNWwDAGZas) | 19:26 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_QeNWwDAGZas.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_QeNWwDAGZas.txt) |
 | [矽谷天王彼得 · 提爾的4條投資法則，他如何在所有人看懂以前，找到下一個贏家？](https://www.youtube.com/watch?v=KCNz9u0GATE) | 16:03 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_KCNz9u0GATE.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_KCNz9u0GATE.txt) |
 | [美聯儲三年來首次升息！股市、房市、美債接下來會怎樣？](https://www.youtube.com/watch?v=ufTIVX_9shs) | 16:26 | 已转写 | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_ufTIVX_9shs.txt) | [打开](https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_ufTIVX_9shs.txt) |

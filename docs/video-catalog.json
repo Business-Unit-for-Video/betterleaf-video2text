@@ -3,14 +3,25 @@
   "channel_url": "https://www.youtube.com/@betterleaf",
   "repository": "Business-Unit-for-Video/betterleaf-video2text",
   "destination": "betterleaf",
-  "generated_at": "2026-10-28 06:18:35",
+  "generated_at": "2026-10-28 13:32:49",
   "counts": {
-    "completed": 583,
+    "completed": 584,
     "pending": 0,
     "failed": 4,
     "partial": 0
   },
   "items": [
+    {
+      "id": "D1Alx0W8EFA",
+      "title": "美債突破40兆，美元霸權崩了嗎？人民幣、歐元、加密貨幣，誰能接替美元？",
+      "url": "https://www.youtube.com/watch?v=D1Alx0W8EFA",
+      "duration": 1204,
+      "tab": "videos",
+      "availability": null,
+      "transcript_status": "completed",
+      "plain_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_D1Alx0W8EFA.txt",
+      "timestamps_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_D1Alx0W8EFA.txt"
+    },
     {
       "id": "QeNWwDAGZas",
       "title": "下一個10年的財富分水嶺？a16z最新報告揭曉：AI真正的贏家可能不是軟體！",
