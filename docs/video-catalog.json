@@ -3,14 +3,28 @@
   "channel_url": "https://www.youtube.com/@betterleaf",
   "repository": "Business-Unit-for-Video/betterleaf-video2text",
   "destination": "betterleaf",
-  "generated_at": "2026-11-11 07:15:20",
+  "generated_at": "2026-11-11 16:56:06",
   "counts": {
-    "completed": 584,
+    "completed": 585,
     "pending": 0,
     "failed": 4,
     "partial": 0
   },
   "items": [
+    {
+      "id": "Aetk5LVuE1M",
+      "title": "別人追AI，他卻投資「石頭」！拆解頂級操盤手 Chris Hohn 的投資方法",
+      "url": "https://www.youtube.com/watch?v=Aetk5LVuE1M",
+      "duration": 1033,
+      "tab": "videos",
+      "playlist_id": null,
+      "playlist_title": null,
+      "playlist_index": null,
+      "availability": null,
+      "transcript_status": "completed",
+      "plain_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/plain/betterleaf_Aetk5LVuE1M.txt",
+      "timestamps_url": "https://github.com/Business-Unit-for-Video/betterleaf-video2text/blob/main/youtube_channels/betterleaf/with_timestamps/betterleaf_Aetk5LVuE1M.txt"
+    },
     {
       "id": "D1Alx0W8EFA",
       "title": "美債突破40兆，美元霸權崩了嗎？人民幣、歐元、加密貨幣，誰能接替美元？",
