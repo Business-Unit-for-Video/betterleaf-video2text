@@ -1,15 +1,11 @@
 {
   "status": "finished",
-  "note": "one video processed, no more pending",
+  "note": "all items completed",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 589,
-  "queue_index": 1,
-  "updated_at": 1794416619,
-  "updated_at_readable": "2026-11-11 17:03:39",
-  "current_video_id": "Aetk5LVuE1M",
-  "current_title": "別人追AI，他卻投資「石頭」！拆解頂級操盤手 Chris Hohn 的投資方法",
-  "current_url": "https://www.youtube.com/watch?v=Aetk5LVuE1M",
-  "current_tab": "videos"
+  "queue_index": 589,
+  "updated_at": 1794438504,
+  "updated_at_readable": "2026-11-11 23:08:24"
 }
