@@ -1,15 +1,11 @@
 {
   "status": "finished",
-  "note": "one video processed, no more pending",
+  "note": "all items completed",
   "destination": "betterleaf",
   "channel_url": "https://www.youtube.com/@betterleaf",
   "include_members": false,
   "queue_total": 590,
-  "queue_index": 1,
-  "updated_at": 1795023731,
-  "updated_at_readable": "2026-11-18 17:42:11",
-  "current_video_id": "7njfnE-VlC4",
-  "current_title": "下一波 AI 投資看什麼？四大科技巨頭其實早已透露了線索！",
-  "current_url": "https://www.youtube.com/watch?v=7njfnE-VlC4",
-  "current_tab": "videos"
+  "queue_index": 590,
+  "updated_at": 1795075699,
+  "updated_at_readable": "2026-11-19 08:08:19"
 }
